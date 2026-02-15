@@ -4,4 +4,4 @@ This map was digitized from the publicly available Paratus Namibia network map a
 
 -- Steve Song, November 2025
 
-![Paratus Namibia](https://github.com/stevesong/OFDS-datasets/blob/main/Namibia/Paratus/ParatusNamibia_CoverageMap-1088x1536.webp?raw=true)
+![Paratus Namibia](https://github.com/Open-Telecoms-Data/OFDS-public-data/blob/main/Namibia/Paratus/ParatusNamibia_CoverageMap-1088x1536.webp?raw=true)
