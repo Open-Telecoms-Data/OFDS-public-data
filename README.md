@@ -1,6 +1,6 @@
 # Open Fibre Data Standard (OFDS) Public Data
 
-A collection of fibre optic network data published in the [Open Fibre Data Standard](https://standard.ofds.info/) format. These datasets are digitized from publicly available network maps and provide structured, machine-readable representations of terrestrial fibre infrastructure.
+A collection of fibre optic network data published in the [Open Fibre Data Standard](https://standard.ofds.info/) format. These datasets are digitized from publicly available network maps and provide structured, machine-readable representations of terrestrial fibre infrastructure.  Datasets here are compliant with [version 0.4](https://standard.ofds.info/en/0.4/) of the Open Fibre Data Standard.
 
 ## About OFDS
 
