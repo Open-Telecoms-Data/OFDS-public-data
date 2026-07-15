@@ -24,6 +24,20 @@ These maps are digitized from publicly available sources and are **approximation
 - [OFDS Schema](https://github.com/Open-Telecoms-Data/open-fibre-data-standard)
 - [How to Publish OFDS Data](https://standard.ofds.info/en/latest/guidance/publication.html)
 
+## Workflow
+
+The `generate-pmtiles.yml` GitHub Action workflow automatically generates a PMTiles file containing fibre network data organized by operator. It processes GeoJSON files from this repository's country/operator directory structure, combining both nodes and spans for each operator into consolidated artifacts.
+
+The workflow follows a predictable pattern: countries are represented by top-level directories, with each country containing subdirectories for different operators. For each operator, the workflow locates files containing "nodes" and "spans" in their filenames and assigns them to a layer named using the `{country}_{operator}` convention. The workflow then uses [Tippecanoe](https://github.com/felt/tippecanoe) to generate PMTiles with appropriate zoom levels and density settings, uploads the results to Amazon S3, and invalidates the CloudFront cache.
+
+Outputs include:
+
+- `ofds_spans_by_layer.pmtiles` — spans organized as one vector layer per operator
+- `ofds_nodes_combined.geojson` / `ofds_nodes_combined.pmtiles` — all nodes combined
+- `pmtiles_metadata.json` — build metadata
+
+These artifacts power the interactive map at [ofds-demo.opentelecomdata.org](https://ofds-demo.opentelecomdata.org).
+
 ## Contributing
 
 Contributions and corrections are welcome. Please open an issue or pull request on the repository.

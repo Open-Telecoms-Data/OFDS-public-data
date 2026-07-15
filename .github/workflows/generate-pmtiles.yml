@@ -1,0 +1,215 @@
+name: Generate and Upload PMTiles to S3
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**/*.geojson'
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Install Tippecanoe
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential libsqlite3-dev zlib1g-dev
+          git clone https://github.com/felt/tippecanoe.git
+          cd tippecanoe
+          make -j
+          sudo make install
+      
+      - name: Generate Spans Layers Per Operator
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_REF_NAME: ${{ github.ref_name }}
+        run: |
+          # Create an array to store tippecanoe arguments for spans
+          tippecanoe_spans_args=("-o" "ofds_spans_by_layer.pmtiles" "-Z0" "-z16" "--drop-densest-as-needed" "--quiet")
+          
+          # Create a file to collect all nodes files
+          nodes_file_list="nodes_file_list.txt"
+          touch $nodes_file_list
+          
+          # Process each country directory
+          for country in $(find . -mindepth 1 -maxdepth 1 -type d -not -path "*/\.*" -not -path "*/tippecanoe" | sort); do
+            countryName=$(basename "$country")
+            
+            # Process each operator directory under this country
+            for operator in $(find "$country" -mindepth 1 -maxdepth 1 -type d | sort); do
+              operatorName=$(basename "$operator")
+              
+              # Create layer name from country and operator
+              layerName="${countryName}_${operatorName}"
+              
+              # Find the spans files
+              spansFile=$(find "$operator" -name "*spans*.geojson" | head -n 1)
+              
+              # Find the nodes files and add to our list
+              nodesFile=$(find "$operator" -name "*nodes*.geojson" | head -n 1)
+              if [ -n "$nodesFile" ]; then
+                echo "$nodesFile" >> $nodes_file_list
+                echo "Found nodes file: $nodesFile"
+              fi
+              
+              # If spans file exists, create a layer
+              if [ -n "$spansFile" ]; then
+                echo "Spans Layer: $layerName"
+                echo "  Spans: $spansFile"
+                
+                # Flat properties for map consumers (popups, labels): OFDS network name, repo operator folder, GitHub tree URL
+                enrichedFile=$(mktemp /tmp/ofds_spans_enriched_XXXXXX.geojson)
+                githubSource="https://github.com/${GITHUB_REPOSITORY}/tree/${GITHUB_REF_NAME}/${countryName}/${operatorName}"
+                jq --arg op "$operatorName" \
+                   --arg gh "$githubSource" \
+                   '.features |= map(
+                      .properties |= . + {
+                        network_name: (.network.name // ""),
+                        operator: $op,
+                        github_source: $gh
+                      }
+                    )' "$spansFile" > "$enrichedFile"
+                
+                # Add layer argument for enriched spans file
+                tippecanoe_spans_args+=("-L" "${layerName}:${enrichedFile}")
+                
+                # Save layer info for metadata
+                echo "$layerName" >> spans_layers_list.txt
+              fi
+            done
+          done
+          
+          # Count spans layers
+          spansLayerCount=0
+          if [ -f spans_layers_list.txt ]; then
+            spansLayerCount=$(wc -l < spans_layers_list.txt)
+          fi
+          echo "Found $spansLayerCount operator spans layers"
+          
+          # Run tippecanoe for spans if we have any layers
+          if [ "$spansLayerCount" -gt 0 ]; then
+            echo "Creating Spans PMTiles with tippecanoe arguments: ${tippecanoe_spans_args[@]}"
+            tippecanoe "${tippecanoe_spans_args[@]}"
+            
+            if [ $? -eq 0 ]; then
+              echo "Successfully created Spans PMTiles file"
+            else
+              echo "Error creating Spans PMTiles file"
+              exit 1
+            fi
+          else
+            echo "No Spans GeoJSON files found for processing"
+          fi
+      
+      - name: Generate Combined Nodes GeoJSON
+        run: |
+          # Read the list of node files and combine them into a single GeoJSON
+          if [ -f nodes_file_list.txt ] && [ -s nodes_file_list.txt ]; then
+            echo "Creating combined nodes GeoJSON from $(wc -l < nodes_file_list.txt) files"
+            
+            # Simple approach - just combine all features
+            cat nodes_file_list.txt | xargs jq -s 'reduce .[] as $item ({"type": "FeatureCollection", "features": []}; .features += $item.features)' > ofds_nodes_combined.geojson
+            
+            echo "Combined nodes GeoJSON created: ofds_nodes_combined.geojson"
+            echo "Total features: $(jq '.features | length' ofds_nodes_combined.geojson)"
+          else
+            echo "No nodes files found to combine"
+          fi
+
+      - name: Generate Combined Nodes PMTiles Layer
+        run: |
+          # Check if we have any nodes files
+          if [ -f nodes_file_list.txt ] && [ -s nodes_file_list.txt ]; then
+            # Create combined nodes file from list
+            echo "Creating combined nodes PMTiles from $(wc -l < nodes_file_list.txt) files"
+            
+            # Generate tippecanoe command for nodes
+            # Using -Z0 -z16 to ensure nodes are visible at any resolution
+            tippecanoe -o ofds_nodes_combined.pmtiles -Z0 -z16 -l nodes --read-parallel --quiet $(cat nodes_file_list.txt)
+            
+            if [ $? -eq 0 ]; then
+              echo "Successfully created combined Nodes PMTiles file"
+            else
+              echo "Error creating combined Nodes PMTiles file"
+              exit 1
+            fi
+          else
+            echo "No Nodes GeoJSON files found for processing"
+          fi
+      
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_REGION }}
+      
+      - name: Upload PMTile and GeoJSON to S3
+        run: |
+          # Upload the PMTiles files to S3 if they exist
+          if [ -f ofds_spans_by_layer.pmtiles ]; then
+            aws s3 cp ofds_spans_by_layer.pmtiles s3://${{ secrets.S3_BUCKET_NAME }}/ofds_spans_by_layer.pmtiles --content-type 'application/octet-stream' --cache-control 'max-age=86400'
+            # Upload the spans layer list for reference
+            if [ -f spans_layers_list.txt ]; then
+              aws s3 cp spans_layers_list.txt s3://${{ secrets.S3_BUCKET_NAME }}/ofds_spans_layers_list.txt --content-type 'text/plain' --cache-control 'max-age=86400'
+            fi
+          fi
+          
+          if [ -f ofds_nodes_combined.pmtiles ]; then
+            aws s3 cp ofds_nodes_combined.pmtiles s3://${{ secrets.S3_BUCKET_NAME }}/ofds_nodes_combined.pmtiles --content-type 'application/octet-stream' --cache-control 'max-age=86400'
+          fi
+          
+          if [ -f ofds_nodes_combined.geojson ]; then
+            aws s3 cp ofds_nodes_combined.geojson s3://${{ secrets.S3_BUCKET_NAME }}/ofds_nodes_combined.geojson --content-type 'application/geo+json'  --cache-control 'max-age=86400'
+          else
+            echo "No combined nodes GeoJSON file to upload"
+          fi
+
+          # Create metadata JSON
+          spansLayerCount=0
+          if [ -f spans_layers_list.txt ]; then
+            spansLayerCount=$(wc -l < spans_layers_list.txt)
+          fi
+          
+          nodesCount=0
+          if [ -f nodes_file_list.txt ]; then
+            nodesCount=$(wc -l < nodes_file_list.txt)
+          fi
+          
+          cat > pmtiles_metadata.json << EOF
+          {
+            "updated_at": "$(date -u +"%Y-%m-%dT%H:%M:%SZ")",
+            "spans_layer_count": $spansLayerCount,
+            "nodes_source_count": $nodesCount,
+            "files": {
+              "spans_layered": "https://${{ secrets.S3_BUCKET_NAME }}.s3.${{ secrets.AWS_REGION }}.amazonaws.com/ofds_spans_by_layer.pmtiles",
+              "nodes_combined": "https://${{ secrets.S3_BUCKET_NAME }}.s3.${{ secrets.AWS_REGION }}.amazonaws.com/ofds_nodes_combined.pmtiles",
+              "spans_layer_list": "https://${{ secrets.S3_BUCKET_NAME }}.s3.${{ secrets.AWS_REGION }}.amazonaws.com/ofds_spans_layers_list.txt"
+            }
+          }
+          EOF
+          
+          aws s3 cp pmtiles_metadata.json s3://${{ secrets.S3_BUCKET_NAME }}/pmtiles_metadata.json --content-type 'application/json' --cache-control 'max-age=300'
+      
+      # CloudFront serves a cached copy of S3 objects until TTL or invalidation. Set repository secret
+      # CLOUDFRONT_DISTRIBUTION_ID (e.g. E1234567890ABC) and grant the IAM user cloudfront:CreateInvalidation.
+      - name: Invalidate CloudFront cache
+        env:
+          CLOUDFRONT_DISTRIBUTION_ID: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }}
+        run: |
+          if [ -z "$CLOUDFRONT_DISTRIBUTION_ID" ]; then
+            echo "CLOUDFRONT_DISTRIBUTION_ID not set; skipping CloudFront invalidation."
+            exit 0
+          fi
+          aws cloudfront create-invalidation \
+            --distribution-id "$CLOUDFRONT_DISTRIBUTION_ID" \
+            --paths \
+              "/ofds_spans_by_layer.pmtiles" \
+              "/ofds_nodes_combined.pmtiles" \
+              "/ofds_nodes_combined.geojson" \
+              "/ofds_spans_layers_list.txt" \
+              "/pmtiles_metadata.json"
