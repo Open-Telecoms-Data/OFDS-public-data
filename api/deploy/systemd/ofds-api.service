@@ -1,0 +1,20 @@
+[Unit]
+Description=OFDS Demonstration API
+After=network.target
+
+[Service]
+Type=simple
+User=www-data
+Group=www-data
+# Adjust WorkingDirectory to your clone of OFDS-public-data on the server.
+WorkingDirectory=/opt/OFDS-public-data
+Environment=DATA_ROOT=/opt/OFDS-public-data
+Environment=UVICORN_HOST=127.0.0.1
+Environment=UVICORN_PORT=8742
+# Prefer a dedicated venv for the service:
+ExecStart=/opt/OFDS-public-data/.venv/bin/uvicorn api.main:app --host 127.0.0.1 --port 8742
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
