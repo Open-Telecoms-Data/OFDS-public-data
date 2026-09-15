@@ -38,6 +38,12 @@ Outputs include:
 
 These artifacts power the interactive map at [ofds-demo.opentelecomdata.org](https://ofds-demo.opentelecomdata.org).
 
+## API
+
+A demonstration HTTP API in [`api/`](api/) catalogs networks and serves OFDS JSON (not GeoJSON). See [`api/README.md`](api/README.md) for local development and nginx deployment.
+
+Once deployed behind nginx, the base path is `/api/v1/` (for example `GET /api/v1/catalog` and `GET /api/v1/networks/{country}/{operator}/ofds-json`).
+
 ## Contributing
 
 Contributions and corrections are welcome. Please open an issue or pull request on the repository.
