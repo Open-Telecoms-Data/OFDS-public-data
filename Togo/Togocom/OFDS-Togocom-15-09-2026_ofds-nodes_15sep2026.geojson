@@ -1,0 +1,689 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.1305563472813924,
+                    7.5289676694838015
+                ]
+            },
+            "properties": {
+                "name": "Atakpame",
+                "id": "9e45f374-c648-465e-8551-be8b9ca0c66b",
+                "networkProviders": [
+                    {
+                        "id": "7d12eb6e-73dd-4d46-82df-4a84e7d22dbb",
+                        "name": "Yas"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "e3efec38-70c3-488b-bdda-593bd8527a08",
+                    "name": "Togocom"
+                },
+                "network": {
+                    "id": "74cb3dbf-03be-4c46-8a28-674a29c46ffd",
+                    "name": "Togocom",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.1750155771205861,
+                    6.948868148338056
+                ]
+            },
+            "properties": {
+                "name": "Notse",
+                "id": "543af57b-b8fc-47f0-ae8b-a7d1053a4290",
+                "networkProviders": [
+                    {
+                        "id": "7d12eb6e-73dd-4d46-82df-4a84e7d22dbb",
+                        "name": "Yas"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "e3efec38-70c3-488b-bdda-593bd8527a08",
+                    "name": "Togocom"
+                },
+                "network": {
+                    "id": "74cb3dbf-03be-4c46-8a28-674a29c46ffd",
+                    "name": "Togocom",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.2208645866489718,
+                    6.13048995703151
+                ]
+            },
+            "properties": {
+                "name": "Lome",
+                "id": "0052eed4-c118-4b01-976e-d03c50e42cad",
+                "networkProviders": [
+                    {
+                        "id": "7d12eb6e-73dd-4d46-82df-4a84e7d22dbb",
+                        "name": "Yas"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "e3efec38-70c3-488b-bdda-593bd8527a08",
+                    "name": "Togocom"
+                },
+                "network": {
+                    "id": "74cb3dbf-03be-4c46-8a28-674a29c46ffd",
+                    "name": "Togocom",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.637176657599335,
+                    6.902066137397052
+                ]
+            },
+            "properties": {
+                "name": "Kpalime",
+                "id": "80c2eed6-1ddd-4a10-b473-9b73ff378582",
+                "networkProviders": [
+                    {
+                        "id": "7d12eb6e-73dd-4d46-82df-4a84e7d22dbb",
+                        "name": "Yas"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "e3efec38-70c3-488b-bdda-593bd8527a08",
+                    "name": "Togocom"
+                },
+                "network": {
+                    "id": "74cb3dbf-03be-4c46-8a28-674a29c46ffd",
+                    "name": "Togocom",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.215434245025484,
+                    6.432160491183421
+                ]
+            },
+            "properties": {
+                "name": "Tsevie",
+                "id": "752cc1fa-a391-4e4f-b87a-3b62b4b28e1b",
+                "networkProviders": [
+                    {
+                        "id": "7d12eb6e-73dd-4d46-82df-4a84e7d22dbb",
+                        "name": "Yas"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "e3efec38-70c3-488b-bdda-593bd8527a08",
+                    "name": "Togocom"
+                },
+                "network": {
+                    "id": "74cb3dbf-03be-4c46-8a28-674a29c46ffd",
+                    "name": "Togocom",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.586944746497492,
+                    6.227646873442278
+                ]
+            },
+            "properties": {
+                "name": "Aneho",
+                "id": "2b32401b-e3ac-42ee-83ff-7f0b4c0209a5",
+                "networkProviders": [
+                    {
+                        "id": "7d12eb6e-73dd-4d46-82df-4a84e7d22dbb",
+                        "name": "Yas"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "e3efec38-70c3-488b-bdda-593bd8527a08",
+                    "name": "Togocom"
+                },
+                "network": {
+                    "id": "74cb3dbf-03be-4c46-8a28-674a29c46ffd",
+                    "name": "Togocom",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.144564473048524,
+                    8.977838847379441
+                ]
+            },
+            "properties": {
+                "name": "Sokode",
+                "id": "019148e0-b9d2-4e26-8ab2-4f8fb73ac343",
+                "networkProviders": [
+                    {
+                        "id": "7d12eb6e-73dd-4d46-82df-4a84e7d22dbb",
+                        "name": "Yas"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "e3efec38-70c3-488b-bdda-593bd8527a08",
+                    "name": "Togocom"
+                },
+                "network": {
+                    "id": "74cb3dbf-03be-4c46-8a28-674a29c46ffd",
+                    "name": "Togocom",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7778139826974195,
+                    9.26128073199142
+                ]
+            },
+            "properties": {
+                "name": "Bassar",
+                "id": "6d276016-fda8-4fde-aac1-d47cb8889fe3",
+                "networkProviders": [
+                    {
+                        "id": "7d12eb6e-73dd-4d46-82df-4a84e7d22dbb",
+                        "name": "Yas"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "e3efec38-70c3-488b-bdda-593bd8527a08",
+                    "name": "Togocom"
+                },
+                "network": {
+                    "id": "74cb3dbf-03be-4c46-8a28-674a29c46ffd",
+                    "name": "Togocom",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8118649393839528,
+                    9.457434688435978
+                ]
+            },
+            "properties": {
+                "name": "Kabou",
+                "id": "d2c31a52-4cab-42bb-bb10-e11c201083d7",
+                "networkProviders": [
+                    {
+                        "id": "7d12eb6e-73dd-4d46-82df-4a84e7d22dbb",
+                        "name": "Yas"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "e3efec38-70c3-488b-bdda-593bd8527a08",
+                    "name": "Togocom"
+                },
+                "network": {
+                    "id": "74cb3dbf-03be-4c46-8a28-674a29c46ffd",
+                    "name": "Togocom",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.1976697295119025,
+                    9.548859188575051
+                ]
+            },
+            "properties": {
+                "name": "Kara",
+                "id": "4067d296-742b-4c53-8c8e-e5c922dacf6d",
+                "networkProviders": [
+                    {
+                        "id": "7d12eb6e-73dd-4d46-82df-4a84e7d22dbb",
+                        "name": "Yas"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "e3efec38-70c3-488b-bdda-593bd8527a08",
+                    "name": "Togocom"
+                },
+                "network": {
+                    "id": "74cb3dbf-03be-4c46-8a28-674a29c46ffd",
+                    "name": "Togocom",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.1385184660928067,
+                    9.67313063178972
+                ]
+            },
+            "properties": {
+                "name": "Pya",
+                "id": "db74449c-c45e-428d-8399-2ffbbc7ea017",
+                "networkProviders": [
+                    {
+                        "id": "7d12eb6e-73dd-4d46-82df-4a84e7d22dbb",
+                        "name": "Yas"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "e3efec38-70c3-488b-bdda-593bd8527a08",
+                    "name": "Togocom"
+                },
+                "network": {
+                    "id": "74cb3dbf-03be-4c46-8a28-674a29c46ffd",
+                    "name": "Togocom",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.045934557580854,
+                    9.95565651034124
+                ]
+            },
+            "properties": {
+                "name": "Kante",
+                "id": "47dab33e-2734-4403-92f1-97014a4ee9c5",
+                "networkProviders": [
+                    {
+                        "id": "7d12eb6e-73dd-4d46-82df-4a84e7d22dbb",
+                        "name": "Yas"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "e3efec38-70c3-488b-bdda-593bd8527a08",
+                    "name": "Togocom"
+                },
+                "network": {
+                    "id": "74cb3dbf-03be-4c46-8a28-674a29c46ffd",
+                    "name": "Togocom",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.4674901620283278,
+                    10.28876655508485
+                ]
+            },
+            "properties": {
+                "name": "Sadori",
+                "id": "b6234f69-6b74-4b32-a1f3-808d193961e1",
+                "networkProviders": [
+                    {
+                        "id": "7d12eb6e-73dd-4d46-82df-4a84e7d22dbb",
+                        "name": "Yas"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "e3efec38-70c3-488b-bdda-593bd8527a08",
+                    "name": "Togocom"
+                },
+                "network": {
+                    "id": "74cb3dbf-03be-4c46-8a28-674a29c46ffd",
+                    "name": "Togocom",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.475313254622356,
+                    10.35878288810986
+                ]
+            },
+            "properties": {
+                "name": "Mango",
+                "id": "e559c067-1ef0-47d7-8208-db77338e8c63",
+                "networkProviders": [
+                    {
+                        "id": "7d12eb6e-73dd-4d46-82df-4a84e7d22dbb",
+                        "name": "Yas"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "e3efec38-70c3-488b-bdda-593bd8527a08",
+                    "name": "Togocom"
+                },
+                "network": {
+                    "id": "74cb3dbf-03be-4c46-8a28-674a29c46ffd",
+                    "name": "Togocom",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.20735709972208688,
+                    10.658383669129268
+                ]
+            },
+            "properties": {
+                "name": "Tandjouare",
+                "id": "6b55c3d7-f660-4dd0-bdf1-4e9531b80f97",
+                "networkProviders": [
+                    {
+                        "id": "7d12eb6e-73dd-4d46-82df-4a84e7d22dbb",
+                        "name": "Yas"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "e3efec38-70c3-488b-bdda-593bd8527a08",
+                    "name": "Togocom"
+                },
+                "network": {
+                    "id": "74cb3dbf-03be-4c46-8a28-674a29c46ffd",
+                    "name": "Togocom",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.2016166361169479,
+                    10.875933134989227
+                ]
+            },
+            "properties": {
+                "name": "Dapaong",
+                "id": "af77ec53-22ee-4734-b51c-76144392b4e6",
+                "networkProviders": [
+                    {
+                        "id": "7d12eb6e-73dd-4d46-82df-4a84e7d22dbb",
+                        "name": "Yas"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "e3efec38-70c3-488b-bdda-593bd8527a08",
+                    "name": "Togocom"
+                },
+                "network": {
+                    "id": "74cb3dbf-03be-4c46-8a28-674a29c46ffd",
+                    "name": "Togocom",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0219945859471582,
+                    11.10707688377897
+                ]
+            },
+            "properties": {
+                "name": "Cinkasse",
+                "id": "32505cc5-1b75-4cca-8f4f-25a484feb6d5",
+                "networkProviders": [
+                    {
+                        "id": "7d12eb6e-73dd-4d46-82df-4a84e7d22dbb",
+                        "name": "Yas"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "e3efec38-70c3-488b-bdda-593bd8527a08",
+                    "name": "Togocom"
+                },
+                "network": {
+                    "id": "74cb3dbf-03be-4c46-8a28-674a29c46ffd",
+                    "name": "Togocom",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.4554855153834152,
+                    10.01119095405808
+                ]
+            },
+            "properties": {
+                "name": "Nali",
+                "id": "2a713069-2a18-4234-ad51-50a5ee38cab7",
+                "networkProviders": [
+                    {
+                        "id": "7d12eb6e-73dd-4d46-82df-4a84e7d22dbb",
+                        "name": "Yas"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "e3efec38-70c3-488b-bdda-593bd8527a08",
+                    "name": "Togocom"
+                },
+                "network": {
+                    "id": "74cb3dbf-03be-4c46-8a28-674a29c46ffd",
+                    "name": "Togocom",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.553581822137094,
+                    9.89624117342825
+                ]
+            },
+            "properties": {
+                "name": "Katchamba",
+                "id": "72694bfb-2c4c-43f9-8428-a0bb48a41158",
+                "networkProviders": [
+                    {
+                        "id": "7d12eb6e-73dd-4d46-82df-4a84e7d22dbb",
+                        "name": "Yas"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "e3efec38-70c3-488b-bdda-593bd8527a08",
+                    "name": "Togocom"
+                },
+                "network": {
+                    "id": "74cb3dbf-03be-4c46-8a28-674a29c46ffd",
+                    "name": "Togocom",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        }
+    ]
+}
