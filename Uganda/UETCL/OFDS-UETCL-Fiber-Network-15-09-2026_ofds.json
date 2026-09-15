@@ -1,0 +1,2056 @@
+{
+    "networks": [
+        {
+            "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+            "name": "UETCL Fiber Network",
+            "links": [
+                {
+                    "rel": "describedby",
+                    "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                }
+            ],
+            "nodes": [
+                {
+                    "name": "Mbarara",
+                    "id": "aac56450-55a2-40e8-800e-68d9e052f77a",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.60516491520749,
+                            -0.5975894646298988
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Masaka",
+                    "id": "a16b256a-3b49-4a9a-9339-f0b7546ccabb",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            31.737214539709935,
+                            -0.3410095772307529
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Hoima",
+                    "id": "6dc9582a-c405-45cd-9627-8b33097d21b9",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            31.37183584355115,
+                            1.42073230464825
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Lyanda",
+                    "id": "dcf73419-a0c5-4b6d-a8a5-2b2005af07e9",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.60284211895752,
+                            0.9714162405394103
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Mirama",
+                    "id": "2b630105-5294-4460-b90f-687ba7323182",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.45046316489904,
+                            -0.9999973821372444
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Nkenda",
+                    "id": "22094463-4bb9-42f4-8996-c98d47730b12",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.176653693035902,
+                            0.2921972575855171
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Kafu",
+                    "id": "41eef31b-3042-4652-9b39-87f6b3a8e427",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            32.034130315668605,
+                            1.5458113556062187
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Karuma",
+                    "id": "88ae2203-f9ba-4578-8223-3669f148620d",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            32.26625583075178,
+                            2.2432233168080526
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Olwiyo",
+                    "id": "31b2cc45-f683-4baa-96d7-b4700e6df5db",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            31.954305239908564,
+                            2.664886460779908
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Ishaka",
+                    "id": "27608431-3e48-40e4-a389-2305f3499c4c",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.138934012370445,
+                            -0.545045837819733
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Fort Portal",
+                    "id": "f4b061eb-d3fc-4b5a-91c7-f747217ee8d3",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.28144332667878,
+                            0.6521613319119026
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Gulu",
+                    "id": "185c9edb-6ba5-4bbb-b2a1-5827d9965f2c",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            32.2753443220231,
+                            2.8183914714083813
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Agago - Achwa",
+                    "id": "4816f48b-ad23-483e-9d42-0f99d502c7b9",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            32.516375865596046,
+                            3.191566275582572
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Lira",
+                    "id": "cd4dd0d7-ddb2-49c2-aa1f-09dd3ba68aae",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            32.89080193352415,
+                            2.2484316862608282
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Kole",
+                    "id": "a56a05b5-c643-41ee-9e67-4e721dd173bf",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            32.760220413846085,
+                            2.30754201226737
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Nebbi",
+                    "id": "3081aab0-0f1d-47ce-bb05-cdf335eb8f61",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            31.27866485790732,
+                            2.72356890209399
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Soroti",
+                    "id": "68c99a1a-f989-4377-a63b-7528281a3854",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            33.67892236823422,
+                            1.676804224977081
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Moroto",
+                    "id": "a8201348-d1a9-4a37-8cca-1de321e8aa64",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            34.64774130967708,
+                            2.5259276533476527
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Mutundwe",
+                    "id": "4b3fd576-4dcc-45ae-9764-49c141199304",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            32.53355491407921,
+                            0.2915901759967652
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Entebbe",
+                    "id": "544d4727-9d74-41cf-8e9f-0d6d1c46faff",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            32.47287139623139,
+                            0.07186995068190029
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Naumgoona",
+                    "id": "2fa80912-1cd8-4d06-b46e-299427949c5e",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            32.5411413824092,
+                            0.3379191641105652
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Namanve",
+                    "id": "db0b3b51-1aa3-4cf9-8067-de92616ef361",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            32.67580652815551,
+                            0.3819019483002616
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Kampala",
+                    "id": "d9b52b08-ea4d-4011-ab8c-b498c7acbe01",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            32.54064535488713,
+                            0.4141155185682267
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Nalubaale",
+                    "id": "0c9904f7-3da8-4eb2-ada1-a4b5268bcec9",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            33.18495118924104,
+                            0.4443837628713574
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Bujagali",
+                    "id": "8b7f3897-6386-4bc8-999c-29beee7abbc9",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            33.13849354820128,
+                            0.4987965814107088
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Isimba",
+                    "id": "7021efe8-ae4f-4278-b768-2f08d31d5548",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            33.03775847760651,
+                            0.770837366829061
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Tororo",
+                    "id": "2647f074-93a1-4f10-bbb9-d69cddd15122",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            34.117060636669756,
+                            0.6369962413799864
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Rwanda Border",
+                    "id": "878d7030-58c4-4b46-a9dc-57f32fed4ec2",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.45967602276573,
+                            -1.050908578349789
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Kawanda",
+                    "id": "0449e8ba-e244-4503-aad3-b5c7f8592803",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            32.31443355861424,
+                            0.4463986371783887
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Lugazi",
+                    "id": "28f5bbf4-910f-491b-8145-04d8924a442b",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            32.95061820277451,
+                            0.3826977328062283
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Kenya Border",
+                    "id": "86f00dd4-2ea4-4211-971b-c650324276b4",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            34.26359584825286,
+                            0.6366300793672742
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Kabale",
+                    "id": "d9d2ad60-5695-42ba-826a-53ee13170e23",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            29.9258974662169,
+                            -1.150009693623903
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "Arua",
+                    "id": "c4a984de-2d93-49d0-a2b6-8a503da97c80",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.91827240594397,
+                            3.039305684030063
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "fork",
+                    "id": "a48c3040-7a63-4914-9db9-d33a632dcabb",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            30.35480921595381,
+                            0.6395946828648991
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "name": "fork",
+                    "id": "f8f861ac-6fa7-4dd4-a9c1-c18f473c753d",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            32.7528110422369,
+                            2.255425916177444
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                }
+            ],
+            "spans": [
+                {
+                    "id": "b563e4ab-435b-4185-a91a-288c0c44bf77",
+                    "name": "Masaka - Mbarara",
+                    "start": "a16b256a-3b49-4a9a-9339-f0b7546ccabb",
+                    "end": "aac56450-55a2-40e8-800e-68d9e052f77a",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                31.737117110454317,
+                                -0.34103167830376624
+                            ],
+                            [
+                                30.60580561535475,
+                                -0.597660940184222
+                            ],
+                            [
+                                30.605264243921436,
+                                -0.5976005455933103
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "b3ea1691-ec00-4bad-a0ef-bd231f88bea4",
+                    "name": "Mbarara - Ishaka",
+                    "start": "aac56450-55a2-40e8-800e-68d9e052f77a",
+                    "end": "27608431-3e48-40e4-a389-2305f3499c4c",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.60506558649354,
+                                -0.5975783836664874
+                            ],
+                            [
+                                30.13902842013459,
+                                -0.5455879713916646
+                            ],
+                            [
+                                30.138951153055906,
+                                -0.5451442676588262
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "5410e8a3-bfba-4217-a624-69d5b74821ef",
+                    "name": "Ishaka - Nkenda",
+                    "start": "27608431-3e48-40e4-a389-2305f3499c4c",
+                    "end": "22094463-4bb9-42f4-8996-c98d47730b12",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.138916871684984,
+                                -0.5449474079806398
+                            ],
+                            [
+                                30.07247111324056,
+                                -0.1633847611823772
+                            ],
+                            [
+                                30.17627411572818,
+                                0.2914570942875335
+                            ],
+                            [
+                                30.176608092279064,
+                                0.2921083376056218
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "e457b661-7941-4e8c-a387-227b44ce7ad6",
+                    "name": "Lyanda - Hoima",
+                    "start": "dcf73419-a0c5-4b6d-a8a5-2b2005af07e9",
+                    "end": "6dc9582a-c405-45cd-9627-8b33097d21b9",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.602928362220037,
+                                0.9714666316961023
+                            ],
+                            [
+                                31.37174960028863,
+                                1.4206819134915587
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "586f4338-2be6-48ef-9522-fc36b3b1df85",
+                    "name": "Masaka - Kawanda",
+                    "start": "a16b256a-3b49-4a9a-9339-f0b7546ccabb",
+                    "end": "0449e8ba-e244-4503-aad3-b5c7f8592803",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                31.737214539709935,
+                                -0.3410095772307529
+                            ],
+                            [
+                                31.73896866791453,
+                                -0.3400064450047021
+                            ],
+                            [
+                                31.73906538562667,
+                                -0.3399102450698027
+                            ],
+                            [
+                                31.74759420322291,
+                                -0.3296906479719653
+                            ],
+                            [
+                                31.74788568795424,
+                                -0.3293040955860951
+                            ],
+                            [
+                                31.74827432485655,
+                                -0.3289174053145611
+                            ],
+                            [
+                                31.84722755836839,
+                                -0.1944580144518292
+                            ],
+                            [
+                                31.97489590863727,
+                                -0.03672304941025075
+                            ],
+                            [
+                                32.27573862744198,
+                                0.08744735571089896
+                            ],
+                            [
+                                32.29585314620824,
+                                0.4468004383229318
+                            ],
+                            [
+                                32.314333664738236,
+                                0.44640079738198557
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "2479ba05-86d1-4d0f-9ac4-b1fbb515ed44",
+                    "name": "Kawanda - Kafu",
+                    "start": "0449e8ba-e244-4503-aad3-b5c7f8592803",
+                    "end": "41eef31b-3042-4652-9b39-87f6b3a8e427",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                32.31443486774947,
+                                0.44649857286469913
+                            ],
+                            [
+                                32.31403421968204,
+                                0.5584159815555592
+                            ],
+                            [
+                                32.31236115947376,
+                                0.5625937963536276
+                            ],
+                            [
+                                32.034157524164925,
+                                1.5457152056935406
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "1eea3300-8e0b-4281-9097-a99713b8ea10",
+                    "name": "Olwiyo - Nebbi",
+                    "start": "31b2cc45-f683-4baa-96d7-b4700e6df5db",
+                    "end": "3081aab0-0f1d-47ce-bb05-cdf335eb8f61",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                31.95420566478471,
+                                2.6648951093324778
+                            ],
+                            [
+                                31.278764433031174,
+                                2.7235602535414203
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "27a3ee18-9409-4290-98ad-e70060e06823",
+                    "name": "Nebbi - Arua",
+                    "start": "3081aab0-0f1d-47ce-bb05-cdf335eb8f61",
+                    "end": "c4a984de-2d93-49d0-a2b6-8a503da97c80",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                31.278589720859983,
+                                2.72363472902627
+                            ],
+                            [
+                                30.918347542991306,
+                                3.0392398570977828
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "c34635c3-3cef-4438-91a8-352212b6ab7c",
+                    "name": "Olwiyo - Gulu",
+                    "start": "31b2cc45-f683-4baa-96d7-b4700e6df5db",
+                    "end": "185c9edb-6ba5-4bbb-b2a1-5827d9965f2c",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                31.954305239908564,
+                                2.664886460779908
+                            ],
+                            [
+                                32.27525399341224,
+                                2.81834884895148
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "75d08a5a-a1da-4c64-9002-7d4de6169425",
+                    "name": "Gulu - Agago - Achwa",
+                    "start": "185c9edb-6ba5-4bbb-b2a1-5827d9965f2c",
+                    "end": "4816f48b-ad23-483e-9d42-0f99d502c7b9",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                32.27543465063396,
+                                2.8184340938652834
+                            ],
+                            [
+                                32.27558791918057,
+                                2.818506415159284
+                            ],
+                            [
+                                32.51632167179855,
+                                3.1914823115352378
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "8f02b5bd-8662-4c66-b948-5d4e7fdb83c7",
+                    "name": "Gulu - Kole",
+                    "start": "185c9edb-6ba5-4bbb-b2a1-5827d9965f2c",
+                    "end": "a56a05b5-c643-41ee-9e67-4e721dd173bf",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                32.2753443220231,
+                                2.8183914714083813
+                            ],
+                            [
+                                32.76102008446659,
+                                2.313102463496109
+                            ],
+                            [
+                                32.76023463178334,
+                                2.307640875655204
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "0c971e77-b4e0-4720-9f9c-7a739b9f7e35",
+                    "name": "Kenya Border - Tororo",
+                    "start": "86f00dd4-2ea4-4211-971b-c650324276b4",
+                    "end": "2647f074-93a1-4f10-bbb9-d69cddd15122",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                34.263495860527165,
+                                0.6366303292164844
+                            ],
+                            [
+                                34.11716062439545,
+                                0.6369959915307762
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "c1385c15-3063-47e6-a41a-857cf9babe3f",
+                    "name": "Tororo - Nalubaale",
+                    "start": "2647f074-93a1-4f10-bbb9-d69cddd15122",
+                    "end": "0c9904f7-3da8-4eb2-ada1-a4b5268bcec9",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                34.11696064894406,
+                                0.6369964912291968
+                            ],
+                            [
+                                34.11651884032604,
+                                0.6369975952200468
+                            ],
+                            [
+                                33.185049084393874,
+                                0.4444040039784133
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "02b63737-04fb-4c52-8f16-b893c666f8b0",
+                    "name": "Isimba - Kawanda",
+                    "start": "7021efe8-ae4f-4278-b768-2f08d31d5548",
+                    "end": "0449e8ba-e244-4503-aad3-b5c7f8592803",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                33.03775847760651,
+                                0.770837366829061
+                            ],
+                            [
+                                33.00725424808002,
+                                0.6099598205578922
+                            ],
+                            [
+                                32.39423184467968,
+                                0.5409276596715255
+                            ],
+                            [
+                                32.31443355861424,
+                                0.4463986371783887
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "846e0266-aec6-4b7a-bfcc-d2c91782eb12",
+                    "name": "Kampala - Naumgoona",
+                    "start": "d9b52b08-ea4d-4011-ab8c-b498c7acbe01",
+                    "end": "2fa80912-1cd8-4d06-b46e-299427949c5e",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                32.54064602695726,
+                                0.41401555158491504
+                            ],
+                            [
+                                32.54115668172881,
+                                0.3380582745157893
+                            ],
+                            [
+                                32.54115230906795,
+                                0.3380185157134478
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "a30e08a7-4479-4263-8248-d397ad5aefe3",
+                    "name": "Bujagali - Lugazi",
+                    "start": "8b7f3897-6386-4bc8-999c-29beee7abbc9",
+                    "end": "28f5bbf4-910f-491b-8145-04d8924a442b",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                33.13840857484355,
+                                0.49874407154587463
+                            ],
+                            [
+                                32.95070317613224,
+                                0.38275024267106394
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "516bdca7-b03c-421d-b1b0-d9aedc387883",
+                    "name": "Mutundwe - Entebbe",
+                    "start": "4b3fd576-4dcc-45ae-9764-49c141199304",
+                    "end": "544d4727-9d74-41cf-8e9f-0d6d1c46faff",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                32.533528316606215,
+                                0.29149387303071245
+                            ],
+                            [
+                                32.472897993704386,
+                                0.07196625364795302
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "1225b577-c8d5-455d-b4dd-3e594fc7e6a3",
+                    "name": "Kabale - Mirama",
+                    "start": "d9d2ad60-5695-42ba-826a-53ee13170e23",
+                    "end": "2b630105-5294-4460-b90f-687ba7323182",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                29.9259875238745,
+                                -1.149966498284474
+                            ],
+                            [
+                                30.26158657094326,
+                                -0.988999456320082
+                            ],
+                            [
+                                30.45036345013942,
+                                -0.9999915759359242
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "f6fed28d-34be-49fc-8463-10e997d0c466",
+                    "name": "Soroti - Tororo",
+                    "start": "68c99a1a-f989-4377-a63b-7528281a3854",
+                    "end": "2647f074-93a1-4f10-bbb9-d69cddd15122",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                33.678984629617375,
+                                1.676726050308003
+                            ],
+                            [
+                                34.12857098005239,
+                                1.112230653911763
+                            ],
+                            [
+                                34.117060636669756,
+                                0.6369962413799864
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "208adf85-86e3-427a-86dd-8e76f0921bf4",
+                    "name": "fork - Fort Portal",
+                    "start": "a48c3040-7a63-4914-9db9-d33a632dcabb",
+                    "end": "f4b061eb-d3fc-4b5a-91c7-f747217ee8d3",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.35480921595381,
+                                0.6395946828648991
+                            ],
+                            [
+                                30.35388751550875,
+                                0.6400673577116739
+                            ],
+                            [
+                                30.28154185909107,
+                                0.6521448827187872
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "373df903-1ec1-4c0b-a63e-7ea151c97608",
+                    "name": "Nkenda - fork",
+                    "start": "22094463-4bb9-42f4-8996-c98d47730b12",
+                    "end": "a48c3040-7a63-4914-9db9-d33a632dcabb",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.17669929379274,
+                                0.292286177565413
+                            ],
+                            [
+                                30.35480921595381,
+                                0.6395946828648991
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "7c2fd10a-4850-40a8-9de1-d0db22b5e5da",
+                    "name": "fork - Lyanda",
+                    "start": "a48c3040-7a63-4914-9db9-d33a632dcabb",
+                    "end": "dcf73419-a0c5-4b6d-a8a5-2b2005af07e9",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.35480921595381,
+                                0.6395946828648991
+                            ],
+                            [
+                                30.35498030818418,
+                                0.6399283071014213
+                            ],
+                            [
+                                30.60267479138627,
+                                0.971318472555973
+                            ],
+                            [
+                                30.602755875695,
+                                0.9713658493827193
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "4fc7bd3d-081a-409c-b5e4-9750632aedad",
+                    "name": "Kole - fork",
+                    "start": "a56a05b5-c643-41ee-9e67-4e721dd173bf",
+                    "end": "f8f861ac-6fa7-4dd4-a9c1-c18f473c753d",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                32.76020619590883,
+                                2.307443148879536
+                            ],
+                            [
+                                32.75279832354299,
+                                2.255933049667531
+                            ],
+                            [
+                                32.7528110422369,
+                                2.255425916177444
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "537a9198-f3c3-4e06-b2f0-bedb1bfddeba",
+                    "name": "Karuma - fork",
+                    "start": "88ae2203-f9ba-4578-8223-3669f148620d",
+                    "end": "f8f861ac-6fa7-4dd4-a9c1-c18f473c753d",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                32.26635570769533,
+                                2.2432258216796472
+                            ],
+                            [
+                                32.7528110422369,
+                                2.255425916177444
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "9ee27b48-9f02-40a2-89fe-ba7cd27f423b",
+                    "name": "fork - Lira",
+                    "start": "f8f861ac-6fa7-4dd4-a9c1-c18f473c753d",
+                    "end": "cd4dd0d7-ddb2-49c2-aa1f-09dd3ba68aae",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                32.7528110422369,
+                                2.255425916177444
+                            ],
+                            [
+                                32.75297390656763,
+                                2.255430000746127
+                            ],
+                            [
+                                32.88809340773722,
+                                2.250396436616898
+                            ],
+                            [
+                                32.890721080653805,
+                                2.2484903365076057
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "99659f91-3d34-47d8-90dd-5acef69aa86b",
+                    "name": "Mbarara - Mirama",
+                    "start": "aac56450-55a2-40e8-800e-68d9e052f77a",
+                    "end": "2b630105-5294-4460-b90f-687ba7323182",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.6048515877429,
+                                -0.5981859089323923
+                            ],
+                            [
+                                30.45046316489904,
+                                -0.9999973821372444
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "c4430b3f-8994-4849-b4de-cac6bce889f6",
+                    "name": "Mirama - Rwanda Border",
+                    "start": "2b630105-5294-4460-b90f-687ba7323182",
+                    "end": "878d7030-58c4-4b46-a9dc-57f32fed4ec2",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                30.45046316489904,
+                                -0.9999973821372444
+                            ],
+                            [
+                                30.45966088660697,
+                                -1.0508098511672483
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "69d20a88-193e-4d41-b7bb-b3f49f15ec45",
+                    "name": "Kafu - Karuma",
+                    "start": "41eef31b-3042-4652-9b39-87f6b3a8e427",
+                    "end": "88ae2203-f9ba-4578-8223-3669f148620d",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                32.03410310717229,
+                                1.5459075055188984
+                            ],
+                            [
+                                32.03304687714047,
+                                1.549640031717993
+                            ],
+                            [
+                                32.02632278478406,
+                                1.615752164860637
+                            ],
+                            [
+                                32.26625583075178,
+                                2.2432233168080526
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "ba016091-9e5a-4dba-8579-e2921b998f7b",
+                    "name": "Karuma - Olwiyo",
+                    "start": "88ae2203-f9ba-4578-8223-3669f148620d",
+                    "end": "31b2cc45-f683-4baa-96d7-b4700e6df5db",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                32.26625583075178,
+                                2.2432233168080526
+                            ],
+                            [
+                                31.95439847006882,
+                                2.6648505462475667
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "b6df7ccf-ea79-44c5-b09f-ee60501fbdcd",
+                    "name": "Lira - Soroti",
+                    "start": "cd4dd0d7-ddb2-49c2-aa1f-09dd3ba68aae",
+                    "end": "68c99a1a-f989-4377-a63b-7528281a3854",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                32.8908827863945,
+                                2.2483730360140486
+                            ],
+                            [
+                                33.6747414807957,
+                                1.679766063037549
+                            ],
+                            [
+                                33.67892236823422,
+                                1.676804224977081
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "0f97d64d-710c-4bbd-8554-bfaea15b1c8d",
+                    "name": "Soroti - Moroto",
+                    "start": "68c99a1a-f989-4377-a63b-7528281a3854",
+                    "end": "a8201348-d1a9-4a37-8cca-1de321e8aa64",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                33.67892236823422,
+                                1.676804224977081
+                            ],
+                            [
+                                33.92357532763301,
+                                1.999686248466106
+                            ],
+                            [
+                                34.07928181762865,
+                                2.046410027551512
+                            ],
+                            [
+                                34.64766491629487,
+                                2.5258632125673026
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "0c7eedbc-3b2f-4f29-9fdb-bc7ae8601133",
+                    "name": "Naumgoona - Mutundwe",
+                    "start": "2fa80912-1cd8-4d06-b46e-299427949c5e",
+                    "end": "4b3fd576-4dcc-45ae-9764-49c141199304",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                32.541130455750455,
+                                0.3378198125076828
+                            ],
+                            [
+                                32.53355491407921,
+                                0.2915901759967652
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "bfcbe50d-9946-483c-954e-a7c3aa2dfc29",
+                    "name": "Mutundwe - Namanve",
+                    "start": "4b3fd576-4dcc-45ae-9764-49c141199304",
+                    "end": "db0b3b51-1aa3-4cf9-8067-de92616ef361",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                32.53355491407921,
+                                0.2915901759967652
+                            ],
+                            [
+                                32.67572169559027,
+                                0.3818492035373524
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "abaade9d-2d91-4f07-a56a-b4c48da592b5",
+                    "name": "Bujagali - Namanve",
+                    "start": "8b7f3897-6386-4bc8-999c-29beee7abbc9",
+                    "end": "db0b3b51-1aa3-4cf9-8067-de92616ef361",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                33.13849354820128,
+                                0.4987965814107088
+                            ],
+                            [
+                                32.67580652815551,
+                                0.3819019483002616
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "8c11de75-7d9e-4ee0-8744-d3c4c6049c77",
+                    "name": "Namanve - Kampala",
+                    "start": "db0b3b51-1aa3-4cf9-8067-de92616ef361",
+                    "end": "d9b52b08-ea4d-4011-ab8c-b498c7acbe01",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                32.67580652815551,
+                                0.3819019483002616
+                            ],
+                            [
+                                32.54063039293172,
+                                0.4163410326658296
+                            ],
+                            [
+                                32.540644682817,
+                                0.4142154855515385
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "57ea8370-34db-4fe3-b969-2293aed43bef",
+                    "name": "Nalubaale - Bujagali",
+                    "start": "0c9904f7-3da8-4eb2-ada1-a4b5268bcec9",
+                    "end": "8b7f3897-6386-4bc8-999c-29beee7abbc9",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                33.18485329408821,
+                                0.4443635217643002
+                            ],
+                            [
+                                33.18481644362366,
+                                0.4443559024473439
+                            ],
+                            [
+                                33.13849354820128,
+                                0.4987965814107088
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                },
+                {
+                    "id": "709cb71c-f815-40f2-9e4d-a7a0c90f8d50",
+                    "name": "Bujagali - Isimba",
+                    "start": "8b7f3897-6386-4bc8-999c-29beee7abbc9",
+                    "end": "7021efe8-ae4f-4278-b768-2f08d31d5548",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                            "name": "UETCL"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                33.13849354820128,
+                                0.4987965814107088
+                            ],
+                            [
+                                33.13901773913893,
+                                0.5085401198955737
+                            ],
+                            [
+                                33.037794459583765,
+                                0.7707441608009802
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                        "name": "UETCL"
+                    }
+                }
+            ],
+            "organisations": [
+                {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                {
+                    "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                    "name": "UETCL"
+                }
+            ]
+        }
+    ]
+}

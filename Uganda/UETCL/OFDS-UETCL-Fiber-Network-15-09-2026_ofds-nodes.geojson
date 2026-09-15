@@ -1,0 +1,1265 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.60516491520749,
+                    -0.5975894646298988
+                ]
+            },
+            "properties": {
+                "name": "Mbarara",
+                "id": "aac56450-55a2-40e8-800e-68d9e052f77a",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.737214539709935,
+                    -0.3410095772307529
+                ]
+            },
+            "properties": {
+                "name": "Masaka",
+                "id": "a16b256a-3b49-4a9a-9339-f0b7546ccabb",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.37183584355115,
+                    1.42073230464825
+                ]
+            },
+            "properties": {
+                "name": "Hoima",
+                "id": "6dc9582a-c405-45cd-9627-8b33097d21b9",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.60284211895752,
+                    0.9714162405394103
+                ]
+            },
+            "properties": {
+                "name": "Lyanda",
+                "id": "dcf73419-a0c5-4b6d-a8a5-2b2005af07e9",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.45046316489904,
+                    -0.9999973821372444
+                ]
+            },
+            "properties": {
+                "name": "Mirama",
+                "id": "2b630105-5294-4460-b90f-687ba7323182",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.176653693035902,
+                    0.2921972575855171
+                ]
+            },
+            "properties": {
+                "name": "Nkenda",
+                "id": "22094463-4bb9-42f4-8996-c98d47730b12",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.034130315668605,
+                    1.5458113556062187
+                ]
+            },
+            "properties": {
+                "name": "Kafu",
+                "id": "41eef31b-3042-4652-9b39-87f6b3a8e427",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.26625583075178,
+                    2.2432233168080526
+                ]
+            },
+            "properties": {
+                "name": "Karuma",
+                "id": "88ae2203-f9ba-4578-8223-3669f148620d",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.954305239908564,
+                    2.664886460779908
+                ]
+            },
+            "properties": {
+                "name": "Olwiyo",
+                "id": "31b2cc45-f683-4baa-96d7-b4700e6df5db",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.138934012370445,
+                    -0.545045837819733
+                ]
+            },
+            "properties": {
+                "name": "Ishaka",
+                "id": "27608431-3e48-40e4-a389-2305f3499c4c",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.28144332667878,
+                    0.6521613319119026
+                ]
+            },
+            "properties": {
+                "name": "Fort Portal",
+                "id": "f4b061eb-d3fc-4b5a-91c7-f747217ee8d3",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.2753443220231,
+                    2.8183914714083813
+                ]
+            },
+            "properties": {
+                "name": "Gulu",
+                "id": "185c9edb-6ba5-4bbb-b2a1-5827d9965f2c",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.516375865596046,
+                    3.191566275582572
+                ]
+            },
+            "properties": {
+                "name": "Agago - Achwa",
+                "id": "4816f48b-ad23-483e-9d42-0f99d502c7b9",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.89080193352415,
+                    2.2484316862608282
+                ]
+            },
+            "properties": {
+                "name": "Lira",
+                "id": "cd4dd0d7-ddb2-49c2-aa1f-09dd3ba68aae",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.760220413846085,
+                    2.30754201226737
+                ]
+            },
+            "properties": {
+                "name": "Kole",
+                "id": "a56a05b5-c643-41ee-9e67-4e721dd173bf",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.27866485790732,
+                    2.72356890209399
+                ]
+            },
+            "properties": {
+                "name": "Nebbi",
+                "id": "3081aab0-0f1d-47ce-bb05-cdf335eb8f61",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.67892236823422,
+                    1.676804224977081
+                ]
+            },
+            "properties": {
+                "name": "Soroti",
+                "id": "68c99a1a-f989-4377-a63b-7528281a3854",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.64774130967708,
+                    2.5259276533476527
+                ]
+            },
+            "properties": {
+                "name": "Moroto",
+                "id": "a8201348-d1a9-4a37-8cca-1de321e8aa64",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.53355491407921,
+                    0.2915901759967652
+                ]
+            },
+            "properties": {
+                "name": "Mutundwe",
+                "id": "4b3fd576-4dcc-45ae-9764-49c141199304",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.47287139623139,
+                    0.07186995068190029
+                ]
+            },
+            "properties": {
+                "name": "Entebbe",
+                "id": "544d4727-9d74-41cf-8e9f-0d6d1c46faff",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.5411413824092,
+                    0.3379191641105652
+                ]
+            },
+            "properties": {
+                "name": "Naumgoona",
+                "id": "2fa80912-1cd8-4d06-b46e-299427949c5e",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.67580652815551,
+                    0.3819019483002616
+                ]
+            },
+            "properties": {
+                "name": "Namanve",
+                "id": "db0b3b51-1aa3-4cf9-8067-de92616ef361",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.54064535488713,
+                    0.4141155185682267
+                ]
+            },
+            "properties": {
+                "name": "Kampala",
+                "id": "d9b52b08-ea4d-4011-ab8c-b498c7acbe01",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.18495118924104,
+                    0.4443837628713574
+                ]
+            },
+            "properties": {
+                "name": "Nalubaale",
+                "id": "0c9904f7-3da8-4eb2-ada1-a4b5268bcec9",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.13849354820128,
+                    0.4987965814107088
+                ]
+            },
+            "properties": {
+                "name": "Bujagali",
+                "id": "8b7f3897-6386-4bc8-999c-29beee7abbc9",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.03775847760651,
+                    0.770837366829061
+                ]
+            },
+            "properties": {
+                "name": "Isimba",
+                "id": "7021efe8-ae4f-4278-b768-2f08d31d5548",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.117060636669756,
+                    0.6369962413799864
+                ]
+            },
+            "properties": {
+                "name": "Tororo",
+                "id": "2647f074-93a1-4f10-bbb9-d69cddd15122",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.45967602276573,
+                    -1.050908578349789
+                ]
+            },
+            "properties": {
+                "name": "Rwanda Border",
+                "id": "878d7030-58c4-4b46-a9dc-57f32fed4ec2",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.31443355861424,
+                    0.4463986371783887
+                ]
+            },
+            "properties": {
+                "name": "Kawanda",
+                "id": "0449e8ba-e244-4503-aad3-b5c7f8592803",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.95061820277451,
+                    0.3826977328062283
+                ]
+            },
+            "properties": {
+                "name": "Lugazi",
+                "id": "28f5bbf4-910f-491b-8145-04d8924a442b",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.26359584825286,
+                    0.6366300793672742
+                ]
+            },
+            "properties": {
+                "name": "Kenya Border",
+                "id": "86f00dd4-2ea4-4211-971b-c650324276b4",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.9258974662169,
+                    -1.150009693623903
+                ]
+            },
+            "properties": {
+                "name": "Kabale",
+                "id": "d9d2ad60-5695-42ba-826a-53ee13170e23",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.91827240594397,
+                    3.039305684030063
+                ]
+            },
+            "properties": {
+                "name": "Arua",
+                "id": "c4a984de-2d93-49d0-a2b6-8a503da97c80",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.35480921595381,
+                    0.6395946828648991
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "a48c3040-7a63-4914-9db9-d33a632dcabb",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.7528110422369,
+                    2.255425916177444
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "f8f861ac-6fa7-4dd4-a9c1-c18f473c753d",
+                "networkProviders": [
+                    {
+                        "id": "d6a6f1ca-6d86-4ecf-90d6-492d01ec44f7",
+                        "name": "UETCL"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "b61ca674-8f7b-44fc-86b8-39310419660f",
+                    "name": "UETCL"
+                },
+                "network": {
+                    "id": "3ae0ba39-982e-4d40-b787-24d913953b7d",
+                    "name": "UETCL Fiber Network",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        }
+    ]
+}
