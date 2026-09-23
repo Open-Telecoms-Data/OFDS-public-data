@@ -1,0 +1,2273 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.96392802091933,
+                    45.861874971037075
+                ]
+            },
+            "properties": {
+                "name": "Romania",
+                "id": "c9d778f3-090c-4028-b6c3-9bc27c022889",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.64508553911062,
+                    44.18208958898529
+                ]
+            },
+            "properties": {
+                "name": "Constanta",
+                "id": "8afaea0f-404f-4250-90ce-880a74043f56",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.71597289705534,
+                    44.89262888938622
+                ]
+            },
+            "properties": {
+                "name": "Babadag",
+                "id": "1e2cc7e8-2266-4109-b43a-b1fb8e6d15cb",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.8029528748765,
+                    45.17884764585865
+                ]
+            },
+            "properties": {
+                "name": "Tulcea",
+                "id": "2da3aff4-8268-4663-8233-3034e2e52ea3",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.13324172039058,
+                    45.24961976111426
+                ]
+            },
+            "properties": {
+                "name": "Măcin",
+                "id": "d3dc6f28-efb8-4b8a-9b89-c838c9f8956d",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.96194057018878,
+                    45.27559372218734
+                ]
+            },
+            "properties": {
+                "name": "Brăila",
+                "id": "4ca22be0-4efd-4219-a2ef-a5cb4234810c",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.02441444581091,
+                    45.43430228461575
+                ]
+            },
+            "properties": {
+                "name": "Galați",
+                "id": "cf63fb41-4592-458f-93a0-4ef44fa8f79f",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.21553715933594,
+                    45.84534927683539
+                ]
+            },
+            "properties": {
+                "name": "Focșani",
+                "id": "921cf51c-f4ca-417c-89f4-bcaf7993b7a5",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.16162903539599,
+                    46.12208186869773
+                ]
+            },
+            "properties": {
+                "name": "Șișcani",
+                "id": "fc0bd1d0-509f-41d8-8c95-3f4476ecfd90",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.21553715933594,
+                    45.84534927683539
+                ]
+            },
+            "properties": {
+                "name": "Tișița",
+                "id": "c965cdee-c203-41ce-a484-ba68bae40320",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.74858951515386,
+                    46.61970840185609
+                ]
+            },
+            "properties": {
+                "name": "Vasuli",
+                "id": "19f0690b-8f54-4822-9fc9-ce19d037d28c",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.91322626805077,
+                    46.57602532465784
+                ]
+            },
+            "properties": {
+                "name": "Bacău",
+                "id": "09e9f0ad-03c2-465f-b117-c1dba3599678",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.92659064085972,
+                    46.92167314172817
+                ]
+            },
+            "properties": {
+                "name": "Roman",
+                "id": "7399da50-1e2a-43f2-90c7-b40f4b47150a",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.594692153852957,
+                    47.16247042134645
+                ]
+            },
+            "properties": {
+                "name": "Iași",
+                "id": "d0a66917-0ca5-4de1-abb7-b65cc13506dd",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.36049735963969,
+                    47.205587515504284
+                ]
+            },
+            "properties": {
+                "name": "Targu Neamt",
+                "id": "6335ece5-9aa6-41c6-a865-c1593eeab438",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.66327142374897,
+                    47.74431764874062
+                ]
+            },
+            "properties": {
+                "name": "Botoşani",
+                "id": "38b9adf1-c9b7-4bd8-b981-ed76673eb5b5",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.27171835138916,
+                    47.6670182068117
+                ]
+            },
+            "properties": {
+                "name": "Suceava",
+                "id": "c6702202-7908-47c5-b669-349e4416b6af",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.37260454627846,
+                    46.93743367019447
+                ]
+            },
+            "properties": {
+                "name": "Piatra Neamț",
+                "id": "30eb4e54-d645-473b-9881-2ea895ab1800",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.49075692631802,
+                    46.463761016538825
+                ]
+            },
+            "properties": {
+                "name": "Moinești",
+                "id": "349ceb50-af04-4343-9743-8747fe56280e",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.56880411688721,
+                    47.52317685016367
+                ]
+            },
+            "properties": {
+                "name": "Câmpulung Moldovenesc",
+                "id": "c2fdca01-97c5-4f50-b805-2d16fbe9789f",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.36383924534311,
+                    47.3511923175522
+                ]
+            },
+            "properties": {
+                "name": "Vastra Dornei",
+                "id": "0e66f591-31cb-41ea-992c-0707ccf3229b",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.488742680974678,
+                    47.13893842674012
+                ]
+            },
+            "properties": {
+                "name": "Bistrița",
+                "id": "626d266f-7da7-48fd-b0eb-b8c077794086",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.89890736394171,
+                    47.17850026528897
+                ]
+            },
+            "properties": {
+                "name": "Dej",
+                "id": "7fa16fac-0cc2-4f43-ac50-740d143e68f3",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.58382070795144,
+                    47.66178102155552
+                ]
+            },
+            "properties": {
+                "name": "Baia Mare",
+                "id": "1b992792-ebdc-4814-b5bb-e5455b707a43",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.62522873968449,
+                    46.791089389046
+                ]
+            },
+            "properties": {
+                "name": "Cluj-Napoca",
+                "id": "e9a0013e-d93f-4357-8c3c-633b322a5470",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9031328502249,
+                    47.81415640439351
+                ]
+            },
+            "properties": {
+                "name": "Satu Mare",
+                "id": "37e9f8c0-9a78-46e9-83f3-715ac58883bc",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.33191410967834,
+                    47.34371962578159
+                ]
+            },
+            "properties": {
+                "name": "Marghita",
+                "id": "3d691ac2-fdf5-4fbb-b7a1-dbd69f33bd91",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.933580479124103,
+                    47.048568269980265
+                ]
+            },
+            "properties": {
+                "name": "Oradea",
+                "id": "05ecf826-04be-46ea-8f62-854f976c3a32",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.80386939326362,
+                    46.36567653030807
+                ]
+            },
+            "properties": {
+                "name": "Miercurea Ciuc",
+                "id": "75209be4-1d0d-48c1-b84f-3f778bc4a79d",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.80480597032249,
+                    45.86144168165068
+                ]
+            },
+            "properties": {
+                "name": "Sfântu Gheorghe",
+                "id": "94f145a9-bea0-47c1-8da2-c40b4ff9f442",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.608092756101986,
+                    45.65278856609144
+                ]
+            },
+            "properties": {
+                "name": "Brașov",
+                "id": "2686ded6-e471-42e2-a8e6-7d490f0b2683",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.96846252284788,
+                    45.86171699044968
+                ]
+            },
+            "properties": {
+                "name": "Făgăraș",
+                "id": "77d26dbe-88ea-42a8-a2d6-4fc1cc2fb8d8",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.13438586856746,
+                    45.79932978337845
+                ]
+            },
+            "properties": {
+                "name": "Sibiu",
+                "id": "c109db92-b447-4445-bd67-e27423acafe9",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.23858080838676,
+                    45.69639487329324
+                ]
+            },
+            "properties": {
+                "name": "Sibiu South Branch",
+                "id": "fae41e6c-f4bc-4795-aa43-8d6f3e1b143c",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.365087622375448,
+                    45.101746804308455
+                ]
+            },
+            "properties": {
+                "name": "Râmnicu Vâlcea",
+                "id": "3196b9d7-ad94-46ad-934f-60bae1d2ce62",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.34514219613809,
+                    45.07124234335762
+                ]
+            },
+            "properties": {
+                "name": "Râmnicu Vâlcea South Branch",
+                "id": "57b857ab-00d0-4724-b89a-601876a48a02",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.88221832792762,
+                    44.86828815335562
+                ]
+            },
+            "properties": {
+                "name": "Pitești",
+                "id": "09ad07f0-7b3a-4a62-b007-e277e7926d1e",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2907986722412,
+                    45.02751908927297
+                ]
+            },
+            "properties": {
+                "name": "Stupărei",
+                "id": "c0b40dec-3a22-42f3-a5e1-a2f4ef73f689",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.261306614733915,
+                    44.66088121899643
+                ]
+            },
+            "properties": {
+                "name": "Drăgășani",
+                "id": "14076338-5fc0-4f9a-94dc-5e69a2dd54ae",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.80134607693911,
+                    44.32059597091819
+                ]
+            },
+            "properties": {
+                "name": "Craiova",
+                "id": "83b4b645-be2f-4cb5-ac6a-4ce87287a540",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.271913664626535,
+                    45.041341640931165
+                ]
+            },
+            "properties": {
+                "name": "Târgu Jiu",
+                "id": "249b05cc-44c7-4281-a271-29298ed2cff2",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.514219916217343,
+                    44.95451732243426
+                ]
+            },
+            "properties": {
+                "name": "Târgu Cărbunești",
+                "id": "8f612cad-454b-404d-88fc-8d0d006c7fe9",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.580489775754273,
+                    46.075513201558365
+                ]
+            },
+            "properties": {
+                "name": "Alba Ilulia",
+                "id": "14d5d00e-f960-4066-9ff7-7e7341757db9",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.08439930116952,
+                    46.36558038199193
+                ]
+            },
+            "properties": {
+                "name": "Câmpeni",
+                "id": "8d5dfcff-e937-4814-9393-006c0cc7c5fb",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.87634661378718,
+                    45.9129272971303
+                ]
+            },
+            "properties": {
+                "name": "Deva",
+                "id": "e9ee25f0-e5ea-4b7b-bd1c-9022f0402e98",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6852988412262,
+                    46.11391317395967
+                ]
+            },
+            "properties": {
+                "name": "Lipova",
+                "id": "92c94fc9-92ba-4ab9-9030-21ef7db2ae8c",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.32328286442689,
+                    46.1796596453265
+                ]
+            },
+            "properties": {
+                "name": "Arad",
+                "id": "0425c0fe-8a40-4e30-9583-4f768f28e988",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.747212583757282,
+                    46.17691280240974
+                ]
+            },
+            "properties": {
+                "name": "Nădlac",
+                "id": "002d2759-e68a-4f2e-8b45-0097f054bc23",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6321545972079,
+                    46.07290119427418
+                ]
+            },
+            "properties": {
+                "name": "Sânnicolau Mare",
+                "id": "1cfce40f-23a1-4b2d-a936-49f5405081fc",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.21408786508004,
+                    45.80040851625826
+                ]
+            },
+            "properties": {
+                "name": "Timișoara",
+                "id": "61264195-bc6c-43fe-95b4-0d90a107a5de",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.94504636479569,
+                    45.456863526898
+                ]
+            },
+            "properties": {
+                "name": "Cheia",
+                "id": "5bb976ad-b526-43b2-b297-dda208b8561b",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.01261374361072,
+                    44.9177552412666
+                ]
+            },
+            "properties": {
+                "name": "Ploiești",
+                "id": "3f4649b7-530c-4552-b16a-1e18f182a38a",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.11049373027663,
+                    44.42880270945867
+                ]
+            },
+            "properties": {
+                "name": "Bucharest",
+                "id": "cd9830d7-ca92-41c6-b12e-60e6716171fc",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.34088562280161,
+                    43.97161299516642
+                ]
+            },
+            "properties": {
+                "name": "Alexandria",
+                "id": "3a68fea1-fe2c-4112-bfbb-aa16bd4f8faf",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.966833917150367,
+                    43.8969433226757
+                ]
+            },
+            "properties": {
+                "name": "Giurgiu",
+                "id": "d48b7daa-9ce3-41f4-a78d-3140d1a2a27c",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.24425330987203,
+                    44.26252446648086
+                ]
+            },
+            "properties": {
+                "name": "Trivalea-Moşteni",
+                "id": "a53cb9c6-49f9-4374-bc91-96787c3321c9",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.52475430727239,
+                    47.54213359822351
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "980e0ace-ea14-4f08-858f-38cabfc8d464",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.81554182748648,
+                    47.80688419972773
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "dcf60a45-ffd3-4c02-bf78-9430b4edb422",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.84463935696558,
+                    47.20889127522682
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "35cd4691-40e1-4112-983c-cdeeb3259155",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.73393828373348,
+                    46.11268878663927
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "d0dc6b7d-3fe9-4d9a-a3a3-4d03830cc0f2",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.18512126321336,
+                    45.78490316992993
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "e99e857a-ccbe-4cd6-9518-266c9a64fcf8",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.06156580935144,
+                    44.99373749133382
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "afe3ae7e-d422-4b27-bfa2-1caa28722b98",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.05805052269718,
+                    45.83822060060586
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "be594966-c736-49c0-af81-a0a33120d69d",
+                "networkProviders": [
+                    {
+                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                        "name": "directOne"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                "network": {
+                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+                    "name": "directOne National Network Romania",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        }
+    ]
+}

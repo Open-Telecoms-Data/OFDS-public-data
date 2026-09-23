@@ -1,0 +1,4318 @@
+{
+    "networks": [
+        {
+            "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
+            "name": "directOne National Network Romania",
+            "links": [
+                {
+                    "rel": "describedby",
+                    "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                }
+            ],
+            "nodes": [
+                {
+                    "name": "Romania",
+                    "id": "c9d778f3-090c-4028-b6c3-9bc27c022889",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            24.96392802091933,
+                            45.861874971037075
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Constanta",
+                    "id": "8afaea0f-404f-4250-90ce-880a74043f56",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            28.64508553911062,
+                            44.18208958898529
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Babadag",
+                    "id": "1e2cc7e8-2266-4109-b43a-b1fb8e6d15cb",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            28.71597289705534,
+                            44.89262888938622
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Tulcea",
+                    "id": "2da3aff4-8268-4663-8233-3034e2e52ea3",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            28.8029528748765,
+                            45.17884764585865
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Măcin",
+                    "id": "d3dc6f28-efb8-4b8a-9b89-c838c9f8956d",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            28.13324172039058,
+                            45.24961976111426
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Brăila",
+                    "id": "4ca22be0-4efd-4219-a2ef-a5cb4234810c",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            27.96194057018878,
+                            45.27559372218734
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Galați",
+                    "id": "cf63fb41-4592-458f-93a0-4ef44fa8f79f",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            28.02441444581091,
+                            45.43430228461575
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Focșani",
+                    "id": "921cf51c-f4ca-417c-89f4-bcaf7993b7a5",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            27.21553715933594,
+                            45.84534927683539
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Șișcani",
+                    "id": "fc0bd1d0-509f-41d8-8c95-3f4476ecfd90",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            27.16162903539599,
+                            46.12208186869773
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Tișița",
+                    "id": "c965cdee-c203-41ce-a484-ba68bae40320",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            27.21553715933594,
+                            45.84534927683539
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Vasuli",
+                    "id": "19f0690b-8f54-4822-9fc9-ce19d037d28c",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            27.74858951515386,
+                            46.61970840185609
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Bacău",
+                    "id": "09e9f0ad-03c2-465f-b117-c1dba3599678",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            26.91322626805077,
+                            46.57602532465784
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Roman",
+                    "id": "7399da50-1e2a-43f2-90c7-b40f4b47150a",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            26.92659064085972,
+                            46.92167314172817
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Iași",
+                    "id": "d0a66917-0ca5-4de1-abb7-b65cc13506dd",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            27.594692153852957,
+                            47.16247042134645
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Targu Neamt",
+                    "id": "6335ece5-9aa6-41c6-a865-c1593eeab438",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            26.36049735963969,
+                            47.205587515504284
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Botoşani",
+                    "id": "38b9adf1-c9b7-4bd8-b981-ed76673eb5b5",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            26.66327142374897,
+                            47.74431764874062
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Suceava",
+                    "id": "c6702202-7908-47c5-b669-349e4416b6af",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            26.27171835138916,
+                            47.6670182068117
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Piatra Neamț",
+                    "id": "30eb4e54-d645-473b-9881-2ea895ab1800",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            26.37260454627846,
+                            46.93743367019447
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Moinești",
+                    "id": "349ceb50-af04-4343-9743-8747fe56280e",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            26.49075692631802,
+                            46.463761016538825
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Câmpulung Moldovenesc",
+                    "id": "c2fdca01-97c5-4f50-b805-2d16fbe9789f",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            25.56880411688721,
+                            47.52317685016367
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Vastra Dornei",
+                    "id": "0e66f591-31cb-41ea-992c-0707ccf3229b",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            25.36383924534311,
+                            47.3511923175522
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Bistrița",
+                    "id": "626d266f-7da7-48fd-b0eb-b8c077794086",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            24.488742680974678,
+                            47.13893842674012
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Dej",
+                    "id": "7fa16fac-0cc2-4f43-ac50-740d143e68f3",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            23.89890736394171,
+                            47.17850026528897
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Baia Mare",
+                    "id": "1b992792-ebdc-4814-b5bb-e5455b707a43",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            23.58382070795144,
+                            47.66178102155552
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Cluj-Napoca",
+                    "id": "e9a0013e-d93f-4357-8c3c-633b322a5470",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            23.62522873968449,
+                            46.791089389046
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Satu Mare",
+                    "id": "37e9f8c0-9a78-46e9-83f3-715ac58883bc",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            22.9031328502249,
+                            47.81415640439351
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Marghita",
+                    "id": "3d691ac2-fdf5-4fbb-b7a1-dbd69f33bd91",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            22.33191410967834,
+                            47.34371962578159
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Oradea",
+                    "id": "05ecf826-04be-46ea-8f62-854f976c3a32",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            21.933580479124103,
+                            47.048568269980265
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Miercurea Ciuc",
+                    "id": "75209be4-1d0d-48c1-b84f-3f778bc4a79d",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            25.80386939326362,
+                            46.36567653030807
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Sfântu Gheorghe",
+                    "id": "94f145a9-bea0-47c1-8da2-c40b4ff9f442",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            25.80480597032249,
+                            45.86144168165068
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Brașov",
+                    "id": "2686ded6-e471-42e2-a8e6-7d490f0b2683",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            25.608092756101986,
+                            45.65278856609144
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Făgăraș",
+                    "id": "77d26dbe-88ea-42a8-a2d6-4fc1cc2fb8d8",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            24.96846252284788,
+                            45.86171699044968
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Sibiu",
+                    "id": "c109db92-b447-4445-bd67-e27423acafe9",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            24.13438586856746,
+                            45.79932978337845
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Sibiu South Branch",
+                    "id": "fae41e6c-f4bc-4795-aa43-8d6f3e1b143c",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            24.23858080838676,
+                            45.69639487329324
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Râmnicu Vâlcea",
+                    "id": "3196b9d7-ad94-46ad-934f-60bae1d2ce62",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            24.365087622375448,
+                            45.101746804308455
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Râmnicu Vâlcea South Branch",
+                    "id": "57b857ab-00d0-4724-b89a-601876a48a02",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            24.34514219613809,
+                            45.07124234335762
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Pitești",
+                    "id": "09ad07f0-7b3a-4a62-b007-e277e7926d1e",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            24.88221832792762,
+                            44.86828815335562
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Stupărei",
+                    "id": "c0b40dec-3a22-42f3-a5e1-a2f4ef73f689",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            24.2907986722412,
+                            45.02751908927297
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Drăgășani",
+                    "id": "14076338-5fc0-4f9a-94dc-5e69a2dd54ae",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            24.261306614733915,
+                            44.66088121899643
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Craiova",
+                    "id": "83b4b645-be2f-4cb5-ac6a-4ce87287a540",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            23.80134607693911,
+                            44.32059597091819
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Târgu Jiu",
+                    "id": "249b05cc-44c7-4281-a271-29298ed2cff2",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            23.271913664626535,
+                            45.041341640931165
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Târgu Cărbunești",
+                    "id": "8f612cad-454b-404d-88fc-8d0d006c7fe9",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            23.514219916217343,
+                            44.95451732243426
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Alba Ilulia",
+                    "id": "14d5d00e-f960-4066-9ff7-7e7341757db9",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            23.580489775754273,
+                            46.075513201558365
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Câmpeni",
+                    "id": "8d5dfcff-e937-4814-9393-006c0cc7c5fb",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            23.08439930116952,
+                            46.36558038199193
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Deva",
+                    "id": "e9ee25f0-e5ea-4b7b-bd1c-9022f0402e98",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            22.87634661378718,
+                            45.9129272971303
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Lipova",
+                    "id": "92c94fc9-92ba-4ab9-9030-21ef7db2ae8c",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            21.6852988412262,
+                            46.11391317395967
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Arad",
+                    "id": "0425c0fe-8a40-4e30-9583-4f768f28e988",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            21.32328286442689,
+                            46.1796596453265
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Nădlac",
+                    "id": "002d2759-e68a-4f2e-8b45-0097f054bc23",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            20.747212583757282,
+                            46.17691280240974
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Sânnicolau Mare",
+                    "id": "1cfce40f-23a1-4b2d-a936-49f5405081fc",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            20.6321545972079,
+                            46.07290119427418
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Timișoara",
+                    "id": "61264195-bc6c-43fe-95b4-0d90a107a5de",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            21.21408786508004,
+                            45.80040851625826
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Cheia",
+                    "id": "5bb976ad-b526-43b2-b297-dda208b8561b",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            25.94504636479569,
+                            45.456863526898
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Ploiești",
+                    "id": "3f4649b7-530c-4552-b16a-1e18f182a38a",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            26.01261374361072,
+                            44.9177552412666
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Bucharest",
+                    "id": "cd9830d7-ca92-41c6-b12e-60e6716171fc",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            26.11049373027663,
+                            44.42880270945867
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Alexandria",
+                    "id": "3a68fea1-fe2c-4112-bfbb-aa16bd4f8faf",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            25.34088562280161,
+                            43.97161299516642
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Giurgiu",
+                    "id": "d48b7daa-9ce3-41f4-a78d-3140d1a2a27c",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            25.966833917150367,
+                            43.8969433226757
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "Trivalea-Moşteni",
+                    "id": "a53cb9c6-49f9-4374-bc91-96787c3321c9",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            25.24425330987203,
+                            44.26252446648086
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "default-node",
+                    "id": "980e0ace-ea14-4f08-858f-38cabfc8d464",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            25.52475430727239,
+                            47.54213359822351
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "default-node",
+                    "id": "dcf60a45-ffd3-4c02-bf78-9430b4edb422",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            22.81554182748648,
+                            47.80688419972773
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "default-node",
+                    "id": "35cd4691-40e1-4112-983c-cdeeb3259155",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            23.84463935696558,
+                            47.20889127522682
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "default-node",
+                    "id": "d0dc6b7d-3fe9-4d9a-a3a3-4d03830cc0f2",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            21.73393828373348,
+                            46.11268878663927
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "default-node",
+                    "id": "e99e857a-ccbe-4cd6-9518-266c9a64fcf8",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            24.18512126321336,
+                            45.78490316992993
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "default-node",
+                    "id": "afe3ae7e-d422-4b27-bfa2-1caa28722b98",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            26.06156580935144,
+                            44.99373749133382
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "name": "default-node",
+                    "id": "be594966-c736-49c0-af81-a0a33120d69d",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            25.05805052269718,
+                            45.83822060060586
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                }
+            ],
+            "spans": [
+                {
+                    "id": "f20d4aea-b6a7-4cef-91dd-24a7a0f82cd1",
+                    "name": "Suceava - Botoşani",
+                    "start": "c6702202-7908-47c5-b669-349e4416b6af",
+                    "end": "38b9adf1-c9b7-4bd8-b981-ed76673eb5b5",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                26.27171835138916,
+                                47.6670182068117
+                            ],
+                            [
+                                26.33592245245345,
+                                47.65400341489521
+                            ],
+                            [
+                                26.44393645589266,
+                                47.67922313148699
+                            ],
+                            [
+                                26.663175583232036,
+                                47.744289205067254
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "0ad6be59-0814-40d4-b21b-025c119d9c19",
+                    "name": "Roman - Iași",
+                    "start": "7399da50-1e2a-43f2-90c7-b40f4b47150a",
+                    "end": "d0a66917-0ca5-4de1-abb7-b65cc13506dd",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                26.92659064085972,
+                                46.92167314172817
+                            ],
+                            [
+                                26.92614814682493,
+                                46.93351068563398
+                            ],
+                            [
+                                26.99795780307428,
+                                46.94728674087997
+                            ],
+                            [
+                                27.0124027008671,
+                                46.95605795421415
+                            ],
+                            [
+                                27.08684298047099,
+                                47.01271049184258
+                            ],
+                            [
+                                27.13551116076143,
+                                47.03455923575984
+                            ],
+                            [
+                                27.15756102923179,
+                                47.06189123632213
+                            ],
+                            [
+                                27.151487111633,
+                                47.07239087018502
+                            ],
+                            [
+                                27.15378787377095,
+                                47.10467092554836
+                            ],
+                            [
+                                27.17397522847154,
+                                47.12196909374926
+                            ],
+                            [
+                                27.19146042707816,
+                                47.11566481802004
+                            ],
+                            [
+                                27.19581890624951,
+                                47.10217760283138
+                            ],
+                            [
+                                27.20329351475741,
+                                47.09740262862191
+                            ],
+                            [
+                                27.20220304299291,
+                                47.08920687346062
+                            ],
+                            [
+                                27.2279889667086,
+                                47.09977234792383
+                            ],
+                            [
+                                27.24735893555066,
+                                47.10164299997153
+                            ],
+                            [
+                                27.29275908345993,
+                                47.11934841319127
+                            ],
+                            [
+                                27.35040686795654,
+                                47.15449704244506
+                            ],
+                            [
+                                27.38453350528451,
+                                47.16238951534034
+                            ],
+                            [
+                                27.39571563523189,
+                                47.17017077950307
+                            ],
+                            [
+                                27.40586149854128,
+                                47.17218000406919
+                            ],
+                            [
+                                27.44083123022568,
+                                47.15840556321367
+                            ],
+                            [
+                                27.45729767148498,
+                                47.15698583899395
+                            ],
+                            [
+                                27.59459234957617,
+                                47.16246643730891
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "0ca87416-171a-42da-bbb0-a6d112a77055",
+                    "name": "Vasuli - Șișcani",
+                    "start": "19f0690b-8f54-4822-9fc9-ce19d037d28c",
+                    "end": "fc0bd1d0-509f-41d8-8c95-3f4476ecfd90",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                27.748612564852397,
+                                46.61961121021879
+                            ],
+                            [
+                                27.76368752067859,
+                                46.55604596937528
+                            ],
+                            [
+                                27.77542454240989,
+                                46.48160133561402
+                            ],
+                            [
+                                27.78033372944584,
+                                46.37033350415884
+                            ],
+                            [
+                                27.76990419925294,
+                                46.28993248202509
+                            ],
+                            [
+                                27.55344980425503,
+                                46.23223473534174
+                            ],
+                            [
+                                27.29205554084193,
+                                46.19825473716073
+                            ],
+                            [
+                                27.16162903539599,
+                                46.12208186869773
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "a393d19b-6960-4dbc-b4f3-86a4aa38f73f",
+                    "name": "Șișcani - Bacău",
+                    "start": "fc0bd1d0-509f-41d8-8c95-3f4476ecfd90",
+                    "end": "09e9f0ad-03c2-465f-b117-c1dba3599678",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                27.16162903539599,
+                                46.12208186869773
+                            ],
+                            [
+                                27.11474718478106,
+                                46.26295806915785
+                            ],
+                            [
+                                27.03605203368936,
+                                46.35352446108716
+                            ],
+                            [
+                                26.98164011611923,
+                                46.45514955825783
+                            ],
+                            [
+                                27.00857670888057,
+                                46.5312703287947
+                            ],
+                            [
+                                26.96399990399083,
+                                46.57682868384725
+                            ],
+                            [
+                                26.91322626805077,
+                                46.57602532465784
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "8fd3ee07-41bd-4085-84cb-f2a4f9e7b8a6",
+                    "name": "Șișcani - Focșani",
+                    "start": "fc0bd1d0-509f-41d8-8c95-3f4476ecfd90",
+                    "end": "921cf51c-f4ca-417c-89f4-bcaf7993b7a5",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                27.161555227120882,
+                                46.12201457569122
+                            ],
+                            [
+                                27.14008490996714,
+                                46.10243950514671
+                            ],
+                            [
+                                27.02208218212062,
+                                46.10428269963508
+                            ],
+                            [
+                                27.01324793574251,
+                                46.07383536050887
+                            ],
+                            [
+                                27.10995987708142,
+                                46.02417287664999
+                            ],
+                            [
+                                27.16043679133853,
+                                45.92897189235466
+                            ],
+                            [
+                                27.20412994875846,
+                                45.87066666232529
+                            ],
+                            [
+                                27.21553715933594,
+                                45.84534927683539
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "7570c7e2-804f-4c67-ba21-395b03a2eb22",
+                    "name": "Focșani - Galați",
+                    "start": "921cf51c-f4ca-417c-89f4-bcaf7993b7a5",
+                    "end": "cf63fb41-4592-458f-93a0-4ef44fa8f79f",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                27.215637067282337,
+                                45.84535115062957
+                            ],
+                            [
+                                27.25249148553842,
+                                45.8460423628585
+                            ],
+                            [
+                                27.33997333627836,
+                                45.87604031182771
+                            ],
+                            [
+                                27.41187881690637,
+                                45.83753969797055
+                            ],
+                            [
+                                27.46151470838971,
+                                45.8033393813347
+                            ],
+                            [
+                                27.48271893918461,
+                                45.78344708860557
+                            ],
+                            [
+                                27.54972967097047,
+                                45.78142244573611
+                            ],
+                            [
+                                27.5672672930701,
+                                45.75652249764134
+                            ],
+                            [
+                                27.58617968384075,
+                                45.70874414371873
+                            ],
+                            [
+                                27.61110048602715,
+                                45.64987533164398
+                            ],
+                            [
+                                27.63691939130506,
+                                45.59178880673495
+                            ],
+                            [
+                                27.64798472924451,
+                                45.56797624139358
+                            ],
+                            [
+                                27.72035515559951,
+                                45.56652320807265
+                            ],
+                            [
+                                27.76258430049395,
+                                45.52769714951167
+                            ],
+                            [
+                                27.83515794868237,
+                                45.51063655221013
+                            ],
+                            [
+                                27.88733633567865,
+                                45.50905773574099
+                            ],
+                            [
+                                27.93213659342998,
+                                45.48522760920629
+                            ],
+                            [
+                                27.99374742784635,
+                                45.45562582942667
+                            ],
+                            [
+                                28.024332403304005,
+                                45.43435933082332
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "406bd6be-c8ea-4e20-9cee-c28064fc9177",
+                    "name": "Galați - Brăila",
+                    "start": "cf63fb41-4592-458f-93a0-4ef44fa8f79f",
+                    "end": "4ca22be0-4efd-4219-a2ef-a5cb4234810c",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                28.02441444581091,
+                                45.43430228461575
+                            ],
+                            [
+                                27.9880125256666,
+                                45.34239067730284
+                            ],
+                            [
+                                27.961976901284824,
+                                45.27568680329872
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "327dda6a-eb3c-4b86-a4b6-7ff4abde84d1",
+                    "name": "Brăila - Măcin",
+                    "start": "4ca22be0-4efd-4219-a2ef-a5cb4234810c",
+                    "end": "d3dc6f28-efb8-4b8a-9b89-c838c9f8956d",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                27.96194057018878,
+                                45.27559372218734
+                            ],
+                            [
+                                27.91195880404873,
+                                45.21723309340212
+                            ],
+                            [
+                                27.89377648519768,
+                                45.19823104153523
+                            ],
+                            [
+                                27.89921110411978,
+                                45.14636351956821
+                            ],
+                            [
+                                27.95906354305155,
+                                45.14905633566238
+                            ],
+                            [
+                                27.99996540842382,
+                                45.16549290629698
+                            ],
+                            [
+                                28.03338672679706,
+                                45.13799711676231
+                            ],
+                            [
+                                28.08431341786133,
+                                45.15654667468173
+                            ],
+                            [
+                                28.09085930613852,
+                                44.97518219243996
+                            ],
+                            [
+                                28.07150181094041,
+                                44.8632139473731
+                            ],
+                            [
+                                28.11719878673544,
+                                44.92833228988958
+                            ],
+                            [
+                                28.16835433047067,
+                                44.89479238675442
+                            ],
+                            [
+                                28.17746661548153,
+                                44.87312083155485
+                            ],
+                            [
+                                28.25072692991758,
+                                44.96282837541116
+                            ],
+                            [
+                                28.28857990911574,
+                                45.04067530946515
+                            ],
+                            [
+                                28.24812192366025,
+                                45.15961853710087
+                            ],
+                            [
+                                28.15768924070894,
+                                45.25065731316138
+                            ],
+                            [
+                                28.133341512330166,
+                                45.24962399628126
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "4d677d2f-ef6b-47bf-be8f-526534bccee4",
+                    "name": "Măcin - Tulcea",
+                    "start": "d3dc6f28-efb8-4b8a-9b89-c838c9f8956d",
+                    "end": "2da3aff4-8268-4663-8233-3034e2e52ea3",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                28.13324172039058,
+                                45.24961976111426
+                            ],
+                            [
+                                28.182370299423,
+                                45.25837747950725
+                            ],
+                            [
+                                28.43666507144146,
+                                45.22131820023363
+                            ],
+                            [
+                                28.50897382945253,
+                                45.1955539276691
+                            ],
+                            [
+                                28.56603278421477,
+                                45.19847912524641
+                            ],
+                            [
+                                28.70459413934048,
+                                45.14550344394463
+                            ],
+                            [
+                                28.802858269733022,
+                                45.17881557414698
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "acf8874a-d0b6-4aa7-bba5-392ee078e5dc",
+                    "name": "Tulcea - Babadag",
+                    "start": "2da3aff4-8268-4663-8233-3034e2e52ea3",
+                    "end": "1e2cc7e8-2266-4109-b43a-b1fb8e6d15cb",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                28.8029528748765,
+                                45.17884764585865
+                            ],
+                            [
+                                28.74034945915882,
+                                45.09813281373919
+                            ],
+                            [
+                                28.73395249216257,
+                                45.02060876418398
+                            ],
+                            [
+                                28.715986792856004,
+                                44.892727800558504
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "fe2744d3-3926-4fd7-93ff-bbda740eec31",
+                    "name": "Babadag - Constanta",
+                    "start": "1e2cc7e8-2266-4109-b43a-b1fb8e6d15cb",
+                    "end": "8afaea0f-404f-4250-90ce-880a74043f56",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                28.71597289705534,
+                                44.89262888938622
+                            ],
+                            [
+                                28.70765195759107,
+                                44.8436679328914
+                            ],
+                            [
+                                28.72177495618339,
+                                44.78941191877472
+                            ],
+                            [
+                                28.71995858999296,
+                                44.74465463805517
+                            ],
+                            [
+                                28.71717192142644,
+                                44.67488998023749
+                            ],
+                            [
+                                28.75738254539075,
+                                44.62526128024449
+                            ],
+                            [
+                                28.75466641883992,
+                                44.55814922440499
+                            ],
+                            [
+                                28.74938857684639,
+                                44.49470558577531
+                            ],
+                            [
+                                28.69384036724811,
+                                44.43853268568819
+                            ],
+                            [
+                                28.68892230569071,
+                                44.43633206909488
+                            ],
+                            [
+                                28.64107965250869,
+                                44.38696077990323
+                            ],
+                            [
+                                28.64060139363465,
+                                44.32798867787671
+                            ],
+                            [
+                                28.57322178580338,
+                                44.27960123095924
+                            ],
+                            [
+                                28.645026283405276,
+                                44.182169992816966
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "a6c153d4-1cbb-4754-80eb-787c4a24c9e8",
+                    "name": "Bacău - Roman",
+                    "start": "09e9f0ad-03c2-465f-b117-c1dba3599678",
+                    "end": "7399da50-1e2a-43f2-90c7-b40f4b47150a",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                26.913195903209008,
+                                46.57612054052914
+                            ],
+                            [
+                                26.86222948449065,
+                                46.73593734454406
+                            ],
+                            [
+                                26.87333416323761,
+                                46.86012602559512
+                            ],
+                            [
+                                26.926525268536768,
+                                46.92159759264696
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "4932666c-b16c-4bda-93cd-4fec967708e4",
+                    "name": "Iași - Targu Neamt",
+                    "start": "d0a66917-0ca5-4de1-abb7-b65cc13506dd",
+                    "end": "6335ece5-9aa6-41c6-a865-c1593eeab438",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                27.594692153852957,
+                                47.16247042134645
+                            ],
+                            [
+                                27.30871657479173,
+                                47.21222636243668
+                            ],
+                            [
+                                27.06236593110918,
+                                47.21972294025449
+                            ],
+                            [
+                                26.95805440171756,
+                                47.18132062981644
+                            ],
+                            [
+                                26.81781964667853,
+                                47.21520934374436
+                            ],
+                            [
+                                26.75287934164719,
+                                47.19836373009818
+                            ],
+                            [
+                                26.6971076949964,
+                                47.23749808232387
+                            ],
+                            [
+                                26.52207343261652,
+                                47.2164657010662
+                            ],
+                            [
+                                26.360597029981193,
+                                47.20559422585719
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "a28523cc-3a3b-4bbd-954b-e0e3a32a28a7",
+                    "name": "Targu Neamt - Botoşani",
+                    "start": "6335ece5-9aa6-41c6-a865-c1593eeab438",
+                    "end": "38b9adf1-c9b7-4bd8-b981-ed76673eb5b5",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                26.36049735963969,
+                                47.205587515504284
+                            ],
+                            [
+                                26.43746461179733,
+                                47.27764202763314
+                            ],
+                            [
+                                26.35614028004698,
+                                47.38183043253209
+                            ],
+                            [
+                                26.3854272133286,
+                                47.44432747352054
+                            ],
+                            [
+                                26.50271308512848,
+                                47.46130106993383
+                            ],
+                            [
+                                26.56974574502629,
+                                47.48611659847742
+                            ],
+                            [
+                                26.64651753201573,
+                                47.52735986790972
+                            ],
+                            [
+                                26.70409005693835,
+                                47.59321631597336
+                            ],
+                            [
+                                26.69139900037749,
+                                47.66054098909694
+                            ],
+                            [
+                                26.66327142374897,
+                                47.74431764874062
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "a655fefa-6ece-47bf-bfd7-078e8746b38e",
+                    "name": "Suceava - Câmpulung Moldovenesc",
+                    "start": "c6702202-7908-47c5-b669-349e4416b6af",
+                    "end": "c2fdca01-97c5-4f50-b805-2d16fbe9789f",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                26.271646067138246,
+                                47.666949232303615
+                            ],
+                            [
+                                26.23341971744126,
+                                47.6304731862399
+                            ],
+                            [
+                                26.19820072771,
+                                47.69587278756869
+                            ],
+                            [
+                                26.18524089186482,
+                                47.73692301347462
+                            ],
+                            [
+                                26.10216648467203,
+                                47.75077180015582
+                            ],
+                            [
+                                26.05095246090964,
+                                47.75672391911144
+                            ],
+                            [
+                                26.05091109398621,
+                                47.75837193151177
+                            ],
+                            [
+                                25.94934121186695,
+                                47.82632422526807
+                            ],
+                            [
+                                25.92133542936761,
+                                47.78796177888739
+                            ],
+                            [
+                                25.92660641518327,
+                                47.6942708051181
+                            ],
+                            [
+                                25.92447769687832,
+                                47.60417186656735
+                            ],
+                            [
+                                25.9164143717591,
+                                47.55184207191811
+                            ],
+                            [
+                                25.871348607709,
+                                47.53339813896243
+                            ],
+                            [
+                                25.78454591324162,
+                                47.54700504666034
+                            ],
+                            [
+                                25.69656633543113,
+                                47.53475188293807
+                            ],
+                            [
+                                25.61574139011175,
+                                47.48791634975628
+                            ],
+                            [
+                                25.568883975014657,
+                                47.52311685866135
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "7d9e9563-1862-4f3b-bbc3-f02af50b787d",
+                    "name": "default-node - Vastra Dornei",
+                    "start": "980e0ace-ea14-4f08-858f-38cabfc8d464",
+                    "end": "0e66f591-31cb-41ea-992c-0707ccf3229b",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                25.52475430727239,
+                                47.54213359822351
+                            ],
+                            [
+                                25.4447251046868,
+                                47.55560823473819
+                            ],
+                            [
+                                25.41272955559761,
+                                47.44759924486424
+                            ],
+                            [
+                                25.36388443696991,
+                                47.351281431036185
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "9257918a-2e04-40e0-b31b-e70f671ab2b9",
+                    "name": "Vastra Dornei - Piatra Neamț",
+                    "start": "0e66f591-31cb-41ea-992c-0707ccf3229b",
+                    "end": "30eb4e54-d645-473b-9881-2ea895ab1800",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                25.36383924534311,
+                                47.3511923175522
+                            ],
+                            [
+                                25.440266245705,
+                                47.37640423539732
+                            ],
+                            [
+                                25.51351464450239,
+                                47.41886090117372
+                            ],
+                            [
+                                25.55915658432712,
+                                47.42790798045158
+                            ],
+                            [
+                                25.64602126837659,
+                                47.35680962299862
+                            ],
+                            [
+                                25.69880996489098,
+                                47.28361738939807
+                            ],
+                            [
+                                25.77475352377714,
+                                47.24035978473449
+                            ],
+                            [
+                                25.82093783851743,
+                                47.22783758652741
+                            ],
+                            [
+                                25.93886418670743,
+                                47.13088174847588
+                            ],
+                            [
+                                26.0097029572228,
+                                47.08575233041662
+                            ],
+                            [
+                                26.06816374472405,
+                                47.0568102336877
+                            ],
+                            [
+                                26.14878299693667,
+                                46.99526424078299
+                            ],
+                            [
+                                26.16383876248037,
+                                46.94635597292687
+                            ],
+                            [
+                                26.238818339739,
+                                46.95490284638838
+                            ],
+                            [
+                                26.297032039638,
+                                46.96334534846014
+                            ],
+                            [
+                                26.372510057692352,
+                                46.93746606766217
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "0da0b84c-a41b-425b-821e-b28775b3b279",
+                    "name": "Piatra Neamț - Bacău",
+                    "start": "30eb4e54-d645-473b-9881-2ea895ab1800",
+                    "end": "09e9f0ad-03c2-465f-b117-c1dba3599678",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                26.37260454627846,
+                                46.93743367019447
+                            ],
+                            [
+                                26.48642735858899,
+                                46.88534587630105
+                            ],
+                            [
+                                26.54914847359131,
+                                46.84640505365648
+                            ],
+                            [
+                                26.56904849815647,
+                                46.76624277209714
+                            ],
+                            [
+                                26.65795139521317,
+                                46.70453458896991
+                            ],
+                            [
+                                26.73231585804215,
+                                46.65250252236341
+                            ],
+                            [
+                                26.91322626805077,
+                                46.57602532465784
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "df082b12-4a96-4978-806b-5047fa1547d2",
+                    "name": "Bacău - Moinești",
+                    "start": "09e9f0ad-03c2-465f-b117-c1dba3599678",
+                    "end": "349ceb50-af04-4343-9743-8747fe56280e",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                26.91322626805077,
+                                46.57602532465784
+                            ],
+                            [
+                                26.83770672564326,
+                                46.5628967823519
+                            ],
+                            [
+                                26.76360917746534,
+                                46.57426561416903
+                            ],
+                            [
+                                26.73254847380068,
+                                46.58563196749598
+                            ],
+                            [
+                                26.69688500592645,
+                                46.5644117959179
+                            ],
+                            [
+                                26.6946441379922,
+                                46.5367580179425
+                            ],
+                            [
+                                26.6900865726207,
+                                46.49938235198093
+                            ],
+                            [
+                                26.63313706375315,
+                                46.497708175171
+                            ],
+                            [
+                                26.58336432993799,
+                                46.4992583009857
+                            ],
+                            [
+                                26.49075692631802,
+                                46.463761016538825
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "787d0b2c-6be9-4c00-9a15-5b4f5491c960",
+                    "name": "Moinești - Miercurea Ciuc",
+                    "start": "349ceb50-af04-4343-9743-8747fe56280e",
+                    "end": "75209be4-1d0d-48c1-b84f-3f778bc4a79d",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                26.490855972564415,
+                                46.46374803133385
+                            ],
+                            [
+                                26.5020729587529,
+                                46.46227745702907
+                            ],
+                            [
+                                26.48046166525164,
+                                46.42604725592111
+                            ],
+                            [
+                                26.43009240046443,
+                                46.39794967446605
+                            ],
+                            [
+                                26.33169113474381,
+                                46.42035722607416
+                            ],
+                            [
+                                26.28375539812293,
+                                46.43151510858403
+                            ],
+                            [
+                                26.24769131102725,
+                                46.4525384349842
+                            ],
+                            [
+                                26.21641309203224,
+                                46.47194326940976
+                            ],
+                            [
+                                26.16359669761358,
+                                46.49442790716182
+                            ],
+                            [
+                                26.08913958419673,
+                                46.5281262864154
+                            ],
+                            [
+                                26.03353699222425,
+                                46.57178379727974
+                            ],
+                            [
+                                26.00102311868724,
+                                46.52887713279301
+                            ],
+                            [
+                                25.96971461283215,
+                                46.43554551880877
+                            ],
+                            [
+                                25.88958974131524,
+                                46.42337341477197
+                            ],
+                            [
+                                25.803952338506434,
+                                46.36573235931717
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "6a3c1a18-a538-43f5-8675-e0579b4baa26",
+                    "name": "Miercurea Ciuc - Sfântu Gheorghe",
+                    "start": "75209be4-1d0d-48c1-b84f-3f778bc4a79d",
+                    "end": "94f145a9-bea0-47c1-8da2-c40b4ff9f442",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                25.80386939326362,
+                                46.36567653030807
+                            ],
+                            [
+                                25.8731067465392,
+                                46.32580840594115
+                            ],
+                            [
+                                25.93753032289487,
+                                46.28745493798811
+                            ],
+                            [
+                                25.92854493426489,
+                                46.15858820243391
+                            ],
+                            [
+                                25.89432233084878,
+                                46.09926967158627
+                            ],
+                            [
+                                25.88609732888187,
+                                46.04367035568759
+                            ],
+                            [
+                                25.86642989522587,
+                                45.97669574443834
+                            ],
+                            [
+                                25.81278811896139,
+                                45.86907182956645
+                            ],
+                            [
+                                25.804878195271513,
+                                45.861510721588324
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "e871674b-2bce-4956-be91-6e95395c96b1",
+                    "name": "Vastra Dornei - Bistrița",
+                    "start": "0e66f591-31cb-41ea-992c-0707ccf3229b",
+                    "end": "626d266f-7da7-48fd-b0eb-b8c077794086",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                25.36383924534311,
+                                47.3511923175522
+                            ],
+                            [
+                                25.10184128782394,
+                                47.3659793876829
+                            ],
+                            [
+                                24.98514255658205,
+                                47.36362051722019
+                            ],
+                            [
+                                24.84698010954552,
+                                47.31691897470613
+                            ],
+                            [
+                                24.77800286310907,
+                                47.29981800096165
+                            ],
+                            [
+                                24.82167092614498,
+                                47.24147016572392
+                            ],
+                            [
+                                24.58273369921331,
+                                47.21448438071479
+                            ],
+                            [
+                                24.488742680974678,
+                                47.13893842674012
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "df3ec258-80bc-43e0-805c-c28f8bb35ec1",
+                    "name": "Bistrița - Dej",
+                    "start": "626d266f-7da7-48fd-b0eb-b8c077794086",
+                    "end": "7fa16fac-0cc2-4f43-ac50-740d143e68f3",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                24.488644039906553,
+                                47.13892271004511
+                            ],
+                            [
+                                24.43495544274334,
+                                47.13036838958835
+                            ],
+                            [
+                                24.3069529037372,
+                                47.2234461338136
+                            ],
+                            [
+                                24.2390310290071,
+                                47.20931837395962
+                            ],
+                            [
+                                24.04985781478596,
+                                47.24462227645684
+                            ],
+                            [
+                                23.898998889525576,
+                                47.17854035695908
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "bdd97a34-eb3f-4169-bdac-4adc6a9bae95",
+                    "name": "Dej - Baia Mare",
+                    "start": "7fa16fac-0cc2-4f43-ac50-740d143e68f3",
+                    "end": "1b992792-ebdc-4814-b5bb-e5455b707a43",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                23.89890736394171,
+                                47.17850026528897
+                            ],
+                            [
+                                23.94228057935029,
+                                47.36573238548342
+                            ],
+                            [
+                                23.99402080285633,
+                                47.42011082508205
+                            ],
+                            [
+                                23.9053967653072,
+                                47.44552084889711
+                            ],
+                            [
+                                23.88533475997584,
+                                47.54781561856475
+                            ],
+                            [
+                                23.75618213470983,
+                                47.62502751304375
+                            ],
+                            [
+                                23.58382070795144,
+                                47.66178102155552
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "2305a801-e144-42e0-9ac8-3ee8b07d3e6a",
+                    "name": "Baia Mare - Satu Mare",
+                    "start": "1b992792-ebdc-4814-b5bb-e5455b707a43",
+                    "end": "37e9f8c0-9a78-46e9-83f3-715ac58883bc",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                23.583727071371303,
+                                47.661815800220396
+                            ],
+                            [
+                                23.31798077437887,
+                                47.76051976177056
+                            ],
+                            [
+                                23.1702274892351,
+                                47.81795479880318
+                            ],
+                            [
+                                22.903232780409617,
+                                47.81415782551621
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "91ce1536-c89b-494b-b639-a1c5c1ccba0f",
+                    "name": "default-node - Marghita",
+                    "start": "dcf60a45-ffd3-4c02-bf78-9430b4edb422",
+                    "end": "3d691ac2-fdf5-4fbb-b7a1-dbd69f33bd91",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                22.81554182748648,
+                                47.80688419972773
+                            ],
+                            [
+                                22.6887782509645,
+                                47.76651983324331
+                            ],
+                            [
+                                22.75285161355389,
+                                47.66805367669078
+                            ],
+                            [
+                                22.84234186551318,
+                                47.5929641516267
+                            ],
+                            [
+                                22.88230154943203,
+                                47.44064811372112
+                            ],
+                            [
+                                22.95117588824315,
+                                47.32448024724984
+                            ],
+                            [
+                                22.7671137708142,
+                                47.27978561305122
+                            ],
+                            [
+                                22.52076067117182,
+                                47.3288952767322
+                            ],
+                            [
+                                22.33191410967834,
+                                47.34371962578159
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "5847366a-0079-40e5-9999-f9e30f78a8be",
+                    "name": "Marghita - Oradea",
+                    "start": "3d691ac2-fdf5-4fbb-b7a1-dbd69f33bd91",
+                    "end": "05ecf826-04be-46ea-8f62-854f976c3a32",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                22.331875205739593,
+                                47.34381171312055
+                            ],
+                            [
+                                22.30259936689716,
+                                47.4131089149392
+                            ],
+                            [
+                                22.27373888944504,
+                                47.42745432782114
+                            ],
+                            [
+                                22.12299193001489,
+                                47.33959614133155
+                            ],
+                            [
+                                21.99823859774145,
+                                47.18789537523023
+                            ],
+                            [
+                                21.933622524883997,
+                                47.04865887134849
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "ae86fd6d-00e4-4f4b-b4b8-726f936145cf",
+                    "name": "default-node - Cluj-Napoca",
+                    "start": "35cd4691-40e1-4112-983c-cdeeb3259155",
+                    "end": "e9a0013e-d93f-4357-8c3c-633b322a5470",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                23.84463935696558,
+                                47.20889127522682
+                            ],
+                            [
+                                23.69175550922207,
+                                47.20970257363241
+                            ],
+                            [
+                                23.65746284858952,
+                                47.08796016486309
+                            ],
+                            [
+                                23.65304289989614,
+                                46.93324933339382
+                            ],
+                            [
+                                23.625247938153095,
+                                46.7911875136418
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "c8d43b7f-54a6-46ab-ba76-fd93ceb9b539",
+                    "name": "Timișoara - Sânnicolau Mare",
+                    "start": "61264195-bc6c-43fe-95b4-0d90a107a5de",
+                    "end": "1cfce40f-23a1-4b2d-a936-49f5405081fc",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                21.214016181842542,
+                                45.800478153882466
+                            ],
+                            [
+                                21.0999250639987,
+                                45.9113134714139
+                            ],
+                            [
+                                20.93611974190925,
+                                45.95177950836055
+                            ],
+                            [
+                                20.78048071527819,
+                                46.00459483911112
+                            ],
+                            [
+                                20.63224532382661,
+                                46.07285941333418
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "62591a5d-b54c-4107-ab36-a6b07b1ed816",
+                    "name": "Sânnicolau Mare - Nădlac",
+                    "start": "1cfce40f-23a1-4b2d-a936-49f5405081fc",
+                    "end": "002d2759-e68a-4f2e-8b45-0097f054bc23",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                20.6321545972079,
+                                46.07290119427418
+                            ],
+                            [
+                                20.747134382554655,
+                                46.17685057680293
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "719d532b-02aa-45d7-bcc3-05d806c381fc",
+                    "name": "Sânnicolau Mare - Arad",
+                    "start": "1cfce40f-23a1-4b2d-a936-49f5405081fc",
+                    "end": "0425c0fe-8a40-4e30-9583-4f768f28e988",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                20.6321545972079,
+                                46.07290119427418
+                            ],
+                            [
+                                20.83609582279671,
+                                46.09742549535661
+                            ],
+                            [
+                                21.01974490936066,
+                                46.12927521767087
+                            ],
+                            [
+                                21.20136222979926,
+                                46.14526068997019
+                            ],
+                            [
+                                21.32318669566955,
+                                46.179632512062305
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "f4061ea8-76a7-45d4-8fd0-b26b870742a7",
+                    "name": "Arad - Lipova",
+                    "start": "0425c0fe-8a40-4e30-9583-4f768f28e988",
+                    "end": "92c94fc9-92ba-4ab9-9030-21ef7db2ae8c",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                21.32328286442689,
+                                46.1796596453265
+                            ],
+                            [
+                                21.685201215581245,
+                                46.113934491002496
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "af9d5add-0921-41ec-9b89-eeda5ac8f4ac",
+                    "name": "default-node - Deva",
+                    "start": "d0dc6b7d-3fe9-4d9a-a3a3-4d03830cc0f2",
+                    "end": "e9ee25f0-e5ea-4b7b-bd1c-9022f0402e98",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                21.73393828373348,
+                                46.11268878663927
+                            ],
+                            [
+                                21.83798966566209,
+                                46.14260448556405
+                            ],
+                            [
+                                21.93524497571939,
+                                46.15348572864085
+                            ],
+                            [
+                                22.07067176222722,
+                                46.14117786016489
+                            ],
+                            [
+                                22.12731607488376,
+                                46.10956096203378
+                            ],
+                            [
+                                22.21785747584933,
+                                46.04836073991559
+                            ],
+                            [
+                                22.42056054913299,
+                                46.03544707650655
+                            ],
+                            [
+                                22.56870095172207,
+                                45.97945465776862
+                            ],
+                            [
+                                22.72700562352409,
+                                45.96716145334573
+                            ],
+                            [
+                                22.87634661378718,
+                                45.9129272971303
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "93af599c-23ce-4215-ac2f-cdd2093bc731",
+                    "name": "Deva - Câmpeni",
+                    "start": "e9ee25f0-e5ea-4b7b-bd1c-9022f0402e98",
+                    "end": "8d5dfcff-e937-4814-9393-006c0cc7c5fb",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                22.876342200284615,
+                                45.91302708030883
+                            ],
+                            [
+                                22.87170859522263,
+                                46.01778647133639
+                            ],
+                            [
+                                22.85225170636286,
+                                46.08824191068827
+                            ],
+                            [
+                                22.79526872287313,
+                                46.17907500499469
+                            ],
+                            [
+                                22.79163127134756,
+                                46.21933809355552
+                            ],
+                            [
+                                22.88410783500754,
+                                46.23234129354004
+                            ],
+                            [
+                                22.93951023556795,
+                                46.2625401104541
+                            ],
+                            [
+                                23.01944107431032,
+                                46.32179420588763
+                            ],
+                            [
+                                23.08439930116952,
+                                46.36558038199193
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "da4b8f73-f8f3-4861-835f-d0aa6608db96",
+                    "name": "Câmpeni - Alba Ilulia",
+                    "start": "8d5dfcff-e937-4814-9393-006c0cc7c5fb",
+                    "end": "14d5d00e-f960-4066-9ff7-7e7341757db9",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                23.084453543816945,
+                                46.36549644722412
+                            ],
+                            [
+                                23.13406371646792,
+                                46.28872994485167
+                            ],
+                            [
+                                23.23593332924025,
+                                46.18657348118727
+                            ],
+                            [
+                                23.31556735077129,
+                                46.13657520985706
+                            ],
+                            [
+                                23.55187899312058,
+                                46.0763687016609
+                            ],
+                            [
+                                23.580389922434563,
+                                46.07551618730421
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "9b8796aa-111a-4f31-bbaf-b0c2fb1ed6cf",
+                    "name": "Alba Ilulia - Sibiu",
+                    "start": "14d5d00e-f960-4066-9ff7-7e7341757db9",
+                    "end": "c109db92-b447-4445-bd67-e27423acafe9",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                23.580489775754273,
+                                46.075513201558365
+                            ],
+                            [
+                                23.5754220173194,
+                                45.99023643914062
+                            ],
+                            [
+                                23.80286844813548,
+                                45.91678498576774
+                            ],
+                            [
+                                23.88839658119083,
+                                45.90383200321681
+                            ],
+                            [
+                                23.91873585759004,
+                                45.92022930387962
+                            ],
+                            [
+                                23.93590958852932,
+                                45.85251652557696
+                            ],
+                            [
+                                24.13428938001007,
+                                45.799355639929296
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "0f8981fa-e49e-4e49-bb96-4b3c53072610",
+                    "name": "default-node - Sibiu South Branch",
+                    "start": "e99e857a-ccbe-4cd6-9518-266c9a64fcf8",
+                    "end": "fae41e6c-f4bc-4795-aa43-8d6f3e1b143c",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                24.18512126321336,
+                                45.78490316992993
+                            ],
+                            [
+                                24.2385291688746,
+                                45.69648036832028
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "45913e39-c9db-4f68-a675-68036d410534",
+                    "name": "Sibiu South Branch - Romania",
+                    "start": "fae41e6c-f4bc-4795-aa43-8d6f3e1b143c",
+                    "end": "c9d778f3-090c-4028-b6c3-9bc27c022889",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                24.23858080838676,
+                                45.69639487329324
+                            ],
+                            [
+                                24.34258320343704,
+                                45.67099656212223
+                            ],
+                            [
+                                24.44696604185877,
+                                45.74473561660561
+                            ],
+                            [
+                                24.55327696720185,
+                                45.78754333517526
+                            ],
+                            [
+                                24.62625276983172,
+                                45.76736400372918
+                            ],
+                            [
+                                24.72091868599082,
+                                45.77558601315974
+                            ],
+                            [
+                                24.73671535278984,
+                                45.84450526363066
+                            ],
+                            [
+                                24.7411475074782,
+                                45.84771980311771
+                            ],
+                            [
+                                24.79987525555854,
+                                45.85832262035792
+                            ],
+                            [
+                                24.85427376515132,
+                                45.86569529000706
+                            ],
+                            [
+                                24.96382819178325,
+                                45.86187844905204
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "d787e808-37c4-43e6-aeae-b9c2b4fc1609",
+                    "name": "Romania - Făgăraș",
+                    "start": "c9d778f3-090c-4028-b6c3-9bc27c022889",
+                    "end": "77d26dbe-88ea-42a8-a2d6-4fc1cc2fb8d8",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                24.96402785005541,
+                                45.861871493022115
+                            ],
+                            [
+                                24.9683626937118,
+                                45.86172046846464
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "f10c3ab1-a7e0-49c8-bee5-0d879c50d7e3",
+                    "name": "Sibiu South Branch - Râmnicu Vâlcea",
+                    "start": "fae41e6c-f4bc-4795-aa43-8d6f3e1b143c",
+                    "end": "3196b9d7-ad94-46ad-934f-60bae1d2ce62",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                24.23858080838676,
+                                45.69639487329324
+                            ],
+                            [
+                                24.25580471327073,
+                                45.61634807745287
+                            ],
+                            [
+                                24.27700124737066,
+                                45.54573376564455
+                            ],
+                            [
+                                24.29233412838201,
+                                45.48213329155529
+                            ],
+                            [
+                                24.28445996546085,
+                                45.36051390422259
+                            ],
+                            [
+                                24.3092175034426,
+                                45.30522156179423
+                            ],
+                            [
+                                24.38808436674825,
+                                45.19916377721272
+                            ],
+                            [
+                                24.365087622375448,
+                                45.101746804308455
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "4bd34415-2529-42e2-94a8-a2366e30b5aa",
+                    "name": "Râmnicu Vâlcea - Râmnicu Vâlcea South Branch",
+                    "start": "3196b9d7-ad94-46ad-934f-60bae1d2ce62",
+                    "end": "57b857ab-00d0-4724-b89a-601876a48a02",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                24.365032675519643,
+                                45.1016632916269
+                            ],
+                            [
+                                24.34551991048266,
+                                45.07200621100016
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "d0ff034e-1d63-4fd7-925c-d5a5d5abb9de",
+                    "name": "Râmnicu Vâlcea South Branch - Stupărei",
+                    "start": "57b857ab-00d0-4724-b89a-601876a48a02",
+                    "end": "c0b40dec-3a22-42f3-a5e1-a2f4ef73f689",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                24.34504249367819,
+                                45.07123628678983
+                            ],
+                            [
+                                24.32859682592509,
+                                45.07023727130215
+                            ],
+                            [
+                                24.290864863373095,
+                                45.027593896229014
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "fdae7889-8f76-4a3e-8a92-bf82b7da8aa8",
+                    "name": "Stupărei - Drăgășani",
+                    "start": "c0b40dec-3a22-42f3-a5e1-a2f4ef73f689",
+                    "end": "14076338-5fc0-4f9a-94dc-5e69a2dd54ae",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                24.2907986722412,
+                                45.02751908927297
+                            ],
+                            [
+                                24.27941389316463,
+                                44.99369335956934
+                            ],
+                            [
+                                24.27491225630263,
+                                44.94367435767243
+                            ],
+                            [
+                                24.26394067731662,
+                                44.88454719881771
+                            ],
+                            [
+                                24.26787318610896,
+                                44.82756190181799
+                            ],
+                            [
+                                24.26638946405301,
+                                44.7602287846168
+                            ],
+                            [
+                                24.261306614733915,
+                                44.66088121899643
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "13087b6c-8cb5-4789-993d-5049a2f8362e",
+                    "name": "Drăgășani - Craiova",
+                    "start": "14076338-5fc0-4f9a-94dc-5e69a2dd54ae",
+                    "end": "83b4b645-be2f-4cb5-ac6a-4ce87287a540",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                24.261313999802788,
+                                44.6607815818016
+                            ],
+                            [
+                                24.27298762666708,
+                                44.5032844136708
+                            ],
+                            [
+                                24.27430959583488,
+                                44.40891653141784
+                            ],
+                            [
+                                24.01159193581391,
+                                44.42109400539324
+                            ],
+                            [
+                                23.93442817665905,
+                                44.37498366307438
+                            ],
+                            [
+                                23.80143862454416,
+                                44.32063379306455
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "cf379241-dc00-43d0-a2eb-8641df0ca5e7",
+                    "name": "Craiova - Târgu Cărbunești",
+                    "start": "83b4b645-be2f-4cb5-ac6a-4ce87287a540",
+                    "end": "8f612cad-454b-404d-88fc-8d0d006c7fe9",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                23.80134607693911,
+                                44.32059597091819
+                            ],
+                            [
+                                23.82133904947196,
+                                44.40044790403412
+                            ],
+                            [
+                                23.81460794658169,
+                                44.48416096386121
+                            ],
+                            [
+                                23.67726166443673,
+                                44.67259114574139
+                            ],
+                            [
+                                23.57291081893388,
+                                44.85030603678445
+                            ],
+                            [
+                                23.51426894692277,
+                                44.954430263748634
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "4eeb9ff5-9c1d-4fd9-a7ea-c910341a9846",
+                    "name": "Târgu Cărbunești - Târgu Jiu",
+                    "start": "8f612cad-454b-404d-88fc-8d0d006c7fe9",
+                    "end": "249b05cc-44c7-4281-a271-29298ed2cff2",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                23.514219916217343,
+                                44.95451732243426
+                            ],
+                            [
+                                23.37354602920523,
+                                44.98813359269818
+                            ],
+                            [
+                                23.33163257408188,
+                                45.0258284107501
+                            ],
+                            [
+                                23.27201033936455,
+                                45.041316527655034
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "31eab1b6-bb3f-43d0-b9ad-3160bb4a1bbe",
+                    "name": "Pitești - Trivalea-Moşteni",
+                    "start": "09ad07f0-7b3a-4a62-b007-e277e7926d1e",
+                    "end": "a53cb9c6-49f9-4374-bc91-96787c3321c9",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                24.88221832792762,
+                                44.86828815335562
+                            ],
+                            [
+                                24.98155866844673,
+                                44.8094218147661
+                            ],
+                            [
+                                25.07227959354264,
+                                44.77399443747372
+                            ],
+                            [
+                                25.1886887706758,
+                                44.75776617092196
+                            ],
+                            [
+                                25.16780896864845,
+                                44.70355951892316
+                            ],
+                            [
+                                25.18395831139051,
+                                44.64398030390802
+                            ],
+                            [
+                                25.18013496306963,
+                                44.60403567224262
+                            ],
+                            [
+                                25.13573361097259,
+                                44.52987070326505
+                            ],
+                            [
+                                25.14300259950512,
+                                44.42705474941957
+                            ],
+                            [
+                                25.244200959186948,
+                                44.262609535247265
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "35aa24af-b798-432a-b34f-cbd589676882",
+                    "name": "Trivalea-Moşteni - Bucharest",
+                    "start": "a53cb9c6-49f9-4374-bc91-96787c3321c9",
+                    "end": "cd9830d7-ca92-41c6-b12e-60e6716171fc",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                25.24425330987203,
+                                44.26252446648086
+                            ],
+                            [
+                                25.50432796695665,
+                                44.31620703373203
+                            ],
+                            [
+                                25.56190290461856,
+                                44.27227778013626
+                            ],
+                            [
+                                25.95976470822502,
+                                44.33051196172361
+                            ],
+                            [
+                                26.0054491026643,
+                                44.32839039909926
+                            ],
+                            [
+                                26.12077485050126,
+                                44.39428943807563
+                            ],
+                            [
+                                26.110522272731377,
+                                44.42870689368518
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "17beda6f-769e-4575-8479-1f4ff6296912",
+                    "name": "Bucharest - Alexandria",
+                    "start": "cd9830d7-ca92-41c6-b12e-60e6716171fc",
+                    "end": "3a68fea1-fe2c-4112-bfbb-aa16bd4f8faf",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                26.11049373027663,
+                                44.42880270945867
+                            ],
+                            [
+                                25.96369650772586,
+                                44.27089301000195
+                            ],
+                            [
+                                25.92756772324884,
+                                44.25080368395827
+                            ],
+                            [
+                                25.7969748381631,
+                                43.98507960077227
+                            ],
+                            [
+                                25.55720149397425,
+                                43.95616814568086
+                            ],
+                            [
+                                25.34098527326431,
+                                43.97160588017116
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "7b468c0d-9f9c-476f-ab0d-bd32b25ee8d1",
+                    "name": "Alexandria - Giurgiu",
+                    "start": "3a68fea1-fe2c-4112-bfbb-aa16bd4f8faf",
+                    "end": "d48b7daa-9ce3-41f4-a78d-3140d1a2a27c",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                25.34088562280161,
+                                43.97161299516642
+                            ],
+                            [
+                                25.63936874265751,
+                                43.92264722181585
+                            ],
+                            [
+                                25.966734301283108,
+                                43.89695114187727
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "0af7a303-a2b3-4f50-9164-e361002d82e2",
+                    "name": "Bucharest - Ploiești",
+                    "start": "cd9830d7-ca92-41c6-b12e-60e6716171fc",
+                    "end": "3f4649b7-530c-4552-b16a-1e18f182a38a",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                26.11049373027663,
+                                44.42880270945867
+                            ],
+                            [
+                                26.21246384441701,
+                                44.52538393594011
+                            ],
+                            [
+                                26.08561879012978,
+                                44.71972027324432
+                            ],
+                            [
+                                26.012648292753468,
+                                44.917661522562135
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "dc058b99-7ba2-40bf-9a90-69fa3d1a67f7",
+                    "name": "default-node - Cheia",
+                    "start": "afe3ae7e-d422-4b27-bfa2-1caa28722b98",
+                    "end": "5bb976ad-b526-43b2-b297-dda208b8561b",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                26.06156580935144,
+                                44.99373749133382
+                            ],
+                            [
+                                26.04830884044614,
+                                45.16608286438559
+                            ],
+                            [
+                                25.95352877801042,
+                                45.18919340604612
+                            ],
+                            [
+                                26.00751902357995,
+                                45.24449066948985
+                            ],
+                            [
+                                25.98686980659083,
+                                45.35981320418942
+                            ],
+                            [
+                                25.9450859172732,
+                                45.456771746295026
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "adf6a2fd-affb-493a-9e2a-2abb483c6839",
+                    "name": "Brașov - Sfântu Gheorghe",
+                    "start": "2686ded6-e471-42e2-a8e6-7d490f0b2683",
+                    "end": "94f145a9-bea0-47c1-8da2-c40b4ff9f442",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                25.608092756101986,
+                                45.65278856609144
+                            ],
+                            [
+                                25.76552834311285,
+                                45.77381470766326
+                            ],
+                            [
+                                25.80480597032249,
+                                45.86144168165068
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "d4daf639-91fc-46b0-9465-2c867b4f7214",
+                    "name": "default-node - Romania",
+                    "start": "be594966-c736-49c0-af81-a0a33120d69d",
+                    "end": "c9d778f3-090c-4028-b6c3-9bc27c022889",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                25.05805052269718,
+                                45.83822060060586
+                            ],
+                            [
+                                24.96392802091933,
+                                45.861874971037075
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "a74c9a5c-28d0-4019-b954-a88e252a9f53",
+                    "name": "Romania - Brașov",
+                    "start": "c9d778f3-090c-4028-b6c3-9bc27c022889",
+                    "end": "2686ded6-e471-42e2-a8e6-7d490f0b2683",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                24.96392802091933,
+                                45.861874971037075
+                            ],
+                            [
+                                25.14151481635778,
+                                45.85150336366725
+                            ],
+                            [
+                                25.19556308756273,
+                                45.91777423151427
+                            ],
+                            [
+                                25.27700573730914,
+                                45.98870671234084
+                            ],
+                            [
+                                25.3475002434685,
+                                46.00372115862916
+                            ],
+                            [
+                                25.41573790468467,
+                                45.93780165528508
+                            ],
+                            [
+                                25.44111149485371,
+                                45.91717834356492
+                            ],
+                            [
+                                25.58523345530993,
+                                45.94699429917098
+                            ],
+                            [
+                                25.60189249764548,
+                                45.85308651528407
+                            ],
+                            [
+                                25.60808966528459,
+                                45.65288841424932
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                },
+                {
+                    "id": "5fc751dd-82e3-4a6c-8f08-0931ecf35ac0",
+                    "name": "Râmnicu Vâlcea South Branch - Pitești",
+                    "start": "57b857ab-00d0-4724-b89a-601876a48a02",
+                    "end": "09ad07f0-7b3a-4a62-b007-e277e7926d1e",
+                    "status": "operational",
+                    "networkProviders": [
+                        {
+                            "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                            "name": "directOne"
+                        }
+                    ],
+                    "route": {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                24.34514219613809,
+                                45.07124234335762
+                            ],
+                            [
+                                24.39399896590615,
+                                45.04215869502688
+                            ],
+                            [
+                                24.47170485389042,
+                                45.00751929229148
+                            ],
+                            [
+                                24.56087225974991,
+                                44.97633122281376
+                            ],
+                            [
+                                24.59690911048557,
+                                44.97233791351072
+                            ],
+                            [
+                                24.6835646883176,
+                                44.9139272367641
+                            ],
+                            [
+                                24.71185340874005,
+                                44.87285789025091
+                            ],
+                            [
+                                24.88211845952827,
+                                44.86829083214837
+                            ]
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                        "name": "directOne"
+                    }
+                }
+            ],
+            "organisations": [
+                {
+                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
+                    "name": "directOne"
+                },
+                {
+                    "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
+                    "name": "directOne"
+                }
+            ]
+        }
+    ]
+}
