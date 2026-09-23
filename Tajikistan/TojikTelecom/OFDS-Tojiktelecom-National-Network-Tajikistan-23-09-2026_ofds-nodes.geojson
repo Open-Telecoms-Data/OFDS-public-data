@@ -1,0 +1,1913 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.77761195018967,
+                    38.58295728478754
+                ]
+            },
+            "properties": {
+                "name": "Dushanbe",
+                "id": "6b136378-304a-4b1b-834c-4ca1e625dfd4",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.77827672130184,
+                    37.83681692679242
+                ]
+            },
+            "properties": {
+                "name": "Bokhtar",
+                "id": "68a5a260-e646-4b60-9a7e-40772063c1b1",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.34205454846273,
+                    38.08093012731267
+                ]
+            },
+            "properties": {
+                "name": "Danghara",
+                "id": "ffe3faa4-8f41-432b-8b9f-bc9f0db840ce",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.1774204536746,
+                    38.50912090210659
+                ]
+            },
+            "properties": {
+                "name": "Tursunzode",
+                "id": "06e8a15b-8823-45e2-be2e-4962832f99a7",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.32992808438534,
+                    38.57667598069009
+                ]
+            },
+            "properties": {
+                "name": "Shahrinav",
+                "id": "31512956-7204-4fbe-ace6-027e470e5e52",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.55570664057633,
+                    38.52727544448342
+                ]
+            },
+            "properties": {
+                "name": "Gissar",
+                "id": "59221689-d937-4788-b1f0-81a35f4bbd60",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.59596433437457,
+                    39.49407803107914
+                ]
+            },
+            "properties": {
+                "name": "Panjakent",
+                "id": "ed43f8bd-90e9-4504-b3ee-95648df58b5b",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.53378591573366,
+                    39.39485202785191
+                ]
+            },
+            "properties": {
+                "name": "Ayni",
+                "id": "dc36a174-dd14-42c4-8848-e0cac057b2ce",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.73427057079773,
+                    39.69992588440023
+                ]
+            },
+            "properties": {
+                "name": "Buragen",
+                "id": "32ca3992-db83-4a64-9da8-3d451bf498fd",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.639191280876,
+                    40.27359213571098
+                ]
+            },
+            "properties": {
+                "name": "Khujand",
+                "id": "6c600cca-0a82-4a05-b2a5-a3b8b326888f",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.33717663271858,
+                    40.525424396063414
+                ]
+            },
+            "properties": {
+                "name": "Buston",
+                "id": "712f4a52-17b9-40e2-a6fd-cc550babd9ca",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.3391439808519,
+                    40.67626855339943
+                ]
+            },
+            "properties": {
+                "name": "Asht",
+                "id": "8fe53f68-e44a-49c9-bb1c-fca6aeeb34b6",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.44781112576963,
+                    40.28518417859642
+                ]
+            },
+            "properties": {
+                "name": "Konibodom",
+                "id": "00b0c9a2-6d0a-43fa-b3d0-c43a38a71696",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.62373449175408,
+                    40.12668174015178
+                ]
+            },
+            "properties": {
+                "name": "Isfara",
+                "id": "4f954d5e-b6c7-449e-9105-8cb84b9d27f9",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.864843277186,
+                    40.18781277659313
+                ]
+            },
+            "properties": {
+                "name": "Zafarobod",
+                "id": "3c267666-af03-4fda-811d-50f84318174b",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.25365461456022,
+                    40.126522793431086
+                ]
+            },
+            "properties": {
+                "name": "Kurkat",
+                "id": "4ed9c4ce-80ee-4a93-b581-1330f483f04a",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.5181911471764,
+                    40.21367311325374
+                ]
+            },
+            "properties": {
+                "name": "Dehmoy",
+                "id": "b049bd96-80ad-4dea-a066-24628b9da57a",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.01025206077983,
+                    38.55686979706977
+                ]
+            },
+            "properties": {
+                "name": "Vahdat",
+                "id": "e5641387-d731-4f32-8ac9-cb0c6093cd87",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.19011575620695,
+                    39.19877205371734
+                ]
+            },
+            "properties": {
+                "name": "Vahdat",
+                "id": "70434820-7ba3-42fa-ac22-d0b952bc7702",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.1082673816677,
+                    38.86673137005723
+                ]
+            },
+            "properties": {
+                "name": "Humond",
+                "id": "cb170bf8-de3c-4a5f-9fa6-57276e502f94",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.78805134034887,
+                    38.45722246741331
+                ]
+            },
+            "properties": {
+                "name": "Kalaikhum",
+                "id": "56aa4946-ed44-43be-b1b8-bdf4ee8c4ffc",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.48333473219546,
+                    38.70058759340748
+                ]
+            },
+            "properties": {
+                "name": "Tavildara",
+                "id": "5ac24b53-f90a-45af-92bf-5eff4abc4ae1",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.70358630452611,
+                    37.98714327818323
+                ]
+            },
+            "properties": {
+                "name": "Uyali",
+                "id": "0895928f-fea9-432c-a79a-40c3fa700996",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.78183500058692,
+                    37.91579864583205
+                ]
+            },
+            "properties": {
+                "name": "Kulob",
+                "id": "1fc52386-7852-49cc-ad85-b963fecc837c",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.05071572633082,
+                    37.84298270738697
+                ]
+            },
+            "properties": {
+                "name": "Ноҳияи Шӯрообод",
+                "id": "6d50abe5-57bc-4a6e-95d0-c30405a3fcdc",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.52836265802961,
+                    38.24058544427278
+                ]
+            },
+            "properties": {
+                "name": "Kangurt",
+                "id": "06c92cf5-3bdb-4277-9449-a862bee00874",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.62739039626614,
+                    37.80539965826229
+                ]
+            },
+            "properties": {
+                "name": "Hulbuk",
+                "id": "a98b669d-5163-415e-88f5-820c10258d25",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.62916283348437,
+                    37.89228507931038
+                ]
+            },
+            "properties": {
+                "name": "Kaduchi",
+                "id": "c6c42d01-91a5-47d2-a2a1-bf2954bd8230",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.49708100990702,
+                    37.74307706919931
+                ]
+            },
+            "properties": {
+                "name": "Gulistan",
+                "id": "ab47e257-7f68-41a9-b536-b0259fcfeda7",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.40241587517585,
+                    37.49290849365756
+                ]
+            },
+            "properties": {
+                "name": "Farkor",
+                "id": "ec9c0eb7-aaf0-47f1-857e-3b5b4810a151",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.10992972206407,
+                    37.22267005877612
+                ]
+            },
+            "properties": {
+                "name": "Panj",
+                "id": "2947332d-bcab-4b65-9345-db71ccbde761",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.9688740855629,
+                    37.328172680344075
+                ]
+            },
+            "properties": {
+                "name": "Faisabad",
+                "id": "59259f14-9f7c-4f7d-8e07-228149fe5de8",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.67353463931423,
+                    37.34993752927785
+                ]
+            },
+            "properties": {
+                "name": "Dusti",
+                "id": "0ffc6a31-8336-4166-a28c-b4d76de2adcb",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.0442528079737,
+                    36.99494697522918
+                ]
+            },
+            "properties": {
+                "name": "Aiwanj",
+                "id": "4268bbc3-4edf-435c-9ea6-874b44f0b430",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.13785855590518,
+                    37.26472482692166
+                ]
+            },
+            "properties": {
+                "name": "Shahrtuz",
+                "id": "3aa4fdf3-5c8d-41ba-9230-da8efb79e4ab",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.56997452078589,
+                    37.56523431550711
+                ]
+            },
+            "properties": {
+                "name": "Partizani Surkh",
+                "id": "d854c1bb-7eb2-4c72-9693-e78af321142c",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.96492473937886,
+                    38.16791204403425
+                ]
+            },
+            "properties": {
+                "name": "Murghab",
+                "id": "c3d74ba9-d091-4870-99e1-691377ad5c14",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.59191937781249,
+                    37.48555688065999
+                ]
+            },
+            "properties": {
+                "name": "Khorog",
+                "id": "f39adab5-6267-45a6-8a26-2c25a3ad72e7",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.28787141208491,
+                    37.71922964463014
+                ]
+            },
+            "properties": {
+                "name": "Vankala",
+                "id": "c5652076-0794-4d64-b55f-51e46c1eb653",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.55672901125985,
+                    37.94765323002567
+                ]
+            },
+            "properties": {
+                "name": "Rushan",
+                "id": "65b67044-db5c-45f3-84ec-503449c5f4c6",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.46121115112224,
+                    38.37233363123718
+                ]
+            },
+            "properties": {
+                "name": "Vanj",
+                "id": "e7951611-5664-4b92-b264-65082ad13d7a",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.33676917593088,
+                    38.29974533866064
+                ]
+            },
+            "properties": {
+                "name": "Vanch River",
+                "id": "778efc29-1909-4e4f-8198-1ebb034cb908",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.64188712601613,
+                    40.56505576864731
+                ]
+            },
+            "properties": {
+                "name": "Sarym Sakhly",
+                "id": "9d55a005-f84a-422e-961a-bf1dc2a0d4bd",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.68428143924206,
+                    40.42068054429235
+                ]
+            },
+            "properties": {
+                "name": "Chashmasor",
+                "id": "9d6e2221-4aba-4443-976e-b5c1337424af",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.61229052386919,
+                    37.64937714811301
+                ]
+            },
+            "properties": {
+                "name": "Uzun",
+                "id": "fe0b7634-2dcb-4d5a-aa0a-4f53251b7cc9",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.6046753512177,
+                    37.19097309610619
+                ]
+            },
+            "properties": {
+                "name": "Shir Khan Bandar",
+                "id": "c852f7e8-b222-4dc5-9a2b-a1a53d1bcf70",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.02700808651393,
+                    38.10852013941028
+                ]
+            },
+            "properties": {
+                "name": "Muminabad",
+                "id": "cb459bf6-7c54-4b77-b287-07ac7739f38e",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.17379128607428,
+                    38.47479513273864
+                ]
+            },
+            "properties": {
+                "name": "Kalimirak",
+                "id": "d02436b9-0c0f-488a-bf71-7b9fb530688a",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.86792305131728,
+                    38.00441367122686
+                ]
+            },
+            "properties": {
+                "name": "Ozodii-Shark",
+                "id": "28c29bdc-b1d7-41fb-937e-b40ad2403351",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.83151129150292,
+                    37.71383647651398
+                ]
+            },
+            "properties": {
+                "name": "vahsh",
+                "id": "8806b313-bdd0-4df9-864e-b94f29af8bcd",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.79309012171207,
+                    37.75858205583484
+                ]
+            },
+            "properties": {
+                "name": "Vakhshstroy",
+                "id": "2b8bdaca-2671-424f-b76f-a8d733231d76",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.560951294456,
+                    -3.967616546778439
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "28857878-e2ad-4f3e-9715-471ab407afcb",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6074910996967,
+                    -4.057907228972154
+                ]
+            },
+            "properties": {
+                "name": "default-node",
+                "id": "53b18309-54d6-4457-968b-c85f9bbbfdf5",
+                "networkProviders": [
+                    {
+                        "id": "cac11e32-b823-46aa-9d9c-971da52ca055",
+                        "name": "Tojiktelecom"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "5244cd89-1b64-4068-9e8d-a30a6c0df5ed",
+                    "name": "Tojiktelecom"
+                },
+                "network": {
+                    "id": "e8778b96-e395-4620-9b21-d0889a081d37",
+                    "name": "Tojiktelecom National Network Tajikistan",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        }
+    ]
+}
