@@ -6,63 +6,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    24.96392802091933,
-                    45.861874971037075
-                ]
-            },
-            "properties": {
-                "name": "Romania",
-                "id": "c9d778f3-090c-4028-b6c3-9bc27c022889",
-                "networkProviders": [
-                    {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
-                    }
-                ],
-                "status": "operational",
-                "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
-                },
-                "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
-                    "links": [
-                        {
-                            "rel": "describedby",
-                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
-                        }
-                    ]
-                },
-                "featureType": "node"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     28.64508553911062,
                     44.18208958898529
                 ]
             },
             "properties": {
                 "name": "Constanta",
-                "id": "8afaea0f-404f-4250-90ce-880a74043f56",
+                "id": "8ece1e1b-c5d7-4824-8afe-58ffffd25169",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -84,21 +48,21 @@
             },
             "properties": {
                 "name": "Babadag",
-                "id": "1e2cc7e8-2266-4109-b43a-b1fb8e6d15cb",
+                "id": "ac09a676-715c-428d-bf93-0c96b01529cd",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -120,21 +84,21 @@
             },
             "properties": {
                 "name": "Tulcea",
-                "id": "2da3aff4-8268-4663-8233-3034e2e52ea3",
+                "id": "74b1688b-9829-40c1-bf85-2072af804bc6",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -156,21 +120,21 @@
             },
             "properties": {
                 "name": "Măcin",
-                "id": "d3dc6f28-efb8-4b8a-9b89-c838c9f8956d",
+                "id": "a1b06f12-03e1-45d3-840f-1b613d2264d3",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -192,21 +156,21 @@
             },
             "properties": {
                 "name": "Brăila",
-                "id": "4ca22be0-4efd-4219-a2ef-a5cb4234810c",
+                "id": "f413f59f-fe65-4364-86e2-a4b10d1395d1",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -228,21 +192,21 @@
             },
             "properties": {
                 "name": "Galați",
-                "id": "cf63fb41-4592-458f-93a0-4ef44fa8f79f",
+                "id": "3a53ed2a-11ac-49de-8dcc-85b7f112a2dd",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -258,27 +222,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    27.21553715933594,
-                    45.84534927683539
+                    27.18759022031651,
+                    45.69421193692088
                 ]
             },
             "properties": {
                 "name": "Focșani",
-                "id": "921cf51c-f4ca-417c-89f4-bcaf7993b7a5",
+                "id": "76d640f0-4a06-437e-9ddd-5058f8850927",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -300,21 +264,21 @@
             },
             "properties": {
                 "name": "Șișcani",
-                "id": "fc0bd1d0-509f-41d8-8c95-3f4476ecfd90",
+                "id": "4a0e3acf-697d-4940-a3c9-b673699594d1",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -330,27 +294,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    27.21553715933594,
-                    45.84534927683539
+                    27.210428190019403,
+                    45.84575208429883
                 ]
             },
             "properties": {
                 "name": "Tișița",
-                "id": "c965cdee-c203-41ce-a484-ba68bae40320",
+                "id": "c92f675f-c3a9-447c-a199-e5f4a41718be",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -372,21 +336,21 @@
             },
             "properties": {
                 "name": "Vasuli",
-                "id": "19f0690b-8f54-4822-9fc9-ce19d037d28c",
+                "id": "4fc8740a-de1c-41dc-9805-79032dc85292",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -408,21 +372,21 @@
             },
             "properties": {
                 "name": "Bacău",
-                "id": "09e9f0ad-03c2-465f-b117-c1dba3599678",
+                "id": "d89fce8a-b9d8-425b-b576-3d056194e625",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -444,21 +408,21 @@
             },
             "properties": {
                 "name": "Roman",
-                "id": "7399da50-1e2a-43f2-90c7-b40f4b47150a",
+                "id": "b6b9bbeb-5c3e-4c5c-a4b9-c682e842a91e",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -480,21 +444,21 @@
             },
             "properties": {
                 "name": "Iași",
-                "id": "d0a66917-0ca5-4de1-abb7-b65cc13506dd",
+                "id": "61d4acd1-69a8-4ac0-8b39-3ef683cb0d0d",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -516,21 +480,21 @@
             },
             "properties": {
                 "name": "Targu Neamt",
-                "id": "6335ece5-9aa6-41c6-a865-c1593eeab438",
+                "id": "56ccd2fc-cca2-4026-af92-eb45d2c1aa9f",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -552,21 +516,21 @@
             },
             "properties": {
                 "name": "Botoşani",
-                "id": "38b9adf1-c9b7-4bd8-b981-ed76673eb5b5",
+                "id": "bbb6fc85-fc07-4b8d-9c0b-923930d2f170",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -588,21 +552,21 @@
             },
             "properties": {
                 "name": "Suceava",
-                "id": "c6702202-7908-47c5-b669-349e4416b6af",
+                "id": "54a1bad5-fd46-4c9b-9445-e36ed8f2250d",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -624,21 +588,21 @@
             },
             "properties": {
                 "name": "Piatra Neamț",
-                "id": "30eb4e54-d645-473b-9881-2ea895ab1800",
+                "id": "9105f53a-8668-4e8a-81fc-1c088191ff2b",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -660,21 +624,21 @@
             },
             "properties": {
                 "name": "Moinești",
-                "id": "349ceb50-af04-4343-9743-8747fe56280e",
+                "id": "3c6705c8-9f15-4a5f-9ecf-0b0c69b015ea",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -696,21 +660,21 @@
             },
             "properties": {
                 "name": "Câmpulung Moldovenesc",
-                "id": "c2fdca01-97c5-4f50-b805-2d16fbe9789f",
+                "id": "faa66a3f-61a9-4539-8c12-24224b867e54",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -732,21 +696,21 @@
             },
             "properties": {
                 "name": "Vastra Dornei",
-                "id": "0e66f591-31cb-41ea-992c-0707ccf3229b",
+                "id": "b654f16e-0038-428c-877b-85108577939b",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -762,27 +726,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    24.488742680974678,
-                    47.13893842674012
+                    24.48874268097468,
+                    47.13893842674011
                 ]
             },
             "properties": {
                 "name": "Bistrița",
-                "id": "626d266f-7da7-48fd-b0eb-b8c077794086",
+                "id": "a2e0464d-1954-46cb-8859-6432a1255e9d",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -804,21 +768,21 @@
             },
             "properties": {
                 "name": "Dej",
-                "id": "7fa16fac-0cc2-4f43-ac50-740d143e68f3",
+                "id": "2e07deaf-16df-4d99-b393-375cef80fec0",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -840,21 +804,21 @@
             },
             "properties": {
                 "name": "Baia Mare",
-                "id": "1b992792-ebdc-4814-b5bb-e5455b707a43",
+                "id": "0b6aad39-1fc0-4269-8f71-e767fef19b1b",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -876,21 +840,21 @@
             },
             "properties": {
                 "name": "Cluj-Napoca",
-                "id": "e9a0013e-d93f-4357-8c3c-633b322a5470",
+                "id": "b8e7724c-6dd0-482d-a820-ee2bad746033",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -912,21 +876,21 @@
             },
             "properties": {
                 "name": "Satu Mare",
-                "id": "37e9f8c0-9a78-46e9-83f3-715ac58883bc",
+                "id": "6c90328a-650d-4c99-a48b-a97d1a231868",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -948,21 +912,21 @@
             },
             "properties": {
                 "name": "Marghita",
-                "id": "3d691ac2-fdf5-4fbb-b7a1-dbd69f33bd91",
+                "id": "40b16d8e-a4be-45af-9aed-3f048557f5a2",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -984,21 +948,21 @@
             },
             "properties": {
                 "name": "Oradea",
-                "id": "05ecf826-04be-46ea-8f62-854f976c3a32",
+                "id": "8d6662a2-245b-4dde-b9c1-5e9045f39e73",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -1020,21 +984,21 @@
             },
             "properties": {
                 "name": "Miercurea Ciuc",
-                "id": "75209be4-1d0d-48c1-b84f-3f778bc4a79d",
+                "id": "b98d78f3-6f73-4d0b-8255-681f3138fc85",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -1056,21 +1020,21 @@
             },
             "properties": {
                 "name": "Sfântu Gheorghe",
-                "id": "94f145a9-bea0-47c1-8da2-c40b4ff9f442",
+                "id": "ecff9168-3805-43e2-b122-7abdc4e80e7b",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -1092,21 +1056,21 @@
             },
             "properties": {
                 "name": "Brașov",
-                "id": "2686ded6-e471-42e2-a8e6-7d490f0b2683",
+                "id": "4f01a17d-4ea5-4b78-87dc-79a562c5406a",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -1128,21 +1092,21 @@
             },
             "properties": {
                 "name": "Făgăraș",
-                "id": "77d26dbe-88ea-42a8-a2d6-4fc1cc2fb8d8",
+                "id": "f1981c8d-90b5-4fcd-9410-c1d5b4570454",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -1164,21 +1128,21 @@
             },
             "properties": {
                 "name": "Sibiu",
-                "id": "c109db92-b447-4445-bd67-e27423acafe9",
+                "id": "ae54b77e-bc23-4d9a-8958-52eec7e8fc8d",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -1200,21 +1164,21 @@
             },
             "properties": {
                 "name": "Sibiu South Branch",
-                "id": "fae41e6c-f4bc-4795-aa43-8d6f3e1b143c",
+                "id": "5e518e76-e3ac-4b40-a955-9f353a951de1",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -1230,27 +1194,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    24.365087622375448,
-                    45.101746804308455
+                    24.36508762237545,
+                    45.10174680430846
                 ]
             },
             "properties": {
                 "name": "Râmnicu Vâlcea",
-                "id": "3196b9d7-ad94-46ad-934f-60bae1d2ce62",
+                "id": "f6120e13-7346-416b-9fe3-8586fb8d1b79",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -1272,21 +1236,21 @@
             },
             "properties": {
                 "name": "Râmnicu Vâlcea South Branch",
-                "id": "57b857ab-00d0-4724-b89a-601876a48a02",
+                "id": "9fac6cdc-f0be-4499-833b-86fd95a75983",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -1308,21 +1272,21 @@
             },
             "properties": {
                 "name": "Pitești",
-                "id": "09ad07f0-7b3a-4a62-b007-e277e7926d1e",
+                "id": "af49578c-96b5-425e-8e12-b9a92c1fe1ba",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -1344,21 +1308,21 @@
             },
             "properties": {
                 "name": "Stupărei",
-                "id": "c0b40dec-3a22-42f3-a5e1-a2f4ef73f689",
+                "id": "f073e95a-4166-4095-83a6-71450fa0a7af",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -1380,21 +1344,21 @@
             },
             "properties": {
                 "name": "Drăgășani",
-                "id": "14076338-5fc0-4f9a-94dc-5e69a2dd54ae",
+                "id": "d689c0d6-363b-4149-9528-95bc9b5aed47",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -1416,21 +1380,21 @@
             },
             "properties": {
                 "name": "Craiova",
-                "id": "83b4b645-be2f-4cb5-ac6a-4ce87287a540",
+                "id": "f1c54f6e-6176-4528-a2cf-97e761de2a0d",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -1452,21 +1416,21 @@
             },
             "properties": {
                 "name": "Târgu Jiu",
-                "id": "249b05cc-44c7-4281-a271-29298ed2cff2",
+                "id": "a5e9bec6-434d-4e70-99c2-ba0bf915fd95",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -1488,21 +1452,21 @@
             },
             "properties": {
                 "name": "Târgu Cărbunești",
-                "id": "8f612cad-454b-404d-88fc-8d0d006c7fe9",
+                "id": "e2487b4f-3c5e-4e7d-abaf-c89feaa3bced",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -1524,21 +1488,21 @@
             },
             "properties": {
                 "name": "Alba Ilulia",
-                "id": "14d5d00e-f960-4066-9ff7-7e7341757db9",
+                "id": "b70ff801-7763-453a-827f-843d31939a4c",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -1560,21 +1524,21 @@
             },
             "properties": {
                 "name": "Câmpeni",
-                "id": "8d5dfcff-e937-4814-9393-006c0cc7c5fb",
+                "id": "423e6e7d-0774-480b-94d0-3c7f474d95a1",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -1596,21 +1560,21 @@
             },
             "properties": {
                 "name": "Deva",
-                "id": "e9ee25f0-e5ea-4b7b-bd1c-9022f0402e98",
+                "id": "81d92ac8-b6c6-4f8e-9523-647e3a6b4c01",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -1632,21 +1596,21 @@
             },
             "properties": {
                 "name": "Lipova",
-                "id": "92c94fc9-92ba-4ab9-9030-21ef7db2ae8c",
+                "id": "54b4bba6-5be6-4897-9ada-84f3160877db",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -1668,21 +1632,21 @@
             },
             "properties": {
                 "name": "Arad",
-                "id": "0425c0fe-8a40-4e30-9583-4f768f28e988",
+                "id": "97410af8-1e14-46a5-b0cd-e228d0eade3c",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -1704,21 +1668,21 @@
             },
             "properties": {
                 "name": "Nădlac",
-                "id": "002d2759-e68a-4f2e-8b45-0097f054bc23",
+                "id": "e3325e86-d408-41ee-86d1-6ab7aa066504",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -1740,21 +1704,21 @@
             },
             "properties": {
                 "name": "Sânnicolau Mare",
-                "id": "1cfce40f-23a1-4b2d-a936-49f5405081fc",
+                "id": "7c6aa35f-6aa3-43a5-833c-3aa543234a5a",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -1776,21 +1740,21 @@
             },
             "properties": {
                 "name": "Timișoara",
-                "id": "61264195-bc6c-43fe-95b4-0d90a107a5de",
+                "id": "c4d46179-57cb-4a47-b9a5-e8fb1820e890",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -1806,27 +1770,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    25.94504636479569,
-                    45.456863526898
+                    25.70980572873912,
+                    45.72706238516545
                 ]
             },
             "properties": {
                 "name": "Cheia",
-                "id": "5bb976ad-b526-43b2-b297-dda208b8561b",
+                "id": "4ca18330-0a3e-4505-99a8-ae1f61a03f3f",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -1848,21 +1812,21 @@
             },
             "properties": {
                 "name": "Ploiești",
-                "id": "3f4649b7-530c-4552-b16a-1e18f182a38a",
+                "id": "bfb9e727-b3e5-4f60-8773-a2fd4728fe13",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -1884,21 +1848,21 @@
             },
             "properties": {
                 "name": "Bucharest",
-                "id": "cd9830d7-ca92-41c6-b12e-60e6716171fc",
+                "id": "77cdaed9-3592-4d18-a03d-05c3cfe588e1",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -1920,21 +1884,21 @@
             },
             "properties": {
                 "name": "Alexandria",
-                "id": "3a68fea1-fe2c-4112-bfbb-aa16bd4f8faf",
+                "id": "83f2a088-d7c8-4687-bde6-7d661f96ca03",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -1956,21 +1920,21 @@
             },
             "properties": {
                 "name": "Giurgiu",
-                "id": "d48b7daa-9ce3-41f4-a78d-3140d1a2a27c",
+                "id": "77152128-3d7e-4487-9440-81e9fb20cf52",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -1992,57 +1956,21 @@
             },
             "properties": {
                 "name": "Trivalea-Moşteni",
-                "id": "a53cb9c6-49f9-4374-bc91-96787c3321c9",
+                "id": "97820285-674e-426c-955f-6825d74b53dc",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
-                    "links": [
-                        {
-                            "rel": "describedby",
-                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
-                        }
-                    ]
-                },
-                "featureType": "node"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    25.52475430727239,
-                    47.54213359822351
-                ]
-            },
-            "properties": {
-                "name": "default-node",
-                "id": "980e0ace-ea14-4f08-858f-38cabfc8d464",
-                "networkProviders": [
-                    {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
-                    }
-                ],
-                "status": "operational",
-                "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
-                },
-                "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -2064,165 +1992,21 @@
             },
             "properties": {
                 "name": "default-node",
-                "id": "dcf60a45-ffd3-4c02-bf78-9430b4edb422",
+                "id": "6df7ad1e-5d37-4c88-9750-59e599d8ff24",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
-                    "links": [
-                        {
-                            "rel": "describedby",
-                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
-                        }
-                    ]
-                },
-                "featureType": "node"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.84463935696558,
-                    47.20889127522682
-                ]
-            },
-            "properties": {
-                "name": "default-node",
-                "id": "35cd4691-40e1-4112-983c-cdeeb3259155",
-                "networkProviders": [
-                    {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
-                    }
-                ],
-                "status": "operational",
-                "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
-                },
-                "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
-                    "links": [
-                        {
-                            "rel": "describedby",
-                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
-                        }
-                    ]
-                },
-                "featureType": "node"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    21.73393828373348,
-                    46.11268878663927
-                ]
-            },
-            "properties": {
-                "name": "default-node",
-                "id": "d0dc6b7d-3fe9-4d9a-a3a3-4d03830cc0f2",
-                "networkProviders": [
-                    {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
-                    }
-                ],
-                "status": "operational",
-                "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
-                },
-                "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
-                    "links": [
-                        {
-                            "rel": "describedby",
-                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
-                        }
-                    ]
-                },
-                "featureType": "node"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    24.18512126321336,
-                    45.78490316992993
-                ]
-            },
-            "properties": {
-                "name": "default-node",
-                "id": "e99e857a-ccbe-4cd6-9518-266c9a64fcf8",
-                "networkProviders": [
-                    {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
-                    }
-                ],
-                "status": "operational",
-                "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
-                },
-                "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
-                    "links": [
-                        {
-                            "rel": "describedby",
-                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
-                        }
-                    ]
-                },
-                "featureType": "node"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    26.06156580935144,
-                    44.99373749133382
-                ]
-            },
-            "properties": {
-                "name": "default-node",
-                "id": "afe3ae7e-d422-4b27-bfa2-1caa28722b98",
-                "networkProviders": [
-                    {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
-                    }
-                ],
-                "status": "operational",
-                "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
-                },
-                "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
@@ -2244,21 +2028,21 @@
             },
             "properties": {
                 "name": "default-node",
-                "id": "be594966-c736-49c0-af81-a0a33120d69d",
+                "id": "9e13bbd1-9ce0-484a-827f-30e99c54a082",
                 "networkProviders": [
                     {
-                        "id": "ceafd671-ff73-451e-955e-68fc7f52f604",
-                        "name": "directOne"
+                        "id": "f7e0f5f0-ef80-4c1e-8668-8bae435fe1a8",
+                        "name": "directONE"
                     }
                 ],
                 "status": "operational",
                 "transmissionMediumOwner": {
-                    "id": "f477f05d-7558-4cc3-b10c-b03bcdf21623",
-                    "name": "directOne"
+                    "id": "da0ebd8c-a970-4537-a157-0a3b555fc725",
+                    "name": "directONE"
                 },
                 "network": {
-                    "id": "8829083f-9a60-4eea-a261-9c27c9fd243a",
-                    "name": "directOne National Network Romania",
+                    "id": "fe99cf2d-3872-401e-9937-71dabec23742",
+                    "name": "directONE",
                     "links": [
                         {
                             "rel": "describedby",
