@@ -1,0 +1,2669 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.466833782095206,
+                    8.545147423844606
+                ]
+            },
+            "properties": {
+                "name": "Macenta",
+                "id": "eaccf57c-82ad-498a-bf5c-9817f974f34b",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.301504531071988,
+                    12.49355715701374
+                ]
+            },
+            "properties": {
+                "name": "Koundara",
+                "id": "18b8f71b-7021-4c87-bc08-e14008a6522d",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.55886062646462,
+                    12.673417563704552
+                ]
+            },
+            "properties": {
+                "name": "Senegal Border",
+                "id": "1960e612-02d2-4ab4-bfdc-7964c7ff113a",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.04094053441646,
+                    10.18873173238201
+                ]
+            },
+            "properties": {
+                "name": "Boffa",
+                "id": "81a39d4a-6b24-4d2d-b574-ddb3047b4412",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.58411116056576,
+                    10.66358189416348
+                ]
+            },
+            "properties": {
+                "name": "Kamsar",
+                "id": "4069b800-3cff-4c0e-98c4-1001abd4349b",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.108204350748172,
+                    10.735418503188756
+                ]
+            },
+            "properties": {
+                "name": "Dabola",
+                "id": "75d978fb-36c4-4989-b25d-1f459ae66034",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.713925977687529,
+                    11.289281742668292
+                ]
+            },
+            "properties": {
+                "name": "Dinguiraye",
+                "id": "704627c1-4383-4c07-8751-676988c6d0b3",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.176610166878143,
+                    11.414493009407838
+                ]
+            },
+            "properties": {
+                "name": "Siguiri",
+                "id": "4a8cbec5-9c61-403d-816f-986cb06ebfc8",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.788537303682544,
+                    11.948334510338587
+                ]
+            },
+            "properties": {
+                "name": "Mali Border",
+                "id": "c23d84a8-9ab3-4d3f-ae19-9e15136bfda7",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.69698743157882,
+                    10.6165860866916
+                ]
+            },
+            "properties": {
+                "name": "Mandiana",
+                "id": "a713c848-cbc9-4c30-82c3-22e401d0fd3f",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.311256867170288,
+                    10.383347765579137
+                ]
+            },
+            "properties": {
+                "name": "Kankan",
+                "id": "c56aacae-17c3-45cd-b637-67493fb60085",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.003642129594052,
+                    9.269615463560744
+                ]
+            },
+            "properties": {
+                "name": "Kerouane",
+                "id": "60521be7-6f4f-4f15-8da8-60ac10d1540e",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.280225220858823,
+                    10.94064245776643
+                ]
+            },
+            "properties": {
+                "name": "Boke",
+                "id": "4b1dc7c5-7f32-478a-a32c-eab2c27ee238",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.42014911864008,
+                    10.39697392488879
+                ]
+            },
+            "properties": {
+                "name": "Tougnifili",
+                "id": "666156a0-a66f-4d11-9bd8-6e39ac3874e2",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.39948877108635,
+                    10.79455153916592
+                ]
+            },
+            "properties": {
+                "name": "Kolaboui",
+                "id": "0c74f301-bc90-4faf-a57c-87768173c05c",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.78618962265091,
+                    11.09326094227233
+                ]
+            },
+            "properties": {
+                "name": "Sangaredi",
+                "id": "35ba5a7f-d5b6-4944-9994-fb99654e804d",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.875345960383347,
+                    11.431461929828442
+                ]
+            },
+            "properties": {
+                "name": "Wendou Borou",
+                "id": "96307e82-1f23-433d-a588-eee97308db85",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.202569696948643,
+                    11.7573478138583
+                ]
+            },
+            "properties": {
+                "name": "Gaoual",
+                "id": "c1dd8390-fd5f-421c-8d27-73ea528bad0f",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.53472514926025,
+                    11.63758965725192
+                ]
+            },
+            "properties": {
+                "name": "Thiaguelbori",
+                "id": "026da682-950a-4809-a286-de25e60bf5fa",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.395955718823181,
+                    11.058393545207622
+                ]
+            },
+            "properties": {
+                "name": "Pita",
+                "id": "c2a925fe-38cc-4063-a58b-775544f53cfa",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.82903604155557,
+                    10.633694107929236
+                ]
+            },
+            "properties": {
+                "name": "Timbo",
+                "id": "7ea16652-fac0-4917-91a4-ae790f8d90ef",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.896118806526076,
+                    11.585943060126812
+                ]
+            },
+            "properties": {
+                "name": "Koubia",
+                "id": "21bb8252-9a2a-47ee-be1a-016c7f132d73",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.661223745228725,
+                    11.446177772574654
+                ]
+            },
+            "properties": {
+                "name": "Tougue",
+                "id": "026a0667-2b30-4528-97c8-ed10fa2adac4",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.289917120837982,
+                    11.322048309252391
+                ]
+            },
+            "properties": {
+                "name": "Labe",
+                "id": "4edab88c-6046-488f-aafc-0188aea4ac2d",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.29827333581375,
+                    12.0742211714835
+                ]
+            },
+            "properties": {
+                "name": "Mali",
+                "id": "7c10ea86-78a2-4922-b409-1eec74aaf975",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.65020608088513,
+                    8.68975875376263
+                ]
+            },
+            "properties": {
+                "name": "Beyla",
+                "id": "a433f44a-e74c-4fe2-80f8-1140967b2113",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.314543389627271,
+                    7.679884249895809
+                ]
+            },
+            "properties": {
+                "name": "N'Zoo",
+                "id": "c759027b-fad4-4956-99f3-461b30fb6dab",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.53355028108082,
+                    7.802365557724564
+                ]
+            },
+            "properties": {
+                "name": "Lola",
+                "id": "dcf00d5a-7e9c-4ea9-972c-9d56128ea480",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.823301257798812,
+                    7.745431005923969
+                ]
+            },
+            "properties": {
+                "name": "Nzerekore",
+                "id": "1be7b2f7-b60c-4093-b26f-f4693620332c",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.120813418411492,
+                    7.615530310616981
+                ]
+            },
+            "properties": {
+                "name": "Pela",
+                "id": "4e9455c7-7d63-4788-a35c-4d5b86144d3f",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.258931737382639,
+                    7.568700886297542
+                ]
+            },
+            "properties": {
+                "name": "Yomou",
+                "id": "10eb5ce5-31a1-4424-b905-9373a61baf61",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.955447986484682,
+                    7.347371827918218
+                ]
+            },
+            "properties": {
+                "name": "Dieke",
+                "id": "b9868097-8b9f-497e-8790-116f3fcf1e12",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.092743449320933,
+                    8.086298754198205
+                ]
+            },
+            "properties": {
+                "name": "N'Zébéla",
+                "id": "c390512b-1e55-46bc-9f00-0d6715711275",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.741595202098347,
+                    10.042051294182805
+                ]
+            },
+            "properties": {
+                "name": "Faranah",
+                "id": "f124a233-1ddd-4605-a07a-f46482b325d0",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.032566894904663,
+                    10.909673722594604
+                ]
+            },
+            "properties": {
+                "name": "Telimele",
+                "id": "1c9fa750-abad-4144-8281-8b0a15136e38",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.58482129654052,
+                    10.36772148673734
+                ]
+            },
+            "properties": {
+                "name": "Fria",
+                "id": "9748ed06-d04d-453f-b693-5761de919403",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.691221205068189,
+                    10.082741716713876
+                ]
+            },
+            "properties": {
+                "name": "Tanene",
+                "id": "0b4dd0f7-4bc1-47ac-a31f-91010e6fefbd",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.650804967746257,
+                    9.555302604667622
+                ]
+            },
+            "properties": {
+                "name": "Conakry",
+                "id": "f6d90abb-941b-4696-b480-a8f93949cd74",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.092272655667454,
+                    9.433255093664043
+                ]
+            },
+            "properties": {
+                "name": "Forecariah",
+                "id": "dac2de02-103e-408f-b5ad-9527a495b112",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.028603841848165,
+                    9.27523497589735
+                ]
+            },
+            "properties": {
+                "name": "Farmoreya",
+                "id": "6a17e12b-f45e-4f31-bbf4-5404e206c423",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.963100640403942,
+                    9.177555411249326
+                ]
+            },
+            "properties": {
+                "name": "Sierra Leone border",
+                "id": "ad17f22a-0289-4042-8f1e-1e400ef1c163",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.563942213431833,
+                    9.688202506103995
+                ]
+            },
+            "properties": {
+                "name": "Tamouta",
+                "id": "ad8cc8ff-ac9a-4101-b91b-2d435979889c",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.509203845140162,
+                    9.790029275462155
+                ]
+            },
+            "properties": {
+                "name": "Dubreka",
+                "id": "741fca98-3d61-49c2-8e99-d040fdeb503d",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.863827977375959,
+                    10.047293944895559
+                ]
+            },
+            "properties": {
+                "name": "Kindia",
+                "id": "c1bfce02-a4dd-4ff9-96e5-49dc0bb58bfb",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.082342906304122,
+                    10.379692611756848
+                ]
+            },
+            "properties": {
+                "name": "Mamou",
+                "id": "4b909117-9d1b-4a23-b8fe-2cab53edeea3",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.25205047261114,
+                    10.69043606242657
+                ]
+            },
+            "properties": {
+                "name": "Dalaba",
+                "id": "b2049e16-5f7a-4ece-92b8-363bdf03bd04",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.969635074712356,
+                    11.16205060531123
+                ]
+            },
+            "properties": {
+                "name": "Sélouma",
+                "id": "fc5ecd9d-a9be-4373-905d-375c46d5285d",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.884320995260984,
+                    10.654632383743923
+                ]
+            },
+            "properties": {
+                "name": "Kouroussa",
+                "id": "9118e0fc-bd88-4e22-bcf5-1d0aa51dc86e",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.32059919125607,
+                    11.08789994078818
+                ]
+            },
+            "properties": {
+                "name": "Damisa Koro",
+                "id": "ad9e7f47-d058-42f8-b16b-12c5ec20ca3f",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.11157683859617,
+                    9.192526196876699
+                ]
+            },
+            "properties": {
+                "name": "Kissidougou",
+                "id": "20398ea6-2735-49ce-bfd8-d546066e6505",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.631150440620637,
+                    9.738414884232796
+                ]
+            },
+            "properties": {
+                "name": "Tiro",
+                "id": "2f13d811-63b2-4cc6-b059-9233ea36b683",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.130948442712677,
+                    8.566139765617523
+                ]
+            },
+            "properties": {
+                "name": "Gueckedou",
+                "id": "c68dd13e-bde1-4cbf-b690-f4b31313da6e",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.418095711965071,
+                    10.17819602768232
+                ]
+            },
+            "properties": {
+                "name": "Marela",
+                "id": "e9c6db2d-3927-417e-be4d-b5230916475f",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.472668603196619,
+                    10.805685427428257
+                ]
+            },
+            "properties": {
+                "name": "PoP",
+                "id": "b2b6762b-dbca-40f1-b67f-980d63668b53",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.9866570256273,
+                    11.44090938926454
+                ]
+            },
+            "properties": {
+                "name": "PoP",
+                "id": "82e7667d-2dc6-4597-b0a3-773f7b71d901",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.775741320921808,
+                    8.267262395867899
+                ]
+            },
+            "properties": {
+                "name": "PoP",
+                "id": "5ecdb44e-a6f6-43a6-8872-0329741ec694",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.16471119193755,
+                    9.908183985256098
+                ]
+            },
+            "properties": {
+                "name": "PoP",
+                "id": "7f8dff9f-7f40-4dd5-ac4e-6443bf1644c6",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.585998467074596,
+                    9.601769079527479
+                ]
+            },
+            "properties": {
+                "name": "PoP",
+                "id": "bf9c8c63-9df8-4df2-9947-b4d7bfbfcbf9",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.663648592593473,
+                    9.5643080923319
+                ]
+            },
+            "properties": {
+                "name": "PoP",
+                "id": "c63d896f-4eec-401e-b659-dd67a5acd32d",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.796235914718599,
+                    11.060013941670988
+                ]
+            },
+            "properties": {
+                "name": "PoP",
+                "id": "ec6b3d51-1c96-44cc-b663-d28f36f5b6f5",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.84770248829453,
+                    11.10742908781314
+                ]
+            },
+            "properties": {
+                "name": "PoP",
+                "id": "5273a822-5839-40bd-96fd-e07bfcc956c7",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.502240038496534,
+                    11.083415248793314
+                ]
+            },
+            "properties": {
+                "name": "PoP",
+                "id": "dfa57ab4-2e82-4ac5-a1b0-1c3e5289fe72",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.6847034490593,
+                    11.43465637348668
+                ]
+            },
+            "properties": {
+                "name": "Pétel",
+                "id": "fcc4abc5-a5dd-4571-9a19-78dcb09d5835",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.112027195144977,
+                    12.237502676423444
+                ]
+            },
+            "properties": {
+                "name": "PoP",
+                "id": "f5667ae7-8b9d-489e-8ff6-c08b3e3f7a8e",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.137658294047178,
+                    9.985533604891248
+                ]
+            },
+            "properties": {
+                "name": "PoP",
+                "id": "8838d48d-3d6d-4330-abb5-5997787ea1b2",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.88162670596639,
+                    8.73418746442877
+                ]
+            },
+            "properties": {
+                "name": "PoP",
+                "id": "3bb29999-06ae-4675-a867-e59304e2b31e",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.308665720815615,
+                    7.613314709686134
+                ]
+            },
+            "properties": {
+                "name": "Cote d'Ivoire border",
+                "id": "e48d5482-d96c-4dc5-b4c3-fe6cc9106781",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.280016943961746,
+                    10.955369423630996
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "d70fc1a7-ebc5-449f-ad53-387661cff4ad",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.199351012585266,
+                    11.039925327590879
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "4efdf2df-264c-46ef-898a-067fab75cb37",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.076820343307254,
+                    11.806732420019653
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "861d5c54-f243-4439-955a-c0cc740cfd3f",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.682774989532554,
+                    10.6987424870364
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "7a4caad2-8ca7-4c86-a648-6895300e84d3",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.38832443583404,
+                    9.712459738607269
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "a8a0fcbb-1471-4157-9ada-9fb6fbacce54",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.41583220455202,
+                    11.42216295816711
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "da192421-7cde-48f5-8848-3f34e96b0412",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12.137850991929346,
+                    11.36788842081279
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "c63175be-3352-4f49-a043-c5051595548f",
+                "networkProviders": [
+                    {
+                        "id": "03208a59-5332-41f1-ad19-35b56df0eba2",
+                        "name": "Société de Gestion de la Backbone Nationale de Guinée (SOGEB)"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "c5e1a548-eca0-4cad-9b0e-f3a9237f5c58",
+                    "name": "Governement de Guinée"
+                },
+                "network": {
+                    "id": "86ae7c8c-070e-496e-9685-480072a7eed2",
+                    "name": "Backbone National de Guinée",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        }
+    ]
+}
