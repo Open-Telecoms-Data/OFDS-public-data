@@ -1,0 +1,473 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.622077938859261,
+                    53.29659905536223
+                ]
+            },
+            "properties": {
+                "name": "Parc Cybi",
+                "id": "beb9ce0d-2941-456b-8dac-a56136814412",
+                "networkProviders": [
+                    {
+                        "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                        "name": "FibreSpeed"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                    "name": "FibreSpeed"
+                },
+                "network": {
+                    "id": "842e5ff3-6dcb-4743-bb7d-a101f77021f5",
+                    "name": "FibreSpeed",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.107349314508922,
+                    53.21226984798797
+                ]
+            },
+            "properties": {
+                "name": "Parc Bryn Cegin",
+                "id": "9495d0d6-da25-4992-b5ab-295188152f6c",
+                "networkProviders": [
+                    {
+                        "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                        "name": "FibreSpeed"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                    "name": "FibreSpeed"
+                },
+                "network": {
+                    "id": "842e5ff3-6dcb-4743-bb7d-a101f77021f5",
+                    "name": "FibreSpeed",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.183686481380287,
+                    53.20528544848786
+                ]
+            },
+            "properties": {
+                "name": "Parc Menai",
+                "id": "ee2af753-ab0b-4ae2-8698-073aca0de8b1",
+                "networkProviders": [
+                    {
+                        "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                        "name": "FibreSpeed"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                    "name": "FibreSpeed"
+                },
+                "network": {
+                    "id": "842e5ff3-6dcb-4743-bb7d-a101f77021f5",
+                    "name": "FibreSpeed",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.275319585141039,
+                    53.14331405223636
+                ]
+            },
+            "properties": {
+                "name": "Victoria Dock",
+                "id": "a5ac68c3-d0d4-469a-83b1-083624a898d2",
+                "networkProviders": [
+                    {
+                        "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                        "name": "FibreSpeed"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                    "name": "FibreSpeed"
+                },
+                "network": {
+                    "id": "842e5ff3-6dcb-4743-bb7d-a101f77021f5",
+                    "name": "FibreSpeed",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.849886180710012,
+                    53.28796786176614
+                ]
+            },
+            "properties": {
+                "name": "Parc Caer Seion",
+                "id": "fc1b24b9-16c6-4cd9-8b80-5f6a7ccc6e83",
+                "networkProviders": [
+                    {
+                        "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                        "name": "FibreSpeed"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                    "name": "FibreSpeed"
+                },
+                "network": {
+                    "id": "842e5ff3-6dcb-4743-bb7d-a101f77021f5",
+                    "name": "FibreSpeed",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.5994527917747363,
+                    53.28809609392087
+                ]
+            },
+            "properties": {
+                "name": "North Wales Business Park",
+                "id": "b306240b-1e5e-4c23-9406-2d2888819529",
+                "networkProviders": [
+                    {
+                        "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                        "name": "FibreSpeed"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                    "name": "FibreSpeed"
+                },
+                "network": {
+                    "id": "842e5ff3-6dcb-4743-bb7d-a101f77021f5",
+                    "name": "FibreSpeed",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.476814838778531,
+                    53.25595753423763
+                ]
+            },
+            "properties": {
+                "name": "St. Asaph Business Park",
+                "id": "c79701f6-af30-47db-87e9-d06b534f8a95",
+                "networkProviders": [
+                    {
+                        "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                        "name": "FibreSpeed"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                    "name": "FibreSpeed"
+                },
+                "network": {
+                    "id": "842e5ff3-6dcb-4743-bb7d-a101f77021f5",
+                    "name": "FibreSpeed",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.0215623714186264,
+                    53.235434599260856
+                ]
+            },
+            "properties": {
+                "name": "Deeside Industrial Park",
+                "id": "8fe3b61c-15f8-4d2d-9506-c9c3a082261c",
+                "networkProviders": [
+                    {
+                        "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                        "name": "FibreSpeed"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                    "name": "FibreSpeed"
+                },
+                "network": {
+                    "id": "842e5ff3-6dcb-4743-bb7d-a101f77021f5",
+                    "name": "FibreSpeed",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.99379789295553,
+                    53.17720251503165
+                ]
+            },
+            "properties": {
+                "name": "Hawarden Business Park",
+                "id": "440af32b-f4ef-4356-b1ae-62580ca9db4f",
+                "networkProviders": [
+                    {
+                        "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                        "name": "FibreSpeed"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                    "name": "FibreSpeed"
+                },
+                "network": {
+                    "id": "842e5ff3-6dcb-4743-bb7d-a101f77021f5",
+                    "name": "FibreSpeed",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.054678654035686,
+                    53.18836530690771
+                ]
+            },
+            "properties": {
+                "name": "St. David's Business Park",
+                "id": "b5a53cce-9669-4b07-8067-456059a76a98",
+                "networkProviders": [
+                    {
+                        "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                        "name": "FibreSpeed"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                    "name": "FibreSpeed"
+                },
+                "network": {
+                    "id": "842e5ff3-6dcb-4743-bb7d-a101f77021f5",
+                    "name": "FibreSpeed",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.294546664740795,
+                    53.4559201029515
+                ]
+            },
+            "properties": {
+                "name": "Manchester Gateway",
+                "id": "81ab555c-59de-484f-b6ef-ccb7d46ec480",
+                "networkProviders": [
+                    {
+                        "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                        "name": "FibreSpeed"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                    "name": "FibreSpeed"
+                },
+                "network": {
+                    "id": "842e5ff3-6dcb-4743-bb7d-a101f77021f5",
+                    "name": "FibreSpeed",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.0097304346912273,
+                    53.04869137324539
+                ]
+            },
+            "properties": {
+                "name": "Wrexham Technology Park",
+                "id": "9c123d38-3434-4b56-bdf4-56b498e819a5",
+                "networkProviders": [
+                    {
+                        "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                        "name": "FibreSpeed"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                    "name": "FibreSpeed"
+                },
+                "network": {
+                    "id": "842e5ff3-6dcb-4743-bb7d-a101f77021f5",
+                    "name": "FibreSpeed",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.934656461467676,
+                    53.042360366619235
+                ]
+            },
+            "properties": {
+                "name": "Wrexham Industrial Estate",
+                "id": "4bfc37ad-a59a-4a3f-85a6-852bdcae1ba3",
+                "networkProviders": [
+                    {
+                        "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                        "name": "FibreSpeed"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                    "name": "FibreSpeed"
+                },
+                "network": {
+                    "id": "842e5ff3-6dcb-4743-bb7d-a101f77021f5",
+                    "name": "FibreSpeed",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        }
+    ]
+}

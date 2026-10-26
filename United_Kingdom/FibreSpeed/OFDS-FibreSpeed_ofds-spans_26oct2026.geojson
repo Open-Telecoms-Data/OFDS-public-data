@@ -1,0 +1,1409 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -2.2946385749324087,
+                        53.45588082446615
+                    ],
+                    [
+                        -2.37118663219885,
+                        53.42316745837363
+                    ],
+                    [
+                        -2.376119797333681,
+                        53.42375097752653
+                    ],
+                    [
+                        -2.389929045810446,
+                        53.42373806200986
+                    ],
+                    [
+                        -2.407688116596215,
+                        53.42489458894981
+                    ],
+                    [
+                        -2.438287890358927,
+                        53.42955783161331
+                    ],
+                    [
+                        -2.457612716651854,
+                        53.33253444432177
+                    ],
+                    [
+                        -2.46155221091584,
+                        53.32309554422867
+                    ],
+                    [
+                        -2.457599121731485,
+                        53.32015896487723
+                    ],
+                    [
+                        -2.405265981659566,
+                        53.2749280261649
+                    ],
+                    [
+                        -2.432635251301557,
+                        53.23550121238753
+                    ],
+                    [
+                        -2.427692094676461,
+                        53.22727666917935
+                    ],
+                    [
+                        -2.407046484120664,
+                        53.22024600138354
+                    ],
+                    [
+                        -2.414820818326175,
+                        53.19731183967897
+                    ],
+                    [
+                        -2.355850796330818,
+                        53.14405439395923
+                    ],
+                    [
+                        -2.348974810787245,
+                        53.13582725796177
+                    ],
+                    [
+                        -2.372290743310988,
+                        53.05351493476031
+                    ],
+                    [
+                        -2.515132349047881,
+                        53.06095310285987
+                    ],
+                    [
+                        -2.566014142004911,
+                        53.05966451869516
+                    ],
+                    [
+                        -2.593753976859178,
+                        52.97198865576441
+                    ],
+                    [
+                        -2.845928441585146,
+                        52.97223998528301
+                    ],
+                    [
+                        -2.934149332999953,
+                        53.04231760035083
+                    ],
+                    [
+                        -2.9345568740463444,
+                        53.0423519683875
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "aced5f8b-8137-4527-bd09-fc5e2ba5a2d6",
+                "name": "Untitled Path",
+                "start": {
+                    "name": "Manchester Gateway",
+                    "id": "81ab555c-59de-484f-b6ef-ccb7d46ec480",
+                    "networkProviders": [
+                        {
+                            "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                            "name": "FibreSpeed"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -2.294546664740795,
+                            53.4559201029515
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                        "name": "FibreSpeed"
+                    }
+                },
+                "end": {
+                    "name": "Wrexham Industrial Estate",
+                    "id": "4bfc37ad-a59a-4a3f-85a6-852bdcae1ba3",
+                    "networkProviders": [
+                        {
+                            "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                            "name": "FibreSpeed"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -2.934656461467676,
+                            53.042360366619235
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                        "name": "FibreSpeed"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                        "name": "FibreSpeed"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                    "name": "FibreSpeed"
+                },
+                "network": {
+                    "id": "842e5ff3-6dcb-4743-bb7d-a101f77021f5",
+                    "name": "FibreSpeed",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -2.934756048889007,
+                        53.04236876485097
+                    ],
+                    [
+                        -3.009630847269896,
+                        53.048682975013655
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "24082d49-f0c1-43d3-be94-90bfca17721e",
+                "name": "Untitled Path",
+                "start": {
+                    "name": "Wrexham Industrial Estate",
+                    "id": "4bfc37ad-a59a-4a3f-85a6-852bdcae1ba3",
+                    "networkProviders": [
+                        {
+                            "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                            "name": "FibreSpeed"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -2.934656461467676,
+                            53.042360366619235
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                        "name": "FibreSpeed"
+                    }
+                },
+                "end": {
+                    "name": "Wrexham Technology Park",
+                    "id": "9c123d38-3434-4b56-bdf4-56b498e819a5",
+                    "networkProviders": [
+                        {
+                            "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                            "name": "FibreSpeed"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.0097304346912273,
+                            53.04869137324539
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                        "name": "FibreSpeed"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                        "name": "FibreSpeed"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                    "name": "FibreSpeed"
+                },
+                "network": {
+                    "id": "842e5ff3-6dcb-4743-bb7d-a101f77021f5",
+                    "name": "FibreSpeed",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -3.0098300221125585,
+                        53.048699771477125
+                    ],
+                    [
+                        -3.010089126690563,
+                        53.04872162182991
+                    ],
+                    [
+                        -3.024188012660027,
+                        53.0884649548521
+                    ],
+                    [
+                        -3.024889688759951,
+                        53.08918526635828
+                    ],
+                    [
+                        -3.035696929299589,
+                        53.1264049345986
+                    ],
+                    [
+                        -2.9938615156165325,
+                        53.177125380149285
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "ebf15669-e154-4351-83be-f48c6c41bd6c",
+                "name": "Untitled Path",
+                "start": {
+                    "name": "Wrexham Technology Park",
+                    "id": "9c123d38-3434-4b56-bdf4-56b498e819a5",
+                    "networkProviders": [
+                        {
+                            "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                            "name": "FibreSpeed"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.0097304346912273,
+                            53.04869137324539
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                        "name": "FibreSpeed"
+                    }
+                },
+                "end": {
+                    "name": "Hawarden Business Park",
+                    "id": "440af32b-f4ef-4356-b1ae-62580ca9db4f",
+                    "networkProviders": [
+                        {
+                            "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                            "name": "FibreSpeed"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -2.99379789295553,
+                            53.17720251503165
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                        "name": "FibreSpeed"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                        "name": "FibreSpeed"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                    "name": "FibreSpeed"
+                },
+                "network": {
+                    "id": "842e5ff3-6dcb-4743-bb7d-a101f77021f5",
+                    "name": "FibreSpeed",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -2.9938967609424063,
+                        53.17721670196468
+                    ],
+                    [
+                        -2.995872661251048,
+                        53.17750023120647
+                    ],
+                    [
+                        -3.055532516587985,
+                        53.18790769694109
+                    ],
+                    [
+                        -3.0547667894230326,
+                        53.18831807257058
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "fa1c493e-f289-41ea-ac46-9aa0ac059e30",
+                "name": "Untitled Path",
+                "start": {
+                    "name": "Hawarden Business Park",
+                    "id": "440af32b-f4ef-4356-b1ae-62580ca9db4f",
+                    "networkProviders": [
+                        {
+                            "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                            "name": "FibreSpeed"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -2.99379789295553,
+                            53.17720251503165
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                        "name": "FibreSpeed"
+                    }
+                },
+                "end": {
+                    "name": "St. David's Business Park",
+                    "id": "b5a53cce-9669-4b07-8067-456059a76a98",
+                    "networkProviders": [
+                        {
+                            "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                            "name": "FibreSpeed"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.054678654035686,
+                            53.18836530690771
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                        "name": "FibreSpeed"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                        "name": "FibreSpeed"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                    "name": "FibreSpeed"
+                },
+                "network": {
+                    "id": "842e5ff3-6dcb-4743-bb7d-a101f77021f5",
+                    "name": "FibreSpeed",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -3.054590518648342,
+                        53.18841254124485
+                    ],
+                    [
+                        -3.022796738754305,
+                        53.20545175969643
+                    ],
+                    [
+                        -3.022978952303055,
+                        53.20606882662793
+                    ],
+                    [
+                        -3.023167757470835,
+                        53.20709839072465
+                    ],
+                    [
+                        -3.023361579820245,
+                        53.20843789240888
+                    ],
+                    [
+                        -3.023557179800528,
+                        53.20988145706554
+                    ],
+                    [
+                        -3.021906137442078,
+                        53.2259537297661
+                    ],
+                    [
+                        -3.022085942186441,
+                        53.22636872112503
+                    ],
+                    [
+                        -3.022273865776091,
+                        53.22730411030284
+                    ],
+                    [
+                        -3.022460257288485,
+                        53.22813579519187
+                    ],
+                    [
+                        -3.022998632473348,
+                        53.22927812888722
+                    ],
+                    [
+                        -3.023008452669115,
+                        53.2299032626589
+                    ],
+                    [
+                        -3.0215876356294076,
+                        53.23533796233
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "b4e390a6-b04e-4f58-a4cf-ddbdfc91dede",
+                "name": "Untitled Path",
+                "start": {
+                    "name": "St. David's Business Park",
+                    "id": "b5a53cce-9669-4b07-8067-456059a76a98",
+                    "networkProviders": [
+                        {
+                            "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                            "name": "FibreSpeed"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.054678654035686,
+                            53.18836530690771
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                        "name": "FibreSpeed"
+                    }
+                },
+                "end": {
+                    "name": "Deeside Industrial Park",
+                    "id": "8fe3b61c-15f8-4d2d-9506-c9c3a082261c",
+                    "networkProviders": [
+                        {
+                            "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                            "name": "FibreSpeed"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.0215623714186264,
+                            53.235434599260856
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                        "name": "FibreSpeed"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                        "name": "FibreSpeed"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                    "name": "FibreSpeed"
+                },
+                "network": {
+                    "id": "842e5ff3-6dcb-4743-bb7d-a101f77021f5",
+                    "name": "FibreSpeed",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -3.021537107207845,
+                        53.23553123619171
+                    ],
+                    [
+                        -3.021532816248359,
+                        53.23554764933672
+                    ],
+                    [
+                        -3.064628010398524,
+                        53.22848941510164
+                    ],
+                    [
+                        -3.065495505532891,
+                        53.22848369095401
+                    ],
+                    [
+                        -3.10501979204628,
+                        53.22717525962937
+                    ],
+                    [
+                        -3.115176999302548,
+                        53.20761909656648
+                    ],
+                    [
+                        -3.252012049038149,
+                        53.20140672034088
+                    ],
+                    [
+                        -3.260037688534527,
+                        53.22074362187119
+                    ],
+                    [
+                        -3.33310848990756,
+                        53.2340600127251
+                    ],
+                    [
+                        -3.348532494980151,
+                        53.23527888969527
+                    ],
+                    [
+                        -3.383194243480991,
+                        53.21614110519622
+                    ],
+                    [
+                        -3.384923118189955,
+                        53.2161250381253
+                    ],
+                    [
+                        -3.386651986442974,
+                        53.21610894620749
+                    ],
+                    [
+                        -3.42406879788263,
+                        53.2179296170096
+                    ],
+                    [
+                        -3.425473887085628,
+                        53.21853793841223
+                    ],
+                    [
+                        -3.476734120206673,
+                        53.2558987029103
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "77b4ab13-ebc6-444e-a0d6-767eb1b821fc",
+                "name": "Untitled Path",
+                "start": {
+                    "name": "Deeside Industrial Park",
+                    "id": "8fe3b61c-15f8-4d2d-9506-c9c3a082261c",
+                    "networkProviders": [
+                        {
+                            "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                            "name": "FibreSpeed"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.0215623714186264,
+                            53.235434599260856
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                        "name": "FibreSpeed"
+                    }
+                },
+                "end": {
+                    "name": "St. Asaph Business Park",
+                    "id": "c79701f6-af30-47db-87e9-d06b534f8a95",
+                    "networkProviders": [
+                        {
+                            "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                            "name": "FibreSpeed"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.476814838778531,
+                            53.25595753423763
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                        "name": "FibreSpeed"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                        "name": "FibreSpeed"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                    "name": "FibreSpeed"
+                },
+                "network": {
+                    "id": "842e5ff3-6dcb-4743-bb7d-a101f77021f5",
+                    "name": "FibreSpeed",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -3.476914770995853,
+                        53.25595615448952
+                    ],
+                    [
+                        -3.569482216992577,
+                        53.25467809059698
+                    ],
+                    [
+                        -3.601671248730389,
+                        53.2583734242497
+                    ],
+                    [
+                        -3.5994602283615453,
+                        53.28799645925695
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "ddf10c7e-a8bd-4db9-828c-104e93396739",
+                "name": "Untitled Path",
+                "start": {
+                    "name": "St. Asaph Business Park",
+                    "id": "c79701f6-af30-47db-87e9-d06b534f8a95",
+                    "networkProviders": [
+                        {
+                            "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                            "name": "FibreSpeed"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.476814838778531,
+                            53.25595753423763
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                        "name": "FibreSpeed"
+                    }
+                },
+                "end": {
+                    "name": "North Wales Business Park",
+                    "id": "b306240b-1e5e-4c23-9406-2d2888819529",
+                    "networkProviders": [
+                        {
+                            "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                            "name": "FibreSpeed"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.5994527917747363,
+                            53.28809609392087
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                        "name": "FibreSpeed"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                        "name": "FibreSpeed"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                    "name": "FibreSpeed"
+                },
+                "network": {
+                    "id": "842e5ff3-6dcb-4743-bb7d-a101f77021f5",
+                    "name": "FibreSpeed",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -3.5995506388825222,
+                        53.288116526834514
+                    ],
+                    [
+                        -3.704993581713659,
+                        53.2886927427409
+                    ],
+                    [
+                        -3.778705147156556,
+                        53.28663662528923
+                    ],
+                    [
+                        -3.817231552302738,
+                        53.28476718540404
+                    ],
+                    [
+                        -3.818117762424374,
+                        53.28507187271245
+                    ],
+                    [
+                        -3.819881928910171,
+                        53.28547068513003
+                    ],
+                    [
+                        -3.821113571618082,
+                        53.285665609982
+                    ],
+                    [
+                        -3.8497865722613076,
+                        53.28795989155641
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5ea16b3a-5b88-44fa-a492-a327bcb7673e",
+                "name": "Untitled Path",
+                "start": {
+                    "name": "North Wales Business Park",
+                    "id": "b306240b-1e5e-4c23-9406-2d2888819529",
+                    "networkProviders": [
+                        {
+                            "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                            "name": "FibreSpeed"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.5994527917747363,
+                            53.28809609392087
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                        "name": "FibreSpeed"
+                    }
+                },
+                "end": {
+                    "name": "Parc Caer Seion",
+                    "id": "fc1b24b9-16c6-4cd9-8b80-5f6a7ccc6e83",
+                    "networkProviders": [
+                        {
+                            "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                            "name": "FibreSpeed"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.849886180710012,
+                            53.28796786176614
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                        "name": "FibreSpeed"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                        "name": "FibreSpeed"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                    "name": "FibreSpeed"
+                },
+                "network": {
+                    "id": "842e5ff3-6dcb-4743-bb7d-a101f77021f5",
+                    "name": "FibreSpeed",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -3.8499857891587164,
+                        53.287975831975864
+                    ],
+                    [
+                        -3.850601112292035,
+                        53.28802506730162
+                    ],
+                    [
+                        -3.884775430943591,
+                        53.28619660449852
+                    ],
+                    [
+                        -3.925498841781756,
+                        53.27009100098982
+                    ],
+                    [
+                        -3.967314023875742,
+                        53.26176989532654
+                    ],
+                    [
+                        -4.017035623199168,
+                        53.2382300116049
+                    ],
+                    [
+                        -4.082544639619707,
+                        53.21497903233087
+                    ],
+                    [
+                        -4.083746314786651,
+                        53.21496079910635
+                    ],
+                    [
+                        -4.085634666550117,
+                        53.21493211854854
+                    ],
+                    [
+                        -4.107152858978782,
+                        53.21245904957374
+                    ],
+                    [
+                        -4.107277340318903,
+                        53.212339164595534
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "1b5f6a58-8281-457f-ac41-138452d41e6a",
+                "name": "Untitled Path",
+                "start": {
+                    "name": "Parc Caer Seion",
+                    "id": "fc1b24b9-16c6-4cd9-8b80-5f6a7ccc6e83",
+                    "networkProviders": [
+                        {
+                            "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                            "name": "FibreSpeed"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -3.849886180710012,
+                            53.28796786176614
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                        "name": "FibreSpeed"
+                    }
+                },
+                "end": {
+                    "name": "Parc Bryn Cegin",
+                    "id": "9495d0d6-da25-4992-b5ab-295188152f6c",
+                    "networkProviders": [
+                        {
+                            "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                            "name": "FibreSpeed"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -4.107349314508922,
+                            53.21226984798797
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                        "name": "FibreSpeed"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                        "name": "FibreSpeed"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                    "name": "FibreSpeed"
+                },
+                "network": {
+                    "id": "842e5ff3-6dcb-4743-bb7d-a101f77021f5",
+                    "name": "FibreSpeed",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.107421288698942,
+                        53.212200531380404
+                    ],
+                    [
+                        -4.125630917088379,
+                        53.19466327719834
+                    ],
+                    [
+                        -4.1407141267596,
+                        53.18726638763962
+                    ],
+                    [
+                        -4.141251361691162,
+                        53.18767250901278
+                    ],
+                    [
+                        -4.141961548907517,
+                        53.18807600263759
+                    ],
+                    [
+                        -4.18359404262435,
+                        53.20524732212861
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "89ffc954-36a1-47f8-a7de-c8a451d08495",
+                "name": "Untitled Path",
+                "start": {
+                    "name": "Parc Bryn Cegin",
+                    "id": "9495d0d6-da25-4992-b5ab-295188152f6c",
+                    "networkProviders": [
+                        {
+                            "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                            "name": "FibreSpeed"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -4.107349314508922,
+                            53.21226984798797
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                        "name": "FibreSpeed"
+                    }
+                },
+                "end": {
+                    "name": "Parc Menai",
+                    "id": "ee2af753-ab0b-4ae2-8698-073aca0de8b1",
+                    "networkProviders": [
+                        {
+                            "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                            "name": "FibreSpeed"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -4.183686481380287,
+                            53.20528544848786
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                        "name": "FibreSpeed"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                        "name": "FibreSpeed"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                    "name": "FibreSpeed"
+                },
+                "network": {
+                    "id": "842e5ff3-6dcb-4743-bb7d-a101f77021f5",
+                    "name": "FibreSpeed",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.183754205601202,
+                        53.205212031042706
+                    ],
+                    [
+                        -4.204032273413375,
+                        53.18322929117133
+                    ],
+                    [
+                        -4.231618927513741,
+                        53.16394438851967
+                    ],
+                    [
+                        -4.25995812611637,
+                        53.14781855055224
+                    ],
+                    [
+                        -4.275223665286328,
+                        53.14334217917556
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "46a35a5b-ac76-4688-b180-0d3a97f85fc3",
+                "name": "Untitled Path",
+                "start": {
+                    "name": "Parc Menai",
+                    "id": "ee2af753-ab0b-4ae2-8698-073aca0de8b1",
+                    "networkProviders": [
+                        {
+                            "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                            "name": "FibreSpeed"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -4.183686481380287,
+                            53.20528544848786
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                        "name": "FibreSpeed"
+                    }
+                },
+                "end": {
+                    "name": "Victoria Dock",
+                    "id": "a5ac68c3-d0d4-469a-83b1-083624a898d2",
+                    "networkProviders": [
+                        {
+                            "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                            "name": "FibreSpeed"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -4.275319585141039,
+                            53.14331405223636
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                        "name": "FibreSpeed"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                        "name": "FibreSpeed"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                    "name": "FibreSpeed"
+                },
+                "network": {
+                    "id": "842e5ff3-6dcb-4743-bb7d-a101f77021f5",
+                    "name": "FibreSpeed",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -4.107652189751152,
+                        53.21264372814555
+                    ],
+                    [
+                        -4.108438853563513,
+                        53.21295981039344
+                    ],
+                    [
+                        -4.111277643970707,
+                        53.21380246349824
+                    ],
+                    [
+                        -4.114119644500621,
+                        53.21464598597183
+                    ],
+                    [
+                        -4.144055463442458,
+                        53.22296349004379
+                    ],
+                    [
+                        -4.145346085376863,
+                        53.22325011280844
+                    ],
+                    [
+                        -4.19236274215259,
+                        53.23088754374896
+                    ],
+                    [
+                        -4.26799984264938,
+                        53.23677202075403
+                    ],
+                    [
+                        -4.27280174535997,
+                        53.23781929614684
+                    ],
+                    [
+                        -4.278742991196935,
+                        53.23878777470006
+                    ],
+                    [
+                        -4.282852496482321,
+                        53.23919315910581
+                    ],
+                    [
+                        -4.37080603023243,
+                        53.24998611535719
+                    ],
+                    [
+                        -4.372644634450184,
+                        53.25054853490934
+                    ],
+                    [
+                        -4.377396040112512,
+                        53.25125256845622
+                    ],
+                    [
+                        -4.38221354632902,
+                        53.2522975836643
+                    ],
+                    [
+                        -4.481362847191063,
+                        53.26884640889966
+                    ],
+                    [
+                        -4.482571863151978,
+                        53.26910736578802
+                    ],
+                    [
+                        -4.554594634975068,
+                        53.28168101693593
+                    ],
+                    [
+                        -4.6219803759543066,
+                        53.29657748784729
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "a1ac4474-5924-4f56-8725-4b9e717ddcbc",
+                "name": "Untitled Path",
+                "start": {
+                    "name": "Parc Bryn Cegin",
+                    "id": "9495d0d6-da25-4992-b5ab-295188152f6c",
+                    "networkProviders": [
+                        {
+                            "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                            "name": "FibreSpeed"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -4.107349314508922,
+                            53.21226984798797
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                        "name": "FibreSpeed"
+                    }
+                },
+                "end": {
+                    "name": "Parc Cybi",
+                    "id": "beb9ce0d-2941-456b-8dac-a56136814412",
+                    "networkProviders": [
+                        {
+                            "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                            "name": "FibreSpeed"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            -4.622077938859261,
+                            53.29659905536223
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                        "name": "FibreSpeed"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "3b474189-0ce5-4852-9e47-6800a3317eba",
+                        "name": "FibreSpeed"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "08804287-4776-47f0-aa4e-7d49eef6e6cd",
+                    "name": "FibreSpeed"
+                },
+                "network": {
+                    "id": "842e5ff3-6dcb-4743-bb7d-a101f77021f5",
+                    "name": "FibreSpeed",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        }
+    ]
+}
