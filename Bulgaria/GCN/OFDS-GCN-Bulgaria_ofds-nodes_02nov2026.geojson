@@ -1,0 +1,1445 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.162236832519447,
+                    43.42764438822577
+                ]
+            },
+            "properties": {
+                "name": "Balchik",
+                "id": "80fb090f-555a-41bd-8719-a53f221fe6e0",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.09473482394364,
+                    42.02081687537881
+                ]
+            },
+            "properties": {
+                "name": "Blagoevgrad",
+                "id": "c46f674a-72d6-4efe-9f97-4e5b92814745",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.46512137064675,
+                    42.50909989648378
+                ]
+            },
+            "properties": {
+                "name": "Burgas",
+                "id": "e01edb05-53d6-42d4-841c-9f8150c66a19",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.82743197338767,
+                    43.57264181702294
+                ]
+            },
+            "properties": {
+                "name": "Dobrich",
+                "id": "7ffe245d-5cc8-4024-9976-1c3159cc6327",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.47507554634868,
+                    42.237982187579306
+                ]
+            },
+            "properties": {
+                "name": "Gyueshevo",
+                "id": "b74da864-3e0c-44a8-9837-6ee1641b67c5",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.55621891893174,
+                    41.93606122769124
+                ]
+            },
+            "properties": {
+                "name": "Haskovo",
+                "id": "7a17c807-884c-46b4-9a40-ecd1a10eda37",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.3218279912265,
+                    41.72436910649618
+                ]
+            },
+            "properties": {
+                "name": "Kapitan Andreevo",
+                "id": "7ec554c8-0744-4279-a6a2-1991c23112d5",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.084458514856628,
+                    41.71771516465147
+                ]
+            },
+            "properties": {
+                "name": "Kapitan Petko Voevoda",
+                "id": "c7b13834-df97-4beb-94e1-bc83ec1aaf19",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.10724664195489,
+                    43.75474035407722
+                ]
+            },
+            "properties": {
+                "name": "Kardam",
+                "id": "2053476f-5f10-48fd-89e8-42dcab55ea5c",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.980217649556764,
+                    42.65232169283302
+                ]
+            },
+            "properties": {
+                "name": "Karnobat",
+                "id": "1aa949a1-7825-4501-8363-dfbf115477ee",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.36307519574233,
+                    41.38731373903592
+                ]
+            },
+            "properties": {
+                "name": "Kulata",
+                "id": "42244363-7684-4888-bf68-83ce993fd08f",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.37662980995972,
+                    41.63997857992705
+                ]
+            },
+            "properties": {
+                "name": "Kurdjali",
+                "id": "195ce246-3714-468c-aa9e-2134d29de38c",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.69297865112034,
+                    42.29004207939424
+                ]
+            },
+            "properties": {
+                "name": "Kyustendil",
+                "id": "4575bdb7-4e81-4069-a143-89e6b2d76a62",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.714699898550197,
+                    43.13716050196752
+                ]
+            },
+            "properties": {
+                "name": "Lovech",
+                "id": "62323e76-84b8-4233-9b6d-a92fc989e398",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.22920046037582,
+                    43.40919046269453
+                ]
+            },
+            "properties": {
+                "name": "Montana",
+                "id": "591545cc-b271-4e58-902b-ebfecbecc6ef",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.185909052644046,
+                    42.50051543100332
+                ]
+            },
+            "properties": {
+                "name": "Panagyurishte",
+                "id": "becec5ed-f9f7-42a4-9646-5c53d801b8b8",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.333877994035593,
+                    42.190851697992734
+                ]
+            },
+            "properties": {
+                "name": "Pazardzhik",
+                "id": "d0088bc0-a296-4d17-90f7-c2c31361c85c",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.038790244368485,
+                    42.603482242843235
+                ]
+            },
+            "properties": {
+                "name": "Pernik",
+                "id": "7b4759c3-cc2e-4cc7-b697-c395925aaa88",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.60951803821563,
+                    43.42017359726982
+                ]
+            },
+            "properties": {
+                "name": "Pleven",
+                "id": "565509a9-4776-4df0-8f19-f9e59ce06538",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.744913167710415,
+                    42.13749360426935
+                ]
+            },
+            "properties": {
+                "name": "Plovdiv",
+                "id": "f6f631b5-c50a-49d0-a9f0-d96b0c102af6",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.537387711400523,
+                    43.5335968394758
+                ]
+            },
+            "properties": {
+                "name": "Razgrad",
+                "id": "94681664-3e67-4f1f-aa23-0a81e77e7fef",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.96743512920725,
+                    43.83684282516262
+                ]
+            },
+            "properties": {
+                "name": "Russe",
+                "id": "b62737b4-a313-4f44-ab8c-d1b66c80d0bb",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.10325158406128,
+                    43.02681301212747
+                ]
+            },
+            "properties": {
+                "name": "Sevlievo",
+                "id": "b783b0f1-347d-40c1-b553-dc5627f6f483",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9394696256895,
+                    43.27595878298231
+                ]
+            },
+            "properties": {
+                "name": "Shumen",
+                "id": "28d57fd6-00f7-4fc7-899a-f246f985410c",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.26717644154038,
+                    44.114741573979785
+                ]
+            },
+            "properties": {
+                "name": "Silistra",
+                "id": "cfbfbde0-b493-4da7-96f9-a46924b3178d",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.32334201355646,
+                    42.67849139359821
+                ]
+            },
+            "properties": {
+                "name": "Sliven",
+                "id": "0468f74d-6406-4ba8-b7fa-9db4b95b7c81",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7016350116992,
+                    41.57760468971492
+                ]
+            },
+            "properties": {
+                "name": "Smolyan",
+                "id": "79e13dc8-2f97-4511-90bd-a64d30010b9a",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.322358480367047,
+                    42.698608198644784
+                ]
+            },
+            "properties": {
+                "name": "Sofia",
+                "id": "2ed08329-e134-4579-a937-11785cb813b2",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.63631562184968,
+                    42.4266916421217
+                ]
+            },
+            "properties": {
+                "name": "Stara Zagora",
+                "id": "61439419-b9ba-41af-aa92-d8c6ddb4c19a",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.70969352767304,
+                    42.68924401614213
+                ]
+            },
+            "properties": {
+                "name": "Sunny Beach",
+                "id": "9358378c-30cd-4d2e-895f-92ec2386d44e",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.19784609513913,
+                    41.76821454622529
+                ]
+            },
+            "properties": {
+                "name": "Svilengrad",
+                "id": "63e486fc-fc7f-4741-bec5-946269174c06",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.57196775630976,
+                    43.25075791282641
+                ]
+            },
+            "properties": {
+                "name": "Turgovishte",
+                "id": "14b11dc5-2aa2-43c2-8caf-e876d4115848",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.61703182194802,
+                    43.07519950436275
+                ]
+            },
+            "properties": {
+                "name": "V. Turnovo",
+                "id": "7e88d13b-2239-4085-af09-f03b61b2cf8e",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.9156932338851,
+                    43.21294136400585
+                ]
+            },
+            "properties": {
+                "name": "Varna",
+                "id": "444dd8a6-ac4a-4ec8-a675-e89e7319e760",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.86909305373056,
+                    43.99568049075651
+                ]
+            },
+            "properties": {
+                "name": "Vidin",
+                "id": "76c67114-3025-4114-ab14-150d07366e6c",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.550543291422397,
+                    43.20535290564058
+                ]
+            },
+            "properties": {
+                "name": "Vratsa",
+                "id": "c6d1c41d-cccc-4381-8d2d-aeca0bd9c115",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.503789220993056,
+                    42.48495474943916
+                ]
+            },
+            "properties": {
+                "name": "Yambol",
+                "id": "911d6b56-595c-41e4-8882-041a3f75a645",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.86804919987749,
+                    42.9939987343737
+                ]
+            },
+            "properties": {
+                "name": "Kalotina",
+                "id": "d67478fa-929f-48ac-839e-d23d2995fbd4",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.291536266904092,
+                    43.38372605936045
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "c5e0c591-4f3b-4bb2-af3d-53fd77f21670",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.75742642109181,
+                    42.32204421162638
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "07abb8b3-c53e-4eac-b70a-674ed3733c79",
+                "networkProviders": [
+                    {
+                        "id": "cbb6760d-0f43-4b44-8375-2a461ba51bf3",
+                        "name": "GCN Bulgaria"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "193d5ef3-9f56-48fe-a446-ee69d51cb14f",
+                    "name": "GCN Bulgaria"
+                },
+                "network": {
+                    "id": "283f9e3d-a2dc-4ad8-b322-34b256e63a0f",
+                    "name": "GCN Bulgaria",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        }
+    ]
+}
