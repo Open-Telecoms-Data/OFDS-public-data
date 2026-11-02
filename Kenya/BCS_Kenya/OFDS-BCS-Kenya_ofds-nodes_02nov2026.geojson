@@ -1,0 +1,1157 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.98948428769143,
+                    2.3319414312950824
+                ]
+            },
+            "properties": {
+                "name": "Marsabit",
+                "id": "32255f51-2a83-45c8-9922-49e9754f640c",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.05339961828384,
+                    3.5162833889252103
+                ]
+            },
+            "properties": {
+                "name": "Moyale",
+                "id": "4c08160e-5fc3-4e9d-91e4-b123b94a4b53",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.218782466652925,
+                    3.9331892376328965
+                ]
+            },
+            "properties": {
+                "name": "Rhamu",
+                "id": "9879592d-6819-4deb-a0be-ccb6a2846b73",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.84540942047008,
+                    3.934919661293988
+                ]
+            },
+            "properties": {
+                "name": "Mandera",
+                "id": "73d19fb2-47b9-49c8-a43e-e8868cd5c1c9",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.05285548065637,
+                    1.7517412442434985
+                ]
+            },
+            "properties": {
+                "name": "Wajir",
+                "id": "cdc8bb8e-7d47-453b-8a94-00eb5a6698bc",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.49453438600312,
+                    1.0149272457092815
+                ]
+            },
+            "properties": {
+                "name": "Habaswein",
+                "id": "66bce03a-996a-4a7e-8f4c-a1f476a95bf8",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.58314335099915,
+                    0.3557085584588343
+                ]
+            },
+            "properties": {
+                "name": "Isiolo",
+                "id": "24936514-d919-44e1-b960-f60739dacdc5",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.63668415085094,
+                    -0.4566414507027723
+                ]
+            },
+            "properties": {
+                "name": "Garissa",
+                "id": "1cea3618-6218-4167-b20d-3f809a164835",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.653200244548685,
+                    0.04551818460501555
+                ]
+            },
+            "properties": {
+                "name": "Meru",
+                "id": "6cdb9f99-ce86-445c-8c81-3a516e5a2e39",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.82212687453896,
+                    -1.291883904923031
+                ]
+            },
+            "properties": {
+                "name": "Nairobi",
+                "id": "cd8d6b11-055e-4c26-9572-3a0ed0db005b",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.826744888642736,
+                    -1.2725901161665718
+                ]
+            },
+            "properties": {
+                "name": "BCS Citadel Building",
+                "id": "83197c88-2a0c-4bd2-a997-c80c57121094",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.730763894258736,
+                    -2.212522553914837
+                ]
+            },
+            "properties": {
+                "name": "Kiboko KPLC Substation",
+                "id": "8d754db4-033c-4992-b557-59537a4ff89c",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.55744989036079,
+                    -3.3963874933981404
+                ]
+            },
+            "properties": {
+                "name": "KPLC Substation Voi",
+                "id": "ba77d4b5-3019-494c-916d-c36beba92b5d",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.68370141212579,
+                    -4.012681044513529
+                ]
+            },
+            "properties": {
+                "name": "Makonde KPLC Substation",
+                "id": "6a41791d-fbed-42fe-b95d-5c005bd8fad1",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.848535341845206,
+                    -1.3255199726198976
+                ]
+            },
+            "properties": {
+                "name": "Parkside Towers",
+                "id": "3e017787-53cb-44c8-8cf3-cb3b549eb245",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.86685961323614,
+                    -1.3289521713421317
+                ]
+            },
+            "properties": {
+                "name": "EADC, Kenya",
+                "id": "44e3cb0d-6e6e-469a-aa42-0b5868d91eff",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.43316251406707,
+                    -0.7193323952638951
+                ]
+            },
+            "properties": {
+                "name": "Naivasha",
+                "id": "8deca90f-2cea-43e3-8d07-f6db2f73856b",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.139928865506555,
+                    -0.30291277256897203
+                ]
+            },
+            "properties": {
+                "name": "Lanet KPLC Substation",
+                "id": "f904c150-4376-4b27-9bde-962e5e511aaf",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.07944051523846,
+                    -0.3002004782442425
+                ]
+            },
+            "properties": {
+                "name": "Nakuru",
+                "id": "38ff9327-4ac6-4bbb-ae2c-5da2217079ff",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.26987903839315,
+                    0.5152872087917115
+                ]
+            },
+            "properties": {
+                "name": "Eldoret",
+                "id": "13494058-d5d7-4387-b079-b7bed603d906",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.17997117680056,
+                    0.6949349290959831
+                ]
+            },
+            "properties": {
+                "name": "UETCL Tororo ",
+                "id": "3f8bc6a1-ecec-43a5-be90-6883dba102d0",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.76881433058472,
+                    -0.09118744347816157
+                ]
+            },
+            "properties": {
+                "name": "Kisumu",
+                "id": "7e89f869-8b1a-427e-8610-efaa37b3e107",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.09477386195228,
+                    0.46903147198984235
+                ]
+            },
+            "properties": {
+                "name": "Malabo POP",
+                "id": "3c8c56fe-c8c3-4f3d-86b0-da76fb8f5fe2",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.41373218315137,
+                    0.24707055733250693
+                ]
+            },
+            "properties": {
+                "name": "Lessos KPLC Substation",
+                "id": "fae4f5b7-bbe5-47f5-bad3-888e1055549a",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.4846018263487,
+                    -0.8748881876254639
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "4113214d-d29c-46aa-96ce-0cb51fcf4375",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.47459008010525,
+                    0.1422484041501622
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "b73a3227-aaa0-4bbc-9e81-34bba454f562",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.94183628002918,
+                    -1.175540410629319
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "993613e9-5e03-4a6b-b2b3-96479cf77279",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.21619651659092,
+                    -1.0551922953407888
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "4590a6ad-1801-4765-926b-43c8a028657a",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.528231162457004,
+                    -0.4931413031053513
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "41c037ad-3c3b-45d6-903b-2263f2792ef5",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.90674984444809,
+                    -1.210886110914483
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "cb4f9a53-82a0-40d4-95f7-04c11bfe5eed",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.68282116594174,
+                    -0.14104557997590197
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "f2c4540f-0df4-4e70-9c32-77ff4968885d",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.86884366823956,
+                    3.2058989408010765
+                ]
+            },
+            "properties": {
+                "name": "fork",
+                "id": "b9267e0f-3c7c-4258-afce-9382f084fa58",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "status": "operational",
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "node"
+            }
+        }
+    ]
+}

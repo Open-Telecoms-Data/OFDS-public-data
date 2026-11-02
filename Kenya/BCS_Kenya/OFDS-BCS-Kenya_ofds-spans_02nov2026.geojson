@@ -1,0 +1,4759 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        41.84531222902298,
+                        3.934896610836144
+                    ],
+                    [
+                        41.76058210874786,
+                        3.914801549759893
+                    ],
+                    [
+                        41.75461515352078,
+                        3.913620594624026
+                    ],
+                    [
+                        41.54981409018372,
+                        3.898480442235388
+                    ],
+                    [
+                        41.54506396014749,
+                        3.899674659978613
+                    ],
+                    [
+                        41.53793205625411,
+                        3.899686869116793
+                    ],
+                    [
+                        41.52961677817148,
+                        3.900887357736858
+                    ],
+                    [
+                        41.51536004884964,
+                        3.902098444410127
+                    ],
+                    [
+                        41.33607071302074,
+                        3.91549913176732
+                    ],
+                    [
+                        41.33370000756349,
+                        3.916690216091384
+                    ],
+                    [
+                        41.2197921374079,
+                        3.934747727340018
+                    ],
+                    [
+                        41.21883680629913,
+                        3.9332731142618766
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "9834f257-23a6-4bc2-a27e-569b518a6499",
+                "name": "Mandera - Rhamu",
+                "start": {
+                    "name": "Mandera",
+                    "id": "73d19fb2-47b9-49c8-a43e-e8868cd5c1c9",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            41.84540942047008,
+                            3.934919661293988
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "Rhamu",
+                    "id": "9879592d-6819-4deb-a0be-ccb6a2846b73",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            41.218782466652925,
+                            3.9331892376328965
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        40.05281063147514,
+                        1.7516519687948147
+                    ],
+                    [
+                        39.92668950280324,
+                        1.50059899433174
+                    ],
+                    [
+                        39.82212955626687,
+                        1.278126367728195
+                    ],
+                    [
+                        39.49461230677336,
+                        1.0149898494353946
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "ea3d0af1-67d8-4ae2-ab0f-9af7ea1ee8a9",
+                "name": "Wajir - Habaswein",
+                "start": {
+                    "name": "Wajir",
+                    "id": "cdc8bb8e-7d47-453b-8a94-00eb5a6698bc",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.05285548065637,
+                            1.7517412442434985
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "Habaswein",
+                    "id": "66bce03a-996a-4a7e-8f4c-a1f476a95bf8",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            39.49453438600312,
+                            1.0149272457092815
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        39.49445646523287,
+                        1.0148646419831702
+                    ],
+                    [
+                        39.49055482521075,
+                        1.011729955267765
+                    ],
+                    [
+                        39.25707375781388,
+                        0.8617312957134619
+                    ],
+                    [
+                        39.12893623840474,
+                        0.7080620462326161
+                    ],
+                    [
+                        38.91761767530814,
+                        0.6261552376654431
+                    ],
+                    [
+                        38.47001999742,
+                        0.5747363415780765
+                    ],
+                    [
+                        38.08152182344457,
+                        0.5655589743697191
+                    ],
+                    [
+                        37.75774637660977,
+                        0.4225030102178962
+                    ],
+                    [
+                        37.75181314466541,
+                        0.4225204558262132
+                    ],
+                    [
+                        37.73757210582335,
+                        0.4213753887544203
+                    ],
+                    [
+                        37.60219092538148,
+                        0.3648077961368296
+                    ],
+                    [
+                        37.58397559968019,
+                        0.357575296582709
+                    ],
+                    [
+                        37.583184031688695,
+                        0.3557998054572543
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "cd92c7e1-8a9d-41d9-86f2-4983f97ae891",
+                "name": "Habaswein - Isiolo",
+                "start": {
+                    "name": "Habaswein",
+                    "id": "66bce03a-996a-4a7e-8f4c-a1f476a95bf8",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            39.49453438600312,
+                            1.0149272457092815
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "Isiolo",
+                    "id": "24936514-d919-44e1-b960-f60739dacdc5",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            37.58314335099915,
+                            0.3557085584588343
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        39.68366380871192,
+                        -4.01277367038231
+                    ],
+                    [
+                        39.66475904761136,
+                        -4.05934045090924
+                    ],
+                    [
+                        39.53146693230507,
+                        -3.918331142509552
+                    ],
+                    [
+                        39.52709135286003,
+                        -3.911757637410329
+                    ],
+                    [
+                        39.51395325867642,
+                        -3.898602941712093
+                    ],
+                    [
+                        39.49862366801899,
+                        -3.884348655575184
+                    ],
+                    [
+                        39.48986114855215,
+                        -3.877766349660494
+                    ],
+                    [
+                        39.38141673351102,
+                        -3.791054812663294
+                    ],
+                    [
+                        39.37264031002063,
+                        -3.791036121304074
+                    ],
+                    [
+                        39.36496072472742,
+                        -3.791019487586861
+                    ],
+                    [
+                        39.22780183684385,
+                        -3.766567474073165
+                    ],
+                    [
+                        39.12674256011035,
+                        -3.750903054068983
+                    ],
+                    [
+                        38.78575496581206,
+                        -3.578469594694203
+                    ],
+                    [
+                        38.63912252178305,
+                        -3.444535156698327
+                    ],
+                    [
+                        38.63693294161204,
+                        -3.442338339851224
+                    ],
+                    [
+                        38.6336508377025,
+                        -3.43794797544805
+                    ],
+                    [
+                        38.62926887728386,
+                        -3.434648898214927
+                    ],
+                    [
+                        38.56676775803093,
+                        -3.403771467605244
+                    ],
+                    [
+                        38.55752821059023,
+                        -3.3964495585158834
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "14e00980-9d28-469c-8933-6f06f90cc699",
+                "name": "Makonde KPLC Substation - KPLC Substation Voi",
+                "start": {
+                    "name": "Makonde KPLC Substation",
+                    "id": "6a41791d-fbed-42fe-b95d-5c005bd8fad1",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            39.68370141212579,
+                            -4.012681044513529
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "KPLC Substation Voi",
+                    "id": "ba77d4b5-3019-494c-916d-c36beba92b5d",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            38.55744989036079,
+                            -3.3963874933981404
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        38.55737157013136,
+                        -3.396325428280401
+                    ],
+                    [
+                        38.54593519381866,
+                        -3.387262635085093
+                    ],
+                    [
+                        38.4879074104777,
+                        -3.070812054578625
+                    ],
+                    [
+                        38.48573212956322,
+                        -3.06533346620901
+                    ],
+                    [
+                        38.48137503838045,
+                        -3.05656498503889
+                    ],
+                    [
+                        38.36242442805622,
+                        -2.883154076532687
+                    ],
+                    [
+                        38.16787617047208,
+                        -2.695606843407753
+                    ],
+                    [
+                        38.16350878800486,
+                        -2.691215900698648
+                    ],
+                    [
+                        38.02595312776816,
+                        -2.533084259761016
+                    ],
+                    [
+                        37.95939298208459,
+                        -2.41330061111
+                    ],
+                    [
+                        37.84822233532782,
+                        -2.301791429512616
+                    ],
+                    [
+                        37.73125311304804,
+                        -2.212733626623038
+                    ],
+                    [
+                        37.73085565674338,
+                        -2.2125621447003287
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5c7ad652-2904-4192-967c-6e376aa26a58",
+                "name": "KPLC Substation Voi - Kiboko KPLC Substation",
+                "start": {
+                    "name": "KPLC Substation Voi",
+                    "id": "ba77d4b5-3019-494c-916d-c36beba92b5d",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            38.55744989036079,
+                            -3.3963874933981404
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "Kiboko KPLC Substation",
+                    "id": "8d754db4-033c-4992-b557-59537a4ff89c",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            37.730763894258736,
+                            -2.212522553914837
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.730672131774085,
+                        -2.212482963129346
+                    ],
+                    [
+                        37.56506293104171,
+                        -2.141031123450109
+                    ],
+                    [
+                        37.40556197100014,
+                        -2.036445857454257
+                    ],
+                    [
+                        37.27776068767943,
+                        -1.896713702021356
+                    ],
+                    [
+                        37.16226581500746,
+                        -1.755094469780027
+                    ],
+                    [
+                        37.07003477457079,
+                        -1.666321011956681
+                    ],
+                    [
+                        36.98422687464409,
+                        -1.536788392100673
+                    ],
+                    [
+                        36.95168398174623,
+                        -1.452717560600928
+                    ],
+                    [
+                        36.92953606445833,
+                        -1.384837593289555
+                    ],
+                    [
+                        36.90455410903182,
+                        -1.347194181739455
+                    ],
+                    [
+                        36.90401575064215,
+                        -1.346651819311844
+                    ],
+                    [
+                        36.88758987687675,
+                        -1.331189084921961
+                    ],
+                    [
+                        36.866958994922804,
+                        -1.3289628951924577
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5d99d0bb-54cd-4e53-b177-980da5fba8c9",
+                "name": "Kiboko KPLC Substation - EADC, Kenya",
+                "start": {
+                    "name": "Kiboko KPLC Substation",
+                    "id": "8d754db4-033c-4992-b557-59537a4ff89c",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            37.730763894258736,
+                            -2.212522553914837
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "EADC, Kenya",
+                    "id": "44e3cb0d-6e6e-469a-aa42-0b5868d91eff",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.86685961323614,
+                            -1.3289521713421317
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.86676049294516,
+                        -1.3289396853052065
+                    ],
+                    [
+                        36.84868107523694,
+                        -1.325628161188028
+                    ],
+                    [
+                        36.848615538118175,
+                        -1.3255795081857593
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "6d27b534-e664-4657-8fae-26993b7cbe73",
+                "name": "EADC, Kenya - Parkside Towers",
+                "start": {
+                    "name": "EADC, Kenya",
+                    "id": "44e3cb0d-6e6e-469a-aa42-0b5868d91eff",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.86685961323614,
+                            -1.3289521713421317
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "Parkside Towers",
+                    "id": "3e017787-53cb-44c8-8cf3-cb3b549eb245",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.848535341845206,
+                            -1.3255199726198976
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.84845514557224,
+                        -1.3254604370540344
+                    ],
+                    [
+                        36.83843271375791,
+                        -1.318020052017394
+                    ],
+                    [
+                        36.8279400487449,
+                        -1.30257204075602
+                    ],
+                    [
+                        36.82217463802707,
+                        -1.2919717231494843
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "59b6da6e-cbe6-4806-8970-5c6675a78375",
+                "name": "Parkside Towers - Nairobi",
+                "start": {
+                    "name": "Parkside Towers",
+                    "id": "3e017787-53cb-44c8-8cf3-cb3b549eb245",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.848535341845206,
+                            -1.3255199726198976
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "Nairobi",
+                    "id": "cd8d6b11-055e-4c26-9572-3a0ed0db005b",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.82212687453896,
+                            -1.291883904923031
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.43314093266421,
+                        -0.7192348358376829
+                    ],
+                    [
+                        36.43279322348003,
+                        -0.7176630052800981
+                    ],
+                    [
+                        36.42808474104456,
+                        -0.6974819604681076
+                    ],
+                    [
+                        36.3899082899459,
+                        -0.6673319389199011
+                    ],
+                    [
+                        36.38034805903511,
+                        -0.6062764813030962
+                    ],
+                    [
+                        36.37424406172413,
+                        -0.5989012346740257
+                    ],
+                    [
+                        36.33893104523749,
+                        -0.5359838372313838
+                    ],
+                    [
+                        36.33771144427689,
+                        -0.5344481233754722
+                    ],
+                    [
+                        36.29260851480615,
+                        -0.4733314528413995
+                    ],
+                    [
+                        36.24862365825464,
+                        -0.3977632576273278
+                    ],
+                    [
+                        36.24801652152171,
+                        -0.3962296401063107
+                    ],
+                    [
+                        36.24710086094007,
+                        -0.3953074095812957
+                    ],
+                    [
+                        36.22359563044662,
+                        -0.3734764880621135
+                    ],
+                    [
+                        36.17103005023228,
+                        -0.3441913509930393
+                    ],
+                    [
+                        36.14417800118349,
+                        -0.3174472212003042
+                    ],
+                    [
+                        36.13995691339634,
+                        -0.3030087122245316
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "a0f9ef6d-46a1-4090-a4e4-924c95abacef",
+                "name": "Naivasha - Lanet KPLC Substation",
+                "start": {
+                    "name": "Naivasha",
+                    "id": "8deca90f-2cea-43e3-8d07-f6db2f73856b",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.43316251406707,
+                            -0.7193323952638951
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "Lanet KPLC Substation",
+                    "id": "f904c150-4376-4b27-9bde-962e5e511aaf",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.139928865506555,
+                            -0.30291277256897203
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.13990081761678,
+                        -0.30281683291341094
+                    ],
+                    [
+                        36.13933710442859,
+                        -0.3008886148005063
+                    ],
+                    [
+                        36.10980318356069,
+                        -0.2877572331223709
+                    ],
+                    [
+                        36.07953302984033,
+                        -0.30016256386016604
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "94daf7bc-d33f-4b26-8ca5-0c2f693dfbb5",
+                "name": "Lanet KPLC Substation - Nakuru",
+                "start": {
+                    "name": "Lanet KPLC Substation",
+                    "id": "f904c150-4376-4b27-9bde-962e5e511aaf",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.139928865506555,
+                            -0.30291277256897203
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "Nakuru",
+                    "id": "38ff9327-4ac6-4bbb-ae2c-5da2217079ff",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.07944051523846,
+                            -0.3002004782442425
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        35.41366861359778,
+                        0.2471477403486248
+                    ],
+                    [
+                        35.38335302497808,
+                        0.2839554325989485
+                    ],
+                    [
+                        35.38503297714995,
+                        0.2905672648601418
+                    ],
+                    [
+                        35.31110880320638,
+                        0.4264661796156675
+                    ],
+                    [
+                        35.2970110508772,
+                        0.4609796146510957
+                    ],
+                    [
+                        35.29731238691578,
+                        0.4627471514571181
+                    ],
+                    [
+                        35.30040300739388,
+                        0.5010445245192392
+                    ],
+                    [
+                        35.28572328936998,
+                        0.5134693590975097
+                    ],
+                    [
+                        35.28542987367712,
+                        0.5137649683363384
+                    ],
+                    [
+                        35.269978559801665,
+                        0.5152774668382117
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "7d9ca43e-4dd7-49f9-a1c3-77689365bf6c",
+                "name": "Lessos KPLC Substation - Eldoret",
+                "start": {
+                    "name": "Lessos KPLC Substation",
+                    "id": "fae4f5b7-bbe5-47f5-bad3-888e1055549a",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            35.41373218315137,
+                            0.24707055733250693
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "Eldoret",
+                    "id": "13494058-d5d7-4387-b079-b7bed603d906",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            35.26987903839315,
+                            0.5152872087917115
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        35.269784231815485,
+                        0.5153187175325433
+                    ],
+                    [
+                        35.2524875554979,
+                        0.5265463418158917
+                    ],
+                    [
+                        35.23724158634392,
+                        0.5637053554783528
+                    ],
+                    [
+                        35.23694924748212,
+                        0.5642955442720535
+                    ],
+                    [
+                        35.23607006673356,
+                        0.565476985255898
+                    ],
+                    [
+                        35.19735650551246,
+                        0.6092044858141434
+                    ],
+                    [
+                        35.17789792444488,
+                        0.604267133309853
+                    ],
+                    [
+                        35.13880966492405,
+                        0.6041159504062482
+                    ],
+                    [
+                        35.0911508816647,
+                        0.6181310743565803
+                    ],
+                    [
+                        35.0349747084819,
+                        0.638062914783094
+                    ],
+                    [
+                        34.97981503835912,
+                        0.6191164765098451
+                    ],
+                    [
+                        34.98010863971859,
+                        0.6188209109589188
+                    ],
+                    [
+                        34.91723562539377,
+                        0.5912216656335594
+                    ],
+                    [
+                        34.88133814924808,
+                        0.6046082660221695
+                    ],
+                    [
+                        34.84232492844895,
+                        0.6066980453416138
+                    ],
+                    [
+                        34.82102384636207,
+                        0.5790946382555793
+                    ],
+                    [
+                        34.800127662549,
+                        0.5824081585804596
+                    ],
+                    [
+                        34.79836604643368,
+                        0.5838867482959241
+                    ],
+                    [
+                        34.79572307970597,
+                        0.5859573977935665
+                    ],
+                    [
+                        34.79425381905542,
+                        0.5868460126725447
+                    ],
+                    [
+                        34.76924752967582,
+                        0.5942964650448406
+                    ],
+                    [
+                        34.75928571048505,
+                        0.6090559396199585
+                    ],
+                    [
+                        34.73065953519047,
+                        0.6032679767205253
+                    ],
+                    [
+                        34.69185621573632,
+                        0.623134697690963
+                    ],
+                    [
+                        34.63259399143934,
+                        0.603320946278022
+                    ],
+                    [
+                        34.61177222146432,
+                        0.5913205767404369
+                    ],
+                    [
+                        34.51577547533808,
+                        0.5940151795434174
+                    ],
+                    [
+                        34.37806823972293,
+                        0.608926150614236
+                    ],
+                    [
+                        34.34627906168051,
+                        0.6134536166840671
+                    ],
+                    [
+                        34.34569319058417,
+                        0.6143390443573974
+                    ],
+                    [
+                        34.33307478563199,
+                        0.627045056105492
+                    ],
+                    [
+                        34.27736084693896,
+                        0.6360776968116725
+                    ],
+                    [
+                        34.21821673048721,
+                        0.652770101519637
+                    ],
+                    [
+                        34.19554504008055,
+                        0.666134131433379
+                    ],
+                    [
+                        34.19496100845055,
+                        0.6676087013549588
+                    ],
+                    [
+                        34.19467056283449,
+                        0.66878776394112
+                    ],
+                    [
+                        34.180020141576904,
+                        0.6948478308939874
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "ec3ebd1b-2ca6-4126-847b-5915bd3de842",
+                "name": "Eldoret - UETCL Tororo ",
+                "start": {
+                    "name": "Eldoret",
+                    "id": "13494058-d5d7-4387-b079-b7bed603d906",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            35.26987903839315,
+                            0.5152872087917115
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "UETCL Tororo ",
+                    "id": "3f8bc6a1-ecec-43a5-be90-6883dba102d0",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            34.17997117680056,
+                            0.6949349290959831
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        34.76877441660709,
+                        -0.09109583385201026
+                    ],
+                    [
+                        34.74281375345001,
+                        -0.03151152810661744
+                    ],
+                    [
+                        34.63269467846482,
+                        0.001849488849699649
+                    ],
+                    [
+                        34.57087821400849,
+                        0.04219442511270748
+                    ],
+                    [
+                        34.56460169273287,
+                        0.08370677657262506
+                    ],
+                    [
+                        34.40765187062163,
+                        0.1420337062535141
+                    ],
+                    [
+                        34.25493299291867,
+                        0.2262432017261886
+                    ],
+                    [
+                        34.19280475176497,
+                        0.3422533643233735
+                    ],
+                    [
+                        34.14090604053012,
+                        0.3940982809439904
+                    ],
+                    [
+                        34.14550259137921,
+                        0.4429536284835438
+                    ],
+                    [
+                        34.09486274013612,
+                        0.46898578286268366
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "8d4438de-e753-40b3-9382-224ff4681545",
+                "name": "Kisumu - Malabo POP",
+                "start": {
+                    "name": "Kisumu",
+                    "id": "7e89f869-8b1a-427e-8610-efaa37b3e107",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            34.76881433058472,
+                            -0.09118744347816157
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "Malabo POP",
+                    "id": "3c8c56fe-c8c3-4f3d-86b0-da76fb8f5fe2",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            34.09477386195228,
+                            0.46903147198984235
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        39.053301293560594,
+                        3.516301238244139
+                    ],
+                    [
+                        39.05053812607089,
+                        3.516802848176475
+                    ],
+                    [
+                        39.06840017263026,
+                        3.48458862494948
+                    ],
+                    [
+                        39.0699691064583,
+                        3.484579279174777
+                    ],
+                    [
+                        39.09186054174338,
+                        3.471921111665052
+                    ],
+                    [
+                        39.06836764519657,
+                        3.344444637006525
+                    ],
+                    [
+                        39.0542400828405,
+                        3.342959789251926
+                    ],
+                    [
+                        39.05426329850567,
+                        3.346874479257419
+                    ],
+                    [
+                        38.98887037928467,
+                        3.434945197144921
+                    ],
+                    [
+                        38.89405476750424,
+                        3.469964523604715
+                    ],
+                    [
+                        38.73749772167729,
+                        3.506894190868256
+                    ],
+                    [
+                        38.73356714117054,
+                        3.506913717842999
+                    ],
+                    [
+                        38.7241346714795,
+                        3.506960620925706
+                    ],
+                    [
+                        38.5781071848111,
+                        3.514743294453334
+                    ],
+                    [
+                        38.5757484707234,
+                        3.513972018819625
+                    ],
+                    [
+                        38.51814506715251,
+                        3.453972410147135
+                    ],
+                    [
+                        38.46029668210922,
+                        3.340757072736655
+                    ],
+                    [
+                        38.37937063178957,
+                        3.311421090719481
+                    ],
+                    [
+                        38.1989164122573,
+                        2.993177720407852
+                    ],
+                    [
+                        38.143383955221,
+                        2.918081856439658
+                    ],
+                    [
+                        38.09408942565123,
+                        2.784291687259049
+                    ],
+                    [
+                        38.07781683380051,
+                        2.66222172762961
+                    ],
+                    [
+                        38.05633869524124,
+                        2.59256700681439
+                    ],
+                    [
+                        38.05711469103721,
+                        2.59099597030454
+                    ],
+                    [
+                        38.05788266027193,
+                        2.587857549620106
+                    ],
+                    [
+                        38.06015805147941,
+                        2.416322146461399
+                    ],
+                    [
+                        38.0050093548118,
+                        2.354741069224608
+                    ],
+                    [
+                        37.99055014724552,
+                        2.332234202260367
+                    ],
+                    [
+                        37.989580624619904,
+                        2.3319678931825165
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "a7467b2c-9825-4e2c-b160-c967853534f9",
+                "name": "Moyale - Marsabit",
+                "start": {
+                    "name": "Moyale",
+                    "id": "4c08160e-5fc3-4e9d-91e4-b123b94a4b53",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            39.05339961828384,
+                            3.5162833889252103
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "Marsabit",
+                    "id": "32255f51-2a83-45c8-9922-49e9754f640c",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            37.98948428769143,
+                            2.3319414312950824
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.98938795076296,
+                        2.331914969407648
+                    ],
+                    [
+                        37.98616608273298,
+                        2.331029984693162
+                    ],
+                    [
+                        37.98581837592513,
+                        2.331556627339165
+                    ],
+                    [
+                        37.97496939949561,
+                        2.338435448143303
+                    ],
+                    [
+                        37.94969447342594,
+                        2.327004086140545
+                    ],
+                    [
+                        37.94648878031809,
+                        2.315820278936759
+                    ],
+                    [
+                        37.9384050635235,
+                        2.3098543836635
+                    ],
+                    [
+                        37.93770533996712,
+                        2.310032776865532
+                    ],
+                    [
+                        37.92927966937364,
+                        2.306046614977919
+                    ],
+                    [
+                        37.91571494330399,
+                        2.289133265525599
+                    ],
+                    [
+                        37.90253035933603,
+                        2.278521131623569
+                    ],
+                    [
+                        37.90287820340748,
+                        2.277994432508983
+                    ],
+                    [
+                        37.8931773069849,
+                        2.263341293545576
+                    ],
+                    [
+                        37.88989177775472,
+                        2.2348095611746
+                    ],
+                    [
+                        37.8862740219814,
+                        2.210538922122141
+                    ],
+                    [
+                        37.87422153196363,
+                        2.179617620469599
+                    ],
+                    [
+                        37.87984118734861,
+                        2.145820084716949
+                    ],
+                    [
+                        37.89307022881247,
+                        2.092322234741375
+                    ],
+                    [
+                        37.89630156130033,
+                        2.07218529735096
+                    ],
+                    [
+                        37.91349528485876,
+                        2.042538356050078
+                    ],
+                    [
+                        37.9151583138519,
+                        2.024157242482437
+                    ],
+                    [
+                        37.91565022378988,
+                        2.017155941087283
+                    ],
+                    [
+                        37.91246219125342,
+                        2.009472263361684
+                    ],
+                    [
+                        37.91639390534212,
+                        1.989200414449929
+                    ],
+                    [
+                        37.90964307311894,
+                        1.968759259101352
+                    ],
+                    [
+                        37.90427981110846,
+                        1.945338576967853
+                    ],
+                    [
+                        37.86112319867991,
+                        1.836816679594328
+                    ],
+                    [
+                        37.86111951252786,
+                        1.836036448931815
+                    ],
+                    [
+                        37.83250174652102,
+                        1.724620075350858
+                    ],
+                    [
+                        37.79518255313551,
+                        1.588703344143232
+                    ],
+                    [
+                        37.73147051265978,
+                        1.480567609255984
+                    ],
+                    [
+                        37.71443761208614,
+                        1.343868462582434
+                    ],
+                    [
+                        37.70422333321259,
+                        1.329093742547774
+                    ],
+                    [
+                        37.68306794662377,
+                        1.312030464317552
+                    ],
+                    [
+                        37.67094836659098,
+                        1.229919519440814
+                    ],
+                    [
+                        37.64824134487051,
+                        1.215984153924295
+                    ],
+                    [
+                        37.58481417325032,
+                        1.181958931804314
+                    ],
+                    [
+                        37.57926396569673,
+                        1.163252630482909
+                    ],
+                    [
+                        37.59949744222767,
+                        1.14364101449709
+                    ],
+                    [
+                        37.59236835649957,
+                        1.121823098753515
+                    ],
+                    [
+                        37.58668410373065,
+                        1.103972151714388
+                    ],
+                    [
+                        37.57096867197328,
+                        1.082178024597704
+                    ],
+                    [
+                        37.56454737400497,
+                        1.036898027072406
+                    ],
+                    [
+                        37.5760376920793,
+                        0.976704799445051
+                    ],
+                    [
+                        37.57255877228478,
+                        0.9387001351743661
+                    ],
+                    [
+                        37.55756922127016,
+                        0.8996858892909106
+                    ],
+                    [
+                        37.56068715095913,
+                        0.8965400022938241
+                    ],
+                    [
+                        37.56146394604227,
+                        0.8949717602329124
+                    ],
+                    [
+                        37.56990016093138,
+                        0.8480277880487436
+                    ],
+                    [
+                        37.55252709588419,
+                        0.8020319742590759
+                    ],
+                    [
+                        37.58418094451181,
+                        0.7475094878590532
+                    ],
+                    [
+                        37.64328745771662,
+                        0.6666529924232485
+                    ],
+                    [
+                        37.64406555061253,
+                        0.6658675099531027
+                    ],
+                    [
+                        37.67124974023084,
+                        0.6282318177078569
+                    ],
+                    [
+                        37.67202090451547,
+                        0.6258851784490583
+                    ],
+                    [
+                        37.6795877231807,
+                        0.5688576070206506
+                    ],
+                    [
+                        37.64568957655518,
+                        0.5105525353973964
+                    ],
+                    [
+                        37.60322550336197,
+                        0.4404921999774312
+                    ],
+                    [
+                        37.58314335099915,
+                        0.3557085584588343
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "2fec1822-5afd-468c-a6a9-210e7304b2cc",
+                "name": "Marsabit - Isiolo",
+                "start": {
+                    "name": "Marsabit",
+                    "id": "32255f51-2a83-45c8-9922-49e9754f640c",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            37.98948428769143,
+                            2.3319414312950824
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "Isiolo",
+                    "id": "24936514-d919-44e1-b960-f60739dacdc5",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            37.58314335099915,
+                            0.3557085584588343
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.4846018263487,
+                        -0.8748881876254639
+                    ],
+                    [
+                        36.4832161915541,
+                        -0.873235807878025
+                    ],
+                    [
+                        36.43821481226454,
+                        -0.7431052356667062
+                    ],
+                    [
+                        36.43821812474953,
+                        -0.7421864460615689
+                    ],
+                    [
+                        36.43318409546993,
+                        -0.7194299546901073
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "d6364902-b822-4191-b61b-e0cbfc2e809c",
+                "name": "fork - Naivasha",
+                "start": {
+                    "name": "fork",
+                    "id": "4113214d-d29c-46aa-96ce-0cb51fcf4375",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.4846018263487,
+                            -0.8748881876254639
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "Naivasha",
+                    "id": "8deca90f-2cea-43e3-8d07-f6db2f73856b",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.43316251406707,
+                            -0.7193323952638951
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.47459008010525,
+                        0.1422484041501622
+                    ],
+                    [
+                        37.47761247733371,
+                        0.1405795794934609
+                    ],
+                    [
+                        37.61663446032637,
+                        0.1008841791393848
+                    ],
+                    [
+                        37.64611897576127,
+                        0.05048035623250865
+                    ],
+                    [
+                        37.653118419094625,
+                        0.045575523474465
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "9aca4004-75e2-4598-b0ae-8ebb1bdf846b",
+                "name": "fork - Meru",
+                "start": {
+                    "name": "fork",
+                    "id": "b73a3227-aaa0-4bbc-9e81-34bba454f562",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            37.47459008010525,
+                            0.1422484041501622
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "Meru",
+                    "id": "6cdb9f99-ce86-445c-8c81-3a516e5a2e39",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            37.653200244548685,
+                            0.04551818460501555
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.58310267030961,
+                        0.35561731146041464
+                    ],
+                    [
+                        37.54410749806804,
+                        0.2681509371313299
+                    ],
+                    [
+                        37.47459008010525,
+                        0.1422484041501622
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "30e6e776-9558-4f81-a409-57f8bebb7a56",
+                "name": "Isiolo - fork",
+                "start": {
+                    "name": "Isiolo",
+                    "id": "24936514-d919-44e1-b960-f60739dacdc5",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            37.58314335099915,
+                            0.3557085584588343
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "fork",
+                    "id": "b73a3227-aaa0-4bbc-9e81-34bba454f562",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            37.47459008010525,
+                            0.1422484041501622
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.47459008010525,
+                        0.1422484041501622
+                    ],
+                    [
+                        37.46697486055818,
+                        0.1284565307135355
+                    ],
+                    [
+                        37.27472254514971,
+                        0.08978271532341345
+                    ],
+                    [
+                        37.26759288972143,
+                        0.08861405712263826
+                    ],
+                    [
+                        37.26521636896937,
+                        0.0886196628289628
+                    ],
+                    [
+                        37.2176593038913,
+                        0.07450510319815645
+                    ],
+                    [
+                        37.07028660820398,
+                        0.003271823552880838
+                    ],
+                    [
+                        37.02275445593504,
+                        -0.1363832579464352
+                    ],
+                    [
+                        37.00111353683594,
+                        -0.316531788881727
+                    ],
+                    [
+                        37.01993213959521,
+                        -0.4303013964292458
+                    ],
+                    [
+                        37.02821679772808,
+                        -0.4326843944772495
+                    ],
+                    [
+                        37.1382182745549,
+                        -0.4920582246682058
+                    ],
+                    [
+                        37.1429506649769,
+                        -0.4932490188855325
+                    ],
+                    [
+                        37.1500483386396,
+                        -0.4956269793321337
+                    ],
+                    [
+                        37.19965119152415,
+                        -0.5921488503421936
+                    ],
+                    [
+                        37.19717989731247,
+                        -0.653807769804046
+                    ],
+                    [
+                        37.20309877765322,
+                        -0.655000789269145
+                    ],
+                    [
+                        37.24567600399688,
+                        -0.6858681840646783
+                    ],
+                    [
+                        37.25395905040492,
+                        -0.6894327650713591
+                    ],
+                    [
+                        37.27515595533416,
+                        -0.7558008545608693
+                    ],
+                    [
+                        37.27751377573198,
+                        -0.7617255597971659
+                    ],
+                    [
+                        37.25251942290017,
+                        -0.8398437360801652
+                    ],
+                    [
+                        37.18965406749204,
+                        -0.9237925310989692
+                    ],
+                    [
+                        37.07592842830758,
+                        -0.9922611687984503
+                    ],
+                    [
+                        37.00705676314938,
+                        -1.120897421708394
+                    ],
+                    [
+                        37.00113610818592,
+                        -1.120886999965883
+                    ],
+                    [
+                        36.99521528683677,
+                        -1.120876510348784
+                    ],
+                    [
+                        36.94183628002918,
+                        -1.175540410629319
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "219859f9-19b1-41c4-823a-2b70e1f8e8b5",
+                "name": "fork - BCS Citadel Building",
+                "start": {
+                    "name": "fork",
+                    "id": "993613e9-5e03-4a6b-b2b3-96479cf77279",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.94183628002918,
+                            -1.175540410629319
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "BCS Citadel Building",
+                    "id": "83197c88-2a0c-4bd2-a997-c80c57121094",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.826744888642736,
+                            -1.2725901161665718
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.653282070002746,
+                        0.04546084573556306
+                    ],
+                    [
+                        37.71498375462367,
+                        0.002223629639674285
+                    ],
+                    [
+                        37.7160762396972,
+                        0.001127806497944164
+                    ],
+                    [
+                        37.79480752787305,
+                        -0.02743355397984577
+                    ],
+                    [
+                        37.80018628470787,
+                        -0.08870971101178593
+                    ],
+                    [
+                        37.79319114242256,
+                        -0.4090575148881265
+                    ],
+                    [
+                        37.78871768358955,
+                        -0.4660201333861612
+                    ],
+                    [
+                        37.73614713823057,
+                        -0.4900415293995515
+                    ],
+                    [
+                        37.68122530709242,
+                        -0.6355282733614056
+                    ],
+                    [
+                        37.62961814104278,
+                        -0.7579872650329048
+                    ],
+                    [
+                        37.62947425268656,
+                        -0.8488074004148856
+                    ],
+                    [
+                        37.51547231754638,
+                        -0.9274930844002607
+                    ],
+                    [
+                        37.40913277070506,
+                        -0.9482155952329703
+                    ],
+                    [
+                        37.40475757799975,
+                        -0.9438299589081657
+                    ],
+                    [
+                        37.39709529131927,
+                        -0.9383464521084618
+                    ],
+                    [
+                        37.31710581906098,
+                        -0.8999437498554624
+                    ],
+                    [
+                        37.27828705387726,
+                        -0.9744063189881699
+                    ],
+                    [
+                        37.21796574678648,
+                        -1.054187843911278
+                    ],
+                    [
+                        37.21619651659092,
+                        -1.0551922953407888
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "ffea6676-1ff7-4257-9832-21a0934a11c2",
+                "name": "Meru - fork",
+                "start": {
+                    "name": "Meru",
+                    "id": "6cdb9f99-ce86-445c-8c81-3a516e5a2e39",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            37.653200244548685,
+                            0.04551818460501555
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "fork",
+                    "id": "4590a6ad-1801-4765-926b-43c8a028657a",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            37.21619651659092,
+                            -1.0551922953407888
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.21619651659092,
+                        -1.0551922953407888
+                    ],
+                    [
+                        37.03921929210376,
+                        -1.155668212252273
+                    ],
+                    [
+                        36.9963784077903,
+                        -1.18735654725876
+                    ],
+                    [
+                        36.94151791661048,
+                        -1.175229530450504
+                    ],
+                    [
+                        36.94183628002918,
+                        -1.175540410629319
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "470282d7-5cea-4546-9349-d6d9b63dab93",
+                "name": "fork - fork",
+                "start": {
+                    "name": "fork",
+                    "id": "4590a6ad-1801-4765-926b-43c8a028657a",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            37.21619651659092,
+                            -1.0551922953407888
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "fork",
+                    "id": "993613e9-5e03-4a6b-b2b3-96479cf77279",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.94183628002918,
+                            -1.175540410629319
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        39.528231162457004,
+                        -0.4931413031053513
+                    ],
+                    [
+                        39.52994545955791,
+                        -0.4982350399659184
+                    ],
+                    [
+                        39.74581261260185,
+                        -0.9331131484989739
+                    ],
+                    [
+                        39.78910174299556,
+                        -1.028754890008053
+                    ],
+                    [
+                        39.83052225512919,
+                        -1.217033548596735
+                    ],
+                    [
+                        39.83927123417067,
+                        -1.222512258586962
+                    ],
+                    [
+                        39.86223714565968,
+                        -1.236756649295826
+                    ],
+                    [
+                        39.91247629373355,
+                        -1.34292894863625
+                    ],
+                    [
+                        40.00316786860633,
+                        -1.515672492682858
+                    ],
+                    [
+                        40.00207078326364,
+                        -1.517860282921926
+                    ],
+                    [
+                        39.99878187238929,
+                        -1.522234947209456
+                    ],
+                    [
+                        39.99439383370343,
+                        -1.530985629974004
+                    ],
+                    [
+                        39.97792397687044,
+                        -1.581303526710783
+                    ],
+                    [
+                        40.0357942024218,
+                        -1.795848818183265
+                    ],
+                    [
+                        40.09865406628322,
+                        -2.014319664836007
+                    ],
+                    [
+                        40.05258697799691,
+                        -2.099677652715555
+                    ],
+                    [
+                        40.07459817000703,
+                        -2.265090723551013
+                    ],
+                    [
+                        40.09872954293612,
+                        -2.293646493941194
+                    ],
+                    [
+                        40.12284691493516,
+                        -2.341912053015845
+                    ],
+                    [
+                        40.11493134654151,
+                        -2.532914099086077
+                    ],
+                    [
+                        40.1368605762414,
+                        -2.60970288551324
+                    ],
+                    [
+                        40.14770871064589,
+                        -2.8571666600822
+                    ],
+                    [
+                        40.14214390370063,
+                        -2.956737621589892
+                    ],
+                    [
+                        40.13759971679262,
+                        -3.082976966021366
+                    ],
+                    [
+                        40.15293802400286,
+                        -3.113657402568296
+                    ],
+                    [
+                        40.10575865288592,
+                        -3.165052200538487
+                    ],
+                    [
+                        40.11779278551334,
+                        -3.213226785108934
+                    ],
+                    [
+                        40.04314661607368,
+                        -3.278813575346637
+                    ],
+                    [
+                        40.01678495034646,
+                        -3.300678144527375
+                    ],
+                    [
+                        39.95417118487963,
+                        -3.320321773318875
+                    ],
+                    [
+                        39.92768386977307,
+                        -3.377471546232653
+                    ],
+                    [
+                        39.89141892591116,
+                        -3.463873030676516
+                    ],
+                    [
+                        39.84619918367634,
+                        -3.619068841329023
+                    ],
+                    [
+                        39.84837546287633,
+                        -3.646459661185499
+                    ],
+                    [
+                        39.81322872723199,
+                        -3.691301258253611
+                    ],
+                    [
+                        39.81652095637467,
+                        -3.691307011568904
+                    ],
+                    [
+                        39.82730297814859,
+                        -3.710400154255567
+                    ],
+                    [
+                        39.82069169537991,
+                        -3.782801945365863
+                    ],
+                    [
+                        39.78001843481711,
+                        -3.879178359055678
+                    ],
+                    [
+                        39.72629226029672,
+                        -4.000250745450239
+                    ],
+                    [
+                        39.68566335519564,
+                        -4.007848326879377
+                    ],
+                    [
+                        39.68373901553967,
+                        -4.012588418644747
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "0a153c8f-90cf-43e5-9923-0da783ef29c8",
+                "name": "fork - Makonde KPLC Substation",
+                "start": {
+                    "name": "fork",
+                    "id": "41c037ad-3c3b-45d6-903b-2263f2792ef5",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            39.528231162457004,
+                            -0.4931413031053513
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "Makonde KPLC Substation",
+                    "id": "6a41791d-fbed-42fe-b95d-5c005bd8fad1",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            39.68370141212579,
+                            -4.012681044513529
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        39.528231162457004,
+                        -0.4931413031053513
+                    ],
+                    [
+                        39.6365894715061,
+                        -0.4566733150355427
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "e872bd2a-d787-49b7-ba4c-dcb2584af761",
+                "name": "fork - fork",
+                "start": {
+                    "name": "fork",
+                    "id": "4590a6ad-1801-4765-926b-43c8a028657a",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            37.21619651659092,
+                            -1.0551922953407888
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "fork",
+                    "id": "41c037ad-3c3b-45d6-903b-2263f2792ef5",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            39.528231162457004,
+                            -0.4931413031053513
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        37.21619651659092,
+                        -1.0551922953407888
+                    ],
+                    [
+                        37.21686768639879,
+                        -1.056374486789334
+                    ],
+                    [
+                        37.3382982767072,
+                        -1.093780824319119
+                    ],
+                    [
+                        37.34485692089869,
+                        -1.098167566850415
+                    ],
+                    [
+                        37.43556145055543,
+                        -1.172704723308155
+                    ],
+                    [
+                        37.47718412494033,
+                        -1.147607177853137
+                    ],
+                    [
+                        37.58667260402261,
+                        -1.130270251333555
+                    ],
+                    [
+                        37.58995914193123,
+                        -1.12918097892548
+                    ],
+                    [
+                        37.59543576488458,
+                        -1.128094992520787
+                    ],
+                    [
+                        37.67873384389171,
+                        -1.096477978919229
+                    ],
+                    [
+                        37.74338643127586,
+                        -1.110797874517356
+                    ],
+                    [
+                        37.93446192385204,
+                        -1.006662104380958
+                    ],
+                    [
+                        37.94103126402279,
+                        -1.004481836975503
+                    ],
+                    [
+                        37.95088344388355,
+                        -1.002305990936473
+                    ],
+                    [
+                        38.07352683990882,
+                        -0.9390100956573665
+                    ],
+                    [
+                        38.07900404023337,
+                        -0.934641270760974
+                    ],
+                    [
+                        38.24662668498426,
+                        -0.8385758023482345
+                    ],
+                    [
+                        38.35192784731696,
+                        -0.78067207964925
+                    ],
+                    [
+                        38.35631638396958,
+                        -0.779581123263823
+                    ],
+                    [
+                        38.43753800645923,
+                        -0.7686967172825833
+                    ],
+                    [
+                        38.44302432611106,
+                        -0.7708917873103737
+                    ],
+                    [
+                        38.44851310846126,
+                        -0.7719914220243982
+                    ],
+                    [
+                        38.53856974538131,
+                        -0.8093185616950744
+                    ],
+                    [
+                        38.65539366289214,
+                        -0.7907758006809813
+                    ],
+                    [
+                        38.66526915863045,
+                        -0.7907780558244578
+                    ],
+                    [
+                        38.82316958290462,
+                        -0.7645620899204113
+                    ],
+                    [
+                        38.89439127102363,
+                        -0.7350572643104689
+                    ],
+                    [
+                        39.02246530971239,
+                        -0.7154858199153982
+                    ],
+                    [
+                        39.10018950107565,
+                        -0.6849360185831198
+                    ],
+                    [
+                        39.10785033818067,
+                        -0.6838511898074785
+                    ],
+                    [
+                        39.12645293703742,
+                        -0.6838744798024774
+                    ],
+                    [
+                        39.27098782952661,
+                        -0.638100251627596
+                    ],
+                    [
+                        39.49039782401555,
+                        -0.5058741128643028
+                    ],
+                    [
+                        39.528231162457004,
+                        -0.4931413031053513
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "ab66ce76-3db4-4583-8ccb-f957e4006242",
+                "name": "fork - Garissa",
+                "start": {
+                    "name": "fork",
+                    "id": "41c037ad-3c3b-45d6-903b-2263f2792ef5",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            39.528231162457004,
+                            -0.4931413031053513
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "Garissa",
+                    "id": "1cea3618-6218-4167-b20d-3f809a164835",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            39.63668415085094,
+                            -0.4566414507027723
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.90674984444809,
+                        -1.210886110914483
+                    ],
+                    [
+                        36.90502553535765,
+                        -1.208816827438916
+                    ],
+                    [
+                        36.90472234416914,
+                        -1.207896995739279
+                    ],
+                    [
+                        36.82860207002246,
+                        -1.14971488787119
+                    ],
+                    [
+                        36.72258765447837,
+                        -1.108195184025332
+                    ],
+                    [
+                        36.64102368257596,
+                        -1.042666853998623
+                    ],
+                    [
+                        36.64041180415404,
+                        -1.042358212567329
+                    ],
+                    [
+                        36.55279182712532,
+                        -0.9562052682156978
+                    ],
+                    [
+                        36.4846018263487,
+                        -0.8748881876254639
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "07b637fd-7129-40f0-99b2-f20a8ec62a49",
+                "name": "fork - fork",
+                "start": {
+                    "name": "fork",
+                    "id": "cb4f9a53-82a0-40d4-95f7-04c11bfe5eed",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.90674984444809,
+                            -1.210886110914483
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "fork",
+                    "id": "4113214d-d29c-46aa-96ce-0cb51fcf4375",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.4846018263487,
+                            -0.8748881876254639
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.90674984444809,
+                        -1.210886110914483
+                    ],
+                    [
+                        36.85511066034407,
+                        -1.253916423399427
+                    ],
+                    [
+                        36.82718107637994,
+                        -1.27100421578028
+                    ],
+                    [
+                        36.82677138301639,
+                        -1.2724937873754791
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "baf98013-2f1e-4ac0-b1c2-d16115549367",
+                "name": "fork - fork",
+                "start": {
+                    "name": "fork",
+                    "id": "b73a3227-aaa0-4bbc-9e81-34bba454f562",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            37.47459008010525,
+                            0.1422484041501622
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "fork",
+                    "id": "cb4f9a53-82a0-40d4-95f7-04c11bfe5eed",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.90674984444809,
+                            -1.210886110914483
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.94183628002918,
+                        -1.175540410629319
+                    ],
+                    [
+                        36.90981775578222,
+                        -1.208329657212239
+                    ],
+                    [
+                        36.90674984444809,
+                        -1.210886110914483
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "b4ecd9ad-72ca-48a6-b919-4f92c1935b9b",
+                "name": "fork - fork",
+                "start": {
+                    "name": "fork",
+                    "id": "cb4f9a53-82a0-40d4-95f7-04c11bfe5eed",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.90674984444809,
+                            -1.210886110914483
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "fork",
+                    "id": "993613e9-5e03-4a6b-b2b3-96479cf77279",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.94183628002918,
+                            -1.175540410629319
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        35.68282116594174,
+                        -0.14104557997590197
+                    ],
+                    [
+                        35.68006625372046,
+                        -0.1429814703696606
+                    ],
+                    [
+                        35.66812710041367,
+                        -0.1407661578358415
+                    ],
+                    [
+                        35.56066772354308,
+                        -0.1457613737247348
+                    ],
+                    [
+                        35.5574140408438,
+                        -0.145748592689541
+                    ],
+                    [
+                        35.48253122785964,
+                        -0.1660384471629504
+                    ],
+                    [
+                        35.39022950754217,
+                        -0.2209210460605374
+                    ],
+                    [
+                        35.38373756583895,
+                        -0.2187287660290833
+                    ],
+                    [
+                        35.38157495844243,
+                        -0.2176369400708469
+                    ],
+                    [
+                        35.37399610378386,
+                        -0.2165238112297695
+                    ],
+                    [
+                        35.3675046804681,
+                        -0.2143317802359702
+                    ],
+                    [
+                        35.35668471322293,
+                        -0.2110397093559769
+                    ],
+                    [
+                        35.26469773691573,
+                        -0.1911890153398809
+                    ],
+                    [
+                        35.2603739735825,
+                        -0.1890064066666007
+                    ],
+                    [
+                        35.25172234351674,
+                        -0.1857243462480114
+                    ],
+                    [
+                        35.24631559513224,
+                        -0.183537724522646
+                    ],
+                    [
+                        35.18690641273061,
+                        -0.1421578610060454
+                    ],
+                    [
+                        35.18366958871007,
+                        -0.1388965604436811
+                    ],
+                    [
+                        35.10159548814667,
+                        -0.0714331194309116
+                    ],
+                    [
+                        35.09835303537827,
+                        -0.06925422023906229
+                    ],
+                    [
+                        34.91408240840234,
+                        -0.0490242760540191
+                    ],
+                    [
+                        34.81196151572655,
+                        -0.05403046740714448
+                    ],
+                    [
+                        34.76889003841903,
+                        -0.09112224631226133
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "591ec9fa-49b9-4204-8b29-9492bc7b042f",
+                "name": "fork - Kisumu",
+                "start": {
+                    "name": "fork",
+                    "id": "f2c4540f-0df4-4e70-9c32-77ff4968885d",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            35.68282116594174,
+                            -0.14104557997590197
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "Kisumu",
+                    "id": "7e89f869-8b1a-427e-8610-efaa37b3e107",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            34.76881433058472,
+                            -0.09118744347816157
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.07934983340641,
+                        -0.3001586026108048
+                    ],
+                    [
+                        36.03999961066699,
+                        -0.281987206357733
+                    ],
+                    [
+                        35.98146099263899,
+                        -0.2541740405405524
+                    ],
+                    [
+                        35.8798811764077,
+                        -0.2206996158132044
+                    ],
+                    [
+                        35.87651715971787,
+                        -0.219462102185101
+                    ],
+                    [
+                        35.87529336881389,
+                        -0.2191513106068445
+                    ],
+                    [
+                        35.82544321794303,
+                        -0.2008995326121758
+                    ],
+                    [
+                        35.777912159828,
+                        -0.2135918748933651
+                    ],
+                    [
+                        35.76376904759846,
+                        -0.2254890639806229
+                    ],
+                    [
+                        35.73284169720961,
+                        -0.2168037504709408
+                    ],
+                    [
+                        35.71363267265613,
+                        -0.1842588493824708
+                    ],
+                    [
+                        35.71210715538553,
+                        -0.182721663751645
+                    ],
+                    [
+                        35.68282116594174,
+                        -0.14104557997590197
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "30857448-857c-46bd-b3f6-64c0c26d0109",
+                "name": "Nakuru - fork",
+                "start": {
+                    "name": "Nakuru",
+                    "id": "38ff9327-4ac6-4bbb-ae2c-5da2217079ff",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.07944051523846,
+                            -0.3002004782442425
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "fork",
+                    "id": "f2c4540f-0df4-4e70-9c32-77ff4968885d",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            35.68282116594174,
+                            -0.14104557997590197
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        35.68282116594174,
+                        -0.14104557997590197
+                    ],
+                    [
+                        35.68103565698448,
+                        -0.1385046714288965
+                    ],
+                    [
+                        35.67050264800984,
+                        -0.08824201790521774
+                    ],
+                    [
+                        35.63446582608616,
+                        -0.04033569639038928
+                    ],
+                    [
+                        35.63324627658945,
+                        -0.03879946614962808
+                    ],
+                    [
+                        35.59018472233421,
+                        -0.006479331630179151
+                    ],
+                    [
+                        35.53750977416993,
+                        -0.006286248434896703
+                    ],
+                    [
+                        35.53668200450228,
+                        0.01791081840615587
+                    ],
+                    [
+                        35.53474601158828,
+                        0.07317337663049683
+                    ],
+                    [
+                        35.47863398486837,
+                        0.111478019810147
+                    ],
+                    [
+                        35.45579702646237,
+                        0.1959974996204335
+                    ],
+                    [
+                        35.41379575270496,
+                        0.2469933743163907
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "646fb530-4035-4a85-91da-e57fa35d3e96",
+                "name": "fork - Lessos KPLC Substation",
+                "start": {
+                    "name": "fork",
+                    "id": "f2c4540f-0df4-4e70-9c32-77ff4968885d",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            35.68282116594174,
+                            -0.14104557997590197
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "Lessos KPLC Substation",
+                    "id": "fae4f5b7-bbe5-47f5-bad3-888e1055549a",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            35.41373218315137,
+                            0.24707055733250693
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        40.86884366823956,
+                        3.2058989408010765
+                    ],
+                    [
+                        40.86431021050637,
+                        3.205036822761922
+                    ],
+                    [
+                        40.85830614726044,
+                        3.211118341812889
+                    ],
+                    [
+                        40.84828433440904,
+                        3.2192416738545
+                    ],
+                    [
+                        40.83021240486204,
+                        3.229436147490234
+                    ],
+                    [
+                        40.8211774380408,
+                        3.234533070635213
+                    ],
+                    [
+                        40.79117897807269,
+                        3.265941508147823
+                    ],
+                    [
+                        40.42667087421993,
+                        3.297802638344227
+                    ],
+                    [
+                        40.34304939449152,
+                        3.306485623002096
+                    ],
+                    [
+                        40.23446870831329,
+                        3.401136936980945
+                    ],
+                    [
+                        39.99071693744472,
+                        3.416896114286295
+                    ],
+                    [
+                        39.98769489265639,
+                        3.416916626326606
+                    ],
+                    [
+                        39.88493459089138,
+                        3.417610189996646
+                    ],
+                    [
+                        39.72388738765046,
+                        3.305994730312255
+                    ],
+                    [
+                        39.65810804659439,
+                        3.296395710038316
+                    ],
+                    [
+                        39.6571067521791,
+                        3.297408215141155
+                    ],
+                    [
+                        39.44806896801703,
+                        3.377184203571283
+                    ],
+                    [
+                        39.33877301770928,
+                        3.440701946411738
+                    ],
+                    [
+                        39.21967499723938,
+                        3.466465976539299
+                    ],
+                    [
+                        39.11244989457219,
+                        3.505468464467418
+                    ],
+                    [
+                        39.10853244361815,
+                        3.50627488495703
+                    ],
+                    [
+                        39.05349794300709,
+                        3.516265539606283
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "1a21a0f0-f63d-4e51-a70d-8dd89ec56e92",
+                "name": "fork - Moyale",
+                "start": {
+                    "name": "fork",
+                    "id": "b9267e0f-3c7c-4258-afce-9382f084fa58",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.86884366823956,
+                            3.2058989408010765
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "Moyale",
+                    "id": "4c08160e-5fc3-4e9d-91e4-b123b94a4b53",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            39.05339961828384,
+                            3.5162833889252103
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        41.21872812700671,
+                        3.9331053610039186
+                    ],
+                    [
+                        41.06119512633808,
+                        3.68994336105128
+                    ],
+                    [
+                        40.95524749990359,
+                        3.506240724101374
+                    ],
+                    [
+                        40.92542097389523,
+                        3.400816609453082
+                    ],
+                    [
+                        40.86772169646599,
+                        3.211798842418166
+                    ],
+                    [
+                        40.86884366823956,
+                        3.2058989408010765
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "da02e79f-d245-49c0-a1e7-c1e192765ef3",
+                "name": "Rhamu - fork",
+                "start": {
+                    "name": "Rhamu",
+                    "id": "9879592d-6819-4deb-a0be-ccb6a2846b73",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            41.218782466652925,
+                            3.9331892376328965
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "fork",
+                    "id": "b9267e0f-3c7c-4258-afce-9382f084fa58",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.86884366823956,
+                            3.2058989408010765
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        40.86884366823956,
+                        3.2058989408010765
+                    ],
+                    [
+                        40.91264290206292,
+                        2.975580160464139
+                    ],
+                    [
+                        40.93812623450084,
+                        2.762507185964414
+                    ],
+                    [
+                        40.86314520845627,
+                        2.609776280982258
+                    ],
+                    [
+                        40.69542208334655,
+                        2.485812427922432
+                    ],
+                    [
+                        40.51382578978505,
+                        2.349884907551616
+                    ],
+                    [
+                        40.50908219031443,
+                        2.347526440095175
+                    ],
+                    [
+                        40.40119239865695,
+                        2.318161351447798
+                    ],
+                    [
+                        40.32287615429125,
+                        2.273338250898918
+                    ],
+                    [
+                        40.11502015753853,
+                        2.208655522571401
+                    ],
+                    [
+                        40.12488029033961,
+                        1.950955975688525
+                    ],
+                    [
+                        40.05586445687744,
+                        1.757730822978975
+                    ],
+                    [
+                        40.052900329837605,
+                        1.7518305196921817
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "7f26ea58-3fb6-4b66-95c5-4dcf114cd7f0",
+                "name": "fork - Wajir",
+                "start": {
+                    "name": "fork",
+                    "id": "b9267e0f-3c7c-4258-afce-9382f084fa58",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.86884366823956,
+                            3.2058989408010765
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "Wajir",
+                    "id": "cdc8bb8e-7d47-453b-8a94-00eb5a6698bc",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            40.05285548065637,
+                            1.7517412442434985
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.82671839426908,
+                        -1.2726864449576651
+                    ],
+                    [
+                        36.82212687453896,
+                        -1.291883904923031
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "caf57960-df8f-4b2f-bd4e-0387fbe7ab3c",
+                "name": "BCS Citadel Building - Nairobi",
+                "start": {
+                    "name": "BCS Citadel Building",
+                    "id": "83197c88-2a0c-4bd2-a997-c80c57121094",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.826744888642736,
+                            -1.2725901161665718
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "Nairobi",
+                    "id": "cd8d6b11-055e-4c26-9572-3a0ed0db005b",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.82212687453896,
+                            -1.291883904923031
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        36.82212687453896,
+                        -1.291883904923031
+                    ],
+                    [
+                        36.7100363257041,
+                        -1.29090150162148
+                    ],
+                    [
+                        36.6029676294126,
+                        -1.288507750152957
+                    ],
+                    [
+                        36.59513368877383,
+                        -1.288477627861953
+                    ],
+                    [
+                        36.59121414804245,
+                        -1.28911584107987
+                    ],
+                    [
+                        36.48750367079739,
+                        -1.264571173336996
+                    ],
+                    [
+                        36.48060405487442,
+                        -1.197949056490533
+                    ],
+                    [
+                        36.47919932434664,
+                        -0.8794185595109557
+                    ],
+                    [
+                        36.4846018263487,
+                        -0.8748881876254639
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "c19543f1-ef42-4dc1-a879-9a874f2c8908",
+                "name": "Nairobi - fork",
+                "start": {
+                    "name": "Nairobi",
+                    "id": "cd8d6b11-055e-4c26-9572-3a0ed0db005b",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.82212687453896,
+                            -1.291883904923031
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "end": {
+                    "name": "fork",
+                    "id": "4113214d-d29c-46aa-96ce-0cb51fcf4375",
+                    "networkProviders": [
+                        {
+                            "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                            "name": "BCS"
+                        }
+                    ],
+                    "status": "operational",
+                    "location": {
+                        "type": "Point",
+                        "coordinates": [
+                            36.4846018263487,
+                            -0.8748881876254639
+                        ]
+                    },
+                    "transmissionMediumOwner": {
+                        "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                        "name": "BCS"
+                    }
+                },
+                "status": "operational",
+                "networkProviders": [
+                    {
+                        "id": "a8966f2e-6de5-436b-aee7-a8e11c203c25",
+                        "name": "BCS"
+                    }
+                ],
+                "transmissionMediumOwner": {
+                    "id": "2be8c3f4-ac60-44af-91d6-de4f41803e2c",
+                    "name": "BCS"
+                },
+                "network": {
+                    "id": "47a7bb79-0d9b-4a04-8fdb-a6d1ca75742c",
+                    "name": "BCS Kenya",
+                    "links": [
+                        {
+                            "rel": "describedby",
+                            "href": "https://standard.ofds.info/en/0__4__0/network-schema.json"
+                        }
+                    ]
+                },
+                "featureType": "span"
+            }
+        }
+    ]
+}
